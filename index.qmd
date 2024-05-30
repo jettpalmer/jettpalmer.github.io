@@ -1,11 +1,27 @@
 ---
-title: "jettpalmer.github.io"
+title: "Jett Palmer"
+about:
+  template: jolla
+  image: profile_smile.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
 ---
 
-This is a Quarto website.
+I'm currently located in San Luis Obispo, CA. Service is at the center of my work and my peers would say I am gritty, ambitious, and precise.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## 🎓 Education
 
-```{r}
-1 + 1
-```
+California Polytechnic State University \| San Luis Obispo, CA \| B.S. in Statistics \| Sept 2022 - June 2026
+
+## 📊 Experience
+
+Principle Investigator \| Pedagogy & Behavioral Research \| June 2023 - present
+
+Research Fellow \| User Experience in Nonprofit Sector \| July 2023 - present
+
+Research Assistant \| Pedagogy \| June 2023 - Sept 2023

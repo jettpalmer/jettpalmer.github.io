@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "jettpalmer.github.io",
+    "title": "Jett Palmer",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "California Polytechnic State University | San Luis Obispo, CA | B.S. in Statistics | Sept 2022 - June 2026"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jett Palmer",
+    "section": "",
+    "text": "California Polytechnic State University | San Luis Obispo, CA | B.S. in Statistics | Sept 2022 - June 2026"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Jett Palmer",
+    "section": "📊 Experience",
+    "text": "📊 Experience\nPrinciple Investigator | Pedagogy & Behavioral Research | June 2023 - present\nResearch Fellow | User Experience in Nonprofit Sector | July 2023 - present\nResearch Assistant | Pedagogy | June 2023 - Sept 2023"
   }
 ]
