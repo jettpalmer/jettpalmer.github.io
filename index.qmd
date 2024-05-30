@@ -4,8 +4,8 @@ about:
   template: jolla
   image: profile_smile.jpg
   links:
-    - icon: twitter
-      text: twitter
+    - icon: linkedin
+      text: LinkedIn
       href: https://twitter.com
     - icon: github
       text: Github
@@ -16,7 +16,9 @@ I'm currently located in San Luis Obispo, CA. Service is at the center of my wor
 
 ## 🎓 Education
 
-California Polytechnic State University \| San Luis Obispo, CA \| B.S. in Statistics \| Sept 2022 - June 2026
+California Polytechnic State University \| San Luis Obispo, CA \| B.S. in Statistics
+
+Sept 2022 - June 2026
 
 ## 📊 Experience
 
