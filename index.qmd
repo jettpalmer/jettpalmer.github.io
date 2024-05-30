@@ -6,10 +6,10 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://twitter.com
+      href: https://bit.ly/jett-palmer-linkedin.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/jettpalmer
 ---
 
 I'm currently located in San Luis Obispo, CA. Service is at the center of my work and my peers would say I am gritty, ambitious, and precise.
