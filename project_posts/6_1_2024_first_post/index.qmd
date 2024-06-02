@@ -1,0 +1,12 @@
+---
+title: "PLACEHOLDER TITLE"
+description: "PLACEHOLDER DESCRIPTION"
+author:
+  - name: Jett Palmer
+    url: https://bit.ly/jett-palmer-linkedin
+    affiliation: California Polytechnic State University San Luis Obispo
+date: 6-1-2024
+categories: [Data Visualization, R, Awards]
+image: preview-image.png
+draft: false
+---
