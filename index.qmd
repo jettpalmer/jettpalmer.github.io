@@ -6,7 +6,7 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://bit.ly/jett-palmer-linkedin.com
+      href: https://bit.ly/jett-palmer-linkedin
     - icon: github
       text: Github
       href: https://github.com/jettpalmer

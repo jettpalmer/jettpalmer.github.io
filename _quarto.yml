@@ -6,9 +6,9 @@ website:
   title: "Jett Palmer"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - posts.qmd
+      - text: Home
+        href: index.qmd
+      - projects.qmd
 
 format:
   html:
