@@ -1,12 +1,14 @@
 ---
-title: "PLACEHOLDER TITLE"
-description: "PLACEHOLDER DESCRIPTION"
+title: "DataFest 2024"
+description: "Reflecting on the first-time experience and winning Best Visualization."
 author:
   - name: Jett Palmer
     url: https://bit.ly/jett-palmer-linkedin
     affiliation: California Polytechnic State University San Luis Obispo
-date: 6-1-2024
+date: 4-28-2024
 categories: [Data Visualization, R, Awards]
 image: dataFestTeam.jpeg
 draft: false
 ---
+
+Placeholder for text
