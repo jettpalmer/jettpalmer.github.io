@@ -1,0 +1,14 @@
+---
+title: 'Winning the "Use Your Voice" Scholarship'
+description: 'First-ever recipient of the Kathy Storelli "Use Your Voice" Scholarship for student leaders at Cal Poly ASI.'
+author:
+  - name: Jett Palmer
+    url: https://bit.ly/jett-palmer-linkedin
+    affiliation: California Polytechnic State University San Luis Obispo; Associated Students Inc.
+date: 5-29-2024
+categories: [Awards, Leadership]
+image: studentGovBanquet.jpg
+draft: false
+---
+
+Placeholder for text

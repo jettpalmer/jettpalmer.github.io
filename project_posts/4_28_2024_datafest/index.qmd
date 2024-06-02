@@ -6,7 +6,7 @@ author:
     url: https://bit.ly/jett-palmer-linkedin
     affiliation: California Polytechnic State University San Luis Obispo
 date: 4-28-2024
-categories: [Data Visualization, R, Awards]
+categories: [Awards, Data Visualization, R]
 image: dataFestTeam.jpeg
 draft: false
 ---
