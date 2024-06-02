@@ -7,6 +7,6 @@ author:
     affiliation: California Polytechnic State University San Luis Obispo
 date: 6-1-2024
 categories: [Data Visualization, R, Awards]
-image: preview-image.png
+image: dataFestTeam.jpeg
 draft: false
 ---
