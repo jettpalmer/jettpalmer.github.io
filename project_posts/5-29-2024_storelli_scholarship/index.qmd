@@ -1,5 +1,5 @@
 ---
-title: 'Winning the "Use Your Voice" Scholarship'
+title: 'Kathy Storelli "Use Your Voice" Scholarship'
 description: 'First-ever recipient of the Kathy Storelli "Use Your Voice" Scholarship for student leaders at Cal Poly ASI.'
 author:
   - name: Jett Palmer

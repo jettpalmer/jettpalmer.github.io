@@ -1,0 +1,14 @@
+---
+title: "Data Utilization for Nonprofits"
+description: "Democratizing data for public benefit organizations."
+author:
+  - name: Jett Palmer
+    url: https://bit.ly/jett-palmer-linkedin
+    affiliation: California Polytechnic State University San Luis Obispo; Associated Students Inc.
+date: 5-24-2024
+categories: [Leadership, Presentations, Statistics]
+image: workshopSlide.png
+draft: false
+---
+
+Placeholder for text

@@ -1,0 +1,14 @@
+---
+title: "Disciplinary Affect in Statistics Classrooms | eCOTS 2024"
+description: "Pre-data research on the association between pedagogy and students' attitudes towards statistics."
+author:
+  - name: Jett Palmer
+    url: https://bit.ly/jett-palmer-linkedin
+    affiliation: California Polytechnic State University San Luis Obispo; Associated Students Inc.
+date: 6-11-2024
+categories: [Leadership, Presentations, Statistics]
+image: ecotsSlide.png
+draft: false
+---
+
+Placeholder for text

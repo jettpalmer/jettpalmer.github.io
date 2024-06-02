@@ -1,12 +1,12 @@
 ---
 title: "DataFest 2024"
-description: "Reflecting on the first-time experience and winning Best Visualization."
+description: "Reflecting on the first-time experience and winning Best Data Visualization."
 author:
   - name: Jett Palmer
     url: https://bit.ly/jett-palmer-linkedin
     affiliation: California Polytechnic State University San Luis Obispo
 date: 4-28-2024
-categories: [Awards, Data Visualization, R]
+categories: [Awards, Data Visualization, R, Statistics]
 image: dataFestTeam.jpeg
 draft: false
 ---
