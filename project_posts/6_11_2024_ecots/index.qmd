@@ -8,7 +8,7 @@ author:
 date: 6-11-2024
 categories: [Leadership, Presentations, Statistics]
 image: ecotsSlide.png
-draft: false
+draft: true
 ---
 
 Placeholder for text

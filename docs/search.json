@@ -32,7 +32,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Disciplinary Affect in Statistics Classrooms | eCOTS 2024\n\n\n\nLeadership\n\n\nPresentations\n\n\nStatistics\n\n\n\nPre-data research on the association between pedagogy and students’ attitudes towards statistics.\n\n\n\nJett Palmer\n\n\nJun 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKathy Storelli “Use Your Voice” Scholarship\n\n\n\nASI\n\n\nAwards\n\n\nLeadership\n\n\n\nFirst-ever recipient of the Kathy Storelli “Use Your Voice” Scholarship for student leaders at Cal Poly ASI.\n\n\n\nJett Palmer\n\n\nMay 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Utilization for Nonprofits\n\n\n\nLeadership\n\n\nPresentations\n\n\nStatistics\n\n\n\nDemocratizing data for public benefit organizations.\n\n\n\nJett Palmer\n\n\nMay 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDataFest 2024\n\n\n\nAwards\n\n\nData Visualization\n\n\nR\n\n\nStatistics\n\n\n\nReflecting on the first-time experience and winning Best Data Visualization.\n\n\n\nJett Palmer\n\n\nApr 28, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Kathy Storelli “Use Your Voice” Scholarship\n\n\n\nASI\n\n\nAwards\n\n\nLeadership\n\n\n\nFirst-ever recipient of the Kathy Storelli “Use Your Voice” Scholarship for student leaders at Cal Poly ASI.\n\n\n\nJett Palmer\n\n\nMay 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDataFest 2024\n\n\n\nAwards\n\n\nData Visualization\n\n\nR\n\n\nStatistics\n\n\n\nReflecting on the first-time experience and winning Best Data Visualization.\n\n\n\nJett Palmer\n\n\nApr 28, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "project_posts/6_1_2024_datafest/index.html",
@@ -46,7 +46,7 @@
     "href": "project_posts/4_28_2024_datafest/index.html",
     "title": "DataFest 2024",
     "section": "",
-    "text": "Placeholder for text"
+    "text": "DataFest is a 48 hour data analysis marathon hosted by the American Statistical Association. Every year, undergraduates all across the United States are provided a large, rich, and complex data set. Students are tasked with wrangling, analyzing and presenting insights, as they work around the clock to prepare a brief presentation for a panel of judges."
   },
   {
     "objectID": "project_posts/5-29-2024_storelli_scholarship/index.html",
@@ -54,20 +54,6 @@
     "title": "Kathy Storelli “Use Your Voice” Scholarship",
     "section": "",
     "text": "Like many, I find meaning in service work. It feels like a reliable way to maintain purpose and fulfillment, independent of career or academic achievement. After coming to Cal Poly, it wasn’t long before I found myself in student government and elected to the Board of Directors for Associated Students Inc."
-  },
-  {
-    "objectID": "project_posts/5_24_2024_ux_workshop/index.html",
-    "href": "project_posts/5_24_2024_ux_workshop/index.html",
-    "title": "Data Utilization for Nonprofits",
-    "section": "",
-    "text": "Placeholder for text"
-  },
-  {
-    "objectID": "project_posts/6_11_2024_ecots/index.html",
-    "href": "project_posts/6_11_2024_ecots/index.html",
-    "title": "Disciplinary Affect in Statistics Classrooms | eCOTS 2024",
-    "section": "",
-    "text": "Placeholder for text"
   },
   {
     "objectID": "project_posts/5-29-2024_storelli_scholarship/index.html#some-history",
@@ -89,5 +75,26 @@
     "title": "Kathy Storelli “Use Your Voice” Scholarship",
     "section": "Recognition",
     "text": "Recognition\nThis leads us to the end of the academic year. I advocated for policy serving the mental wellness of students and revamped our corporate bylaws. I continuously asked hard questions of campus officials and stood up to stakeholders of my work, to justify or modify our decisions.\nSarah Storelli, former ASI Student Body President, instituted the “Use Your Voice” Scholarship this year on behalf of her mom, Kathy Storelli. The Board of Directors had the privilege of hearing both Kathy and Sarah during speak during one of our recent meetings. They shared beautiful words and inspiring sentiment that spoke powerfully to student government members.\nDuring our student government end-of-year banquet, I was awarded"
+  },
+  {
+    "objectID": "project_posts/4_28_2024_datafest/index.html#about",
+    "href": "project_posts/4_28_2024_datafest/index.html#about",
+    "title": "DataFest 2024",
+    "section": "",
+    "text": "DataFest is a 48 hour data analysis marathon hosted by the American Statistical Association. Every year, undergraduates all across the United States are provided a large, rich, and complex data set. Students are tasked with wrangling, analyzing and presenting insights, as they work around the clock to prepare a brief presentation for a panel of judges."
+  },
+  {
+    "objectID": "project_posts/4_28_2024_datafest/index.html#clock-starts",
+    "href": "project_posts/4_28_2024_datafest/index.html#clock-starts",
+    "title": "DataFest 2024",
+    "section": "Clock Starts",
+    "text": "Clock Starts\n\nExplore\nTo kick-off the event, we were shown a video that introduced the data set. For confidentiality, students are prohibited from sharing revealing information about the data.\nThe data was sectioned into multiple CSV files and we started by delegating the files to each of the four members of our team. Our intent was to orient ourselves with the data, read the documentation, and conduct preliminary exploratory analysis.\nWe allotted time for the team to come together and discuss collectively the highlights and interesting characteristics from each of our sets. It was important that we kept tabs on what kind of information each team member had so that we were able to join data sets in the later analysis.\n\n\n\n\n\n\nExtracting the narrative\n\n\n\nThis year at Cal Poly, I’m applying a new approach to learning and asking questions. In the statistics industry, we see our fair share of formulas. Many of my peers commit formulas to memory and score highly on exams. I wonder, though, the extent to which we can make claims about these students’ material acquisition based on their exam scores. I, for one, am not so good at memorizing formulas. Instead, I began asking myself about the story that the course is telling. After all, intelligent and thoughtful academics design these courses, write our textbooks, and they do so with intent about the order and nature in which content is taught. After all, we should teach algebra before teaching calculus because algebra is a dependency of calculus. I think there’s an subtle opportunity here for students to tune into the course narrative and enhance their comprehension. I’ve started attending office hours and asking my instructors to take me through the narrative and answer some of the “why’s” regarding the order and nature by which material is taught. It’s also a great way to look back on the term in preparation for final exams.\nLooking back, I wish I better incorporated this principle into DataFest. Perhaps our team could have taken more time to think and share about potential stories that were emerging from the data. I find it’s worth taking a moment to pause and develop the narrative.\n\n\nAfter regrouping, our team set out to continue wrangling the data and begin drawing relationships between variables.\n\n\nRoadblock\nHalf-way through the competition, our team was hitting roadblocks and was feeling unhopeful. Each of us was building a component of the presentation. I was focused on joining two data sets to extract a broader, philosophical claim from the data and my team was skeptical. The data wrangling was taking me longer than we anticipated and other analyses were appearing insignificant or disjointed. Needless to say, it took each of us some time and a walk around campus before coming back the data and making a few more strides forward.\nMy sub-project finally was bearing some useful insight. I was able to arrange and clean the data appropriately, and it was ready to be graphed. I teamed up with another group member to help with creating a set of box plots and adding density overlays. The rest of our team worked on aesthetics, accessibility, and synthesizing some of their quantitative findings to further drive the narrative. They built our presentation and we worked together on a script."
+  },
+  {
+    "objectID": "project_posts/4_28_2024_datafest/index.html#conclusion",
+    "href": "project_posts/4_28_2024_datafest/index.html#conclusion",
+    "title": "DataFest 2024",
+    "section": "Conclusion",
+    "text": "Conclusion\nWe presented our findings proudly and were hopeful that our visualization would impress the judges. And it did, indeed, as our team was awarded with Best Visualization. An exciting and challenging experience, DataFest provided us an opportunity to test our skills in a rapid succession of EDA, statistical analysis, story-boarding, and oral communication.\n{fig-alt = “Four panes with six cool colored box plots with corresponding density ridge plots. Chapter reflection score is the response variable and reflection score is the explanatory variable. Each pane represents a psychological construct that the reflection score was measuring.”}"
   }
 ]
