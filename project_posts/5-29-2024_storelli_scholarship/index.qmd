@@ -1,5 +1,5 @@
 ---
-title: 'Kathy Storelli "Use Your Voice" Scholarship'
+title: 'Recapping 2024 Student Government'
 description: 'First-ever recipient of the Kathy Storelli "Use Your Voice" Scholarship for student leaders at Cal Poly ASI.'
 author:
   - name: Jett Palmer
