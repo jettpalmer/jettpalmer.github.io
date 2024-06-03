@@ -9,6 +9,8 @@ date: 4-28-2024
 categories: [Awards, Data Visualization, R, Statistics]
 image: dataFestTeam.jpeg
 draft: false
+execute: 
+  echo: false
 ---
 
 ## About
@@ -43,4 +45,7 @@ My sub-project was finally bearing something useful. I was able to arrange and c
 
 We presented our findings proudly and were hopeful that our visualization would impress the judges. And it did, indeed, as our team was awarded with Best Visualization. An exciting and challenging experience, DataFest provided us an opportunity to test our skills in a rapid succession of EDA, statistical analysis, story-boarding, and oral communication.
 
-![Winner: Best Visualization of Cal Poly DataFest 2024](bestVisualization.png){fig-alt = "Four panes with six, cool colored box plots and corresponding density ridge plots. Chapter reflection score (EOC) is the response variable and reflection score is the explanatory variable. Each pane represents a psychological construct that the reflection score was measuring. These include cost, expectancy, intrinsic value, and utility value. The plots reveal and upward trend in EOC as the reflection score increased for all constructs except cost."}
+![Winner: Best Visualization of Cal Poly DataFest 2024](bestVisualization.png)
+```{r}
+#{fig-alt = "Four panes with six, cool colored box plots and corresponding density ridge plots. Chapter reflection score (EOC) is the response variable and reflection score is the explanatory variable. Each pane represents a psychological construct that the reflection score was measuring. These include cost, expectancy, intrinsic value, and utility value. The plots reveal and upward trend in EOC as the reflection score increased for all constructs except cost."}
+```
