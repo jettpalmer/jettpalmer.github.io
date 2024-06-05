@@ -4,9 +4,9 @@ description: "Working with student government and campus officials to elevate th
 author:
   - name: Jett Palmer
     url: https://bit.ly/jett-palmer-linkedin
-    affiliation: California Polytechnic State University San Luis Obispo ; Associated Students Inc
+    affiliation: California Polytechnic State University San Luis Obispo; Associated Students Inc
 date: 6-2-2024
-categories: [ASI]
+categories: [ASI, Leadership]
 # image:
 draft: false
 ---
