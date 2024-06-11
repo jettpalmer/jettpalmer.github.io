@@ -7,7 +7,7 @@ author:
     affiliation: California Polytechnic State University San Luis Obispo; Associated Students Inc
 date: 6-2-2024
 categories: [ASI, Leadership]
-# image:
+image: calpoly.jpeg
 draft: false
 ---
 
