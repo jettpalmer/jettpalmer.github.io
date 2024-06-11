@@ -15,6 +15,7 @@ about:
       href: jett-palmer-resume.pdf
 resources: 
   - jett-palmer-resume.pdf
+toc: false
 ---
 
 I'm currently located in San Luis Obispo, CA. Service is at the center of my work and my peers would say I am gritty, ambitious, and precise.
