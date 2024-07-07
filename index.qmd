@@ -12,7 +12,7 @@ about:
       href: https://github.com/jettpalmer
     - icon: file-earmark-pdf-fill
       text: Resume
-      href: jett-palmer-resume.pdf
+      href: jett-palmer-resume1.pdf
 resources: 
   - jett-palmer-resume.pdf
 toc: false
