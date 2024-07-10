@@ -11,4 +11,8 @@ image: workshopSlide.png
 draft: true
 ---
 
-Placeholder for text
+## Purpose
+
+Statisticians are often handed immense, complicated data sets and asked to extract something interesting. It's essential that they are able to distill and communicate these findings to senior management or stakeholders. In fact, sometimes my research advisors are less concerned with running statistical tests, assessing p-values, and such. They are more concerned with clean and clear visualizations.
+
+\# this is not very on-topic. I should return and pivot.
