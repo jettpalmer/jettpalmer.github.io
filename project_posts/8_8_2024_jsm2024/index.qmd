@@ -1,0 +1,30 @@
+---
+title: "JSM Conference 2024"
+description: "Key Takeaways from the 2024 Joint Statistical Meetings."
+author:
+  - name: Jett Palmer
+    url: https://bit.ly/jett-palmer-linkedin
+    affiliation: California Polytechnic State University San Luis Obispo
+date: 8-08-2024
+categories: [Statistics]
+image: jsm2024.jpg
+draft: true
+---
+
+## Introduction
+
+This week, I had the pleasure of attending the Join Statistical Meetings (JSM) in Portland, Oregon. This trip is thanks to the Cal Poly Statistics Department, and I want to begin by expressing immense gratitude for the support and sponsorship of my faculty and department.
+
+JSM is the largest statistics conference in the world. The experience was beyond enriching and insightful. I had the opportunity to learn from world-class statisticians from academia, industry, and federal government. I questioned speakers on their studies, I asked for feedback on my current research, and I made connections with professionals whose careers are alignment with my interests.
+
+I enjoyed the company of five fellow Cal Poly statistics students who brought friendship and laughs to the experience. I'm grateful to the many Cal Poly faculty who elevated our experience by inviting us on Portland excursions and lending conference pro-tips.
+
+## Artificial Intelligence
+
+A primary theme of JSM 2024 was assessing the modern statistical landscape with the presence of AI. Many, including myself, view statisticians as arbiters of objective information. We certainly face bias, false information, and so forth. However,...
+
+## Ethics
+
+## Education
+
+## Remarks
