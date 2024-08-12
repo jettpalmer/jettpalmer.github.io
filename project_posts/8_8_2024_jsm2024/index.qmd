@@ -13,17 +13,49 @@ draft: true
 
 ## Introduction
 
-This week, I had the pleasure of attending the Join Statistical Meetings (JSM) in Portland, Oregon. This trip is thanks to the Cal Poly Statistics Department, and I want to begin by expressing immense gratitude for the support and sponsorship of my faculty and department.
+This week, I had the pleasure of attending the Join Statistical Meetings (JSM) in Portland, Oregon. This trip is thanks to the Cal Poly Statistics Department, and I send huge thanks to my department for their support and sponsorship.
 
-JSM is the largest statistics conference in the world. The experience was beyond enriching and insightful. I had the opportunity to learn from world-class statisticians from academia, industry, and federal government. I questioned speakers on their studies, I asked for feedback on my current research, and I made connections with professionals whose careers are alignment with my interests.
+JSM is the largest statistics conference in the world, and the experience was beyond enriching and insightful. I had the opportunity to learn from world-class statisticians across academia, industry, and government. I spoke in-depth with many speakers about their studies and asked them for feedback on my own research. I made connections with professionals whose careers that I aspire.
 
-I enjoyed the company of five fellow Cal Poly statistics students who brought friendship and laughs to the experience. I'm grateful to the many Cal Poly faculty who elevated our experience by inviting us on Portland excursions and lending conference pro-tips.
+I enjoyed the company of five other Cal Poly statistics students who brought friendship and laughs to the experience. I'm grateful for the Cal Poly faculty who elevated our experience by inviting us on excursions in Portland and lending us pro-tips for the conference.
 
 ## Artificial Intelligence
 
-A primary theme of JSM 2024 was assessing the modern statistical landscape with the presence of AI. Many, including myself, view statisticians as arbiters of objective information. We certainly face bias, false information, and so forth. However,...
+I am often asked how the rise of artificial intelligence could change the professional landscape for statisticians and data scientists. A central theme of JSM 2024 was to answer this question. Many view statisticians as arbiters of information and, while we certainly face bias or malice, even, we aim for objectivity and truth.
+
+### Threat to truth
+
+*Hallucination* is the industry term for false information that AI presents as fact. While decreasingly prevalent, large language models (LLM) sometimes provide responses that spread incorrect or misleading information. There are also tasks that LLMs are simply not good at accomplishing (like asking for a set of permutations, which I tried once).
+
+This suggests that LLMs are unreliable and may need supervision by a domain expert. One educator at JSM shared about her experience using an AI-based platform to administer mock exams to introductory statistics students at her college. When a student answers a question incorrectly, the platform provides individualized feedback and explains the concept. While a formal study is to come, the instructor found that the LLM provided students with conceptually inaccurate feedback around 95% of the time.
+
+Naturally, there lies a predicament (and a choice). A college instructor cannot provide individualized feedback to 300 students in her lecture hall. AI can, but 15 of those students may be taught improper statistics from time-to-time. Only the instructor, when reviewing feedback by hand, will catch the errors. The students might adopt the false information as statistical fact.
+
+### Threat to expertise
+
+The most common question I hear about AI and statistics is whether LLMs are poised to steal my job. After all, they can process raw data much faster than I can and even write code to clean and visualize them. But, as we saw, AI models seem to need supervision. Consider that anyone can provide an LLM with data and ask for a graphic, but without statistical expertise, there's no quality check on the visualization nor the methodology used to collect the data.
+
+This is a basic example but the same can be said for more complex, mathematical ideas in statistics. It seems like the presence of large language models doesn't threaten statistical expertise (yet), but it does give us reason to teach data literacy and critical thinking. I'll touch more on this later.
+
+### Opportunity
+
+There are some tasks that AI can do especially well, and I think the power in AI comes from learning how to partner with it effectively. When a researcher submits a manuscript to a peer-reviewed journal, it's first reviewed by domain experts who then provide feedback to the author(s) for revisions. Research suggests that a notable proportion of reviews are now being conducted with the help of LLMs (CITATION). Further, the qualitative contents of these reviews are highly similar to human control groups *and* the author's satisfaction with the feedback is roughly the same whether it came from a human or specially-trained AI model (CITATION).
+
+::: callout-note
+Many are concerned about the discriminatory and otherwise biased tendencies that LLMs inherit in their training data. I should emphasize that specially-trained models can be built for a focused purpose using training materials that have been scrutinized and vetted by humans.
+:::
+
+I don't think we should replace human reviewers—I've already argued for the need of expert supervision. But authors could certainly use specially-trained models to edit their manuscript prior to submission, or peer-reviewed journals could automatically supply their reviewers with a report that streamlines the lengthy feedback process.
 
 ## Ethics
+
+I believe the heart of ethical practice within statistics and data science lies in critical thinking. All steps in the statistical process including methodology, research conduct, analysis, communication, and consumption of the results should be scrutinized. For instance, institutional review boards serve a critical role in monitoring the way researchers gather and share data. There will always be a need for researchers themselves to be thoughtful about their studies and self-assess whether their practices are ethically in-check. Very importantly, though, consumers of the information should be trained
+
+### Reproduceability
+
+Placeholder
+
+### Looking ahead
 
 ## Education
 
