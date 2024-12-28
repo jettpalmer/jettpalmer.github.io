@@ -25,7 +25,7 @@
     "href": "index.html#experience",
     "title": "Jett Palmer",
     "section": "📊 Experience",
-    "text": "📊 Experience\nData Analyst Intern | American Institute of Behavioral Research & Technology | June 2023 - present\nPrincipal Investigator | Statistics Pedagogy & Behavioral Research | June 2023 - present\nStatistics Research Fellow | User Experience for Social Impact | July 2023 - June 2024\nResearch Assistant | Introductory Statistics Pedagogy | June 2023 - Sept 2023"
+    "text": "📊 Experience\nData Analyst Intern | American Institute of Behavioral Research & Technology | June 2024 - present\nLead Research Assistant | Equitable Collaborations in Data Science | June 2024 - present\nLead Researcher | Group Collaborations and Social Identity | September 2023 - June 2024\nResearch Fellow | User Experience for Social Impact | July 2023 - June 2025\nResearch Assistant | Statistics Pedagogy | June 2023 - September 2023"
   },
   {
     "objectID": "projects.html",
@@ -46,7 +46,7 @@
     "href": "project_posts/4_28_2024_datafest/index.html",
     "title": "DataFest 2024",
     "section": "",
-    "text": "DataFest is a 48 hour data analysis marathon hosted by the American Statistical Association. Every year, undergraduates all across the United States are provided a large, rich, and complex data set. Students are tasked with wrangling and analyzing these data to present insights, as they work around the clock to prepare a brief presentation for a panel of judges.\nStudents are prohibited from sharing detailed information about the data for confidentiality. This post is limited to my reflection on the experience."
+    "text": "DataFest is a 48 hour data analysis marathon hosted by the American Statistical Association. Every year, undergraduates all across the United States are provided a large, rich, and complex data set. Students are tasked with wrangling and analyzing these data to present insights, as they work around the clock to prepare a five minute presentation for a panel of judges.\nStudents are prohibited from sharing detailed information about the data for confidentiality. This post is limited to my reflection on the experience."
   },
   {
     "objectID": "project_posts/5-29-2024_storelli_scholarship/index.html",
@@ -81,7 +81,7 @@
     "href": "project_posts/4_28_2024_datafest/index.html#about",
     "title": "DataFest 2024",
     "section": "",
-    "text": "DataFest is a 48 hour data analysis marathon hosted by the American Statistical Association. Every year, undergraduates all across the United States are provided a large, rich, and complex data set. Students are tasked with wrangling and analyzing these data to present insights, as they work around the clock to prepare a brief presentation for a panel of judges.\nStudents are prohibited from sharing detailed information about the data for confidentiality. This post is limited to my reflection on the experience."
+    "text": "DataFest is a 48 hour data analysis marathon hosted by the American Statistical Association. Every year, undergraduates all across the United States are provided a large, rich, and complex data set. Students are tasked with wrangling and analyzing these data to present insights, as they work around the clock to prepare a five minute presentation for a panel of judges.\nStudents are prohibited from sharing detailed information about the data for confidentiality. This post is limited to my reflection on the experience."
   },
   {
     "objectID": "project_posts/4_28_2024_datafest/index.html#clock-starts",
@@ -131,5 +131,12 @@
     "title": "DataFest 2024",
     "section": "Roadblock",
     "text": "Roadblock\nHalf-way through the competition, our team was hitting roadblocks and was feeling unhopeful. Each of us was building a separate component of the presentation. I was focused on joining two data sets to extract a broader, philosophical claim about the data and my team was reasonably skeptical. The data wrangling was taking me longer than we anticipated and other analyses were appearing statistically insignificant or disjointed. After a walk around campus, we continued making periodic strides forward on the quantitative analysis.\nMy sub-project was finally bearing something useful. After I was finally able to arrange and clean the data appropriately, they were ready to be graphed. I paired up with another group member to help with creating a set of box plots with density curve overlays. The rest of our team worked on aesthetics, accessibility, and synthesizing some of their own quantitative findings to further drive the narrative. They built a beautiful presentation and we worked together on a script."
+  },
+  {
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "Activities",
+    "section": "",
+    "text": "Placeholder text"
   }
 ]
