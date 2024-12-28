@@ -138,5 +138,96 @@
     "title": "Activities",
     "section": "",
     "text": "Placeholder text"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Passing Legislation at Cal Poly\n\n\n\nASI\n\n\nLeadership\n\n\n\nWorking with student government and campus officials to elevate the importance of mental health on campus.\n\n\n\nJett Palmer\n\n\nJun 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRecapping 2024 Student Government\n\n\n\nASI\n\n\nAwards\n\n\nLeadership\n\n\n\nFirst-ever recipient of the Kathy Storelli “Use Your Voice” Scholarship for student leaders at Cal Poly ASI.\n\n\n\nJett Palmer\n\n\nMay 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDataFest 2024\n\n\n\nAwards\n\n\nData Visualization\n\n\nR\n\n\nStatistics\n\n\n\nReflecting on the first-time experience and winning Best Data Visualization.\n\n\n\nJett Palmer\n\n\nApr 28, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog_posts/4_28_2024_datafest/index.html",
+    "href": "blog_posts/4_28_2024_datafest/index.html",
+    "title": "DataFest 2024",
+    "section": "",
+    "text": "DataFest is a 48 hour data analysis marathon hosted by the American Statistical Association. Every year, undergraduates all across the United States are provided a large, rich, and complex data set. Students are tasked with wrangling and analyzing these data to present insights, as they work around the clock to prepare a five minute presentation for a panel of judges.\nStudents are prohibited from sharing detailed information about the data for confidentiality. This post is limited to my reflection on the experience."
+  },
+  {
+    "objectID": "blog_posts/4_28_2024_datafest/index.html#about",
+    "href": "blog_posts/4_28_2024_datafest/index.html#about",
+    "title": "DataFest 2024",
+    "section": "",
+    "text": "DataFest is a 48 hour data analysis marathon hosted by the American Statistical Association. Every year, undergraduates all across the United States are provided a large, rich, and complex data set. Students are tasked with wrangling and analyzing these data to present insights, as they work around the clock to prepare a five minute presentation for a panel of judges.\nStudents are prohibited from sharing detailed information about the data for confidentiality. This post is limited to my reflection on the experience."
+  },
+  {
+    "objectID": "blog_posts/4_28_2024_datafest/index.html#clock-starts",
+    "href": "blog_posts/4_28_2024_datafest/index.html#clock-starts",
+    "title": "DataFest 2024",
+    "section": "Clock Starts",
+    "text": "Clock Starts\n\nExplore\nTo kick-off the event, we were shown a video introducing the data set. The data were sectioned into multiple files and we started by delegating the files to each of the four members of our team. We first needed to orient ourselves with the data, read the documentation, and conduct exploratory analysis.\nWe allotted time for the team to come together and collectively discuss the highlights and interesting characteristics from each of our sets. We kept tabs on what kind of information each team member found so that we were able to strategically combine data sets later in the analysis. After discussing, we went our separate ways again and dove deeper into each of our preliminary ideas.\n\n\nApproach\nThis year at Cal Poly, I’ve applied a new approach to learning and asking questions. In the stats industry, we see our fair share of formulas. Many of my peers commit these formulas to memory and score very highly on exams. I wonder, though, the extent to which we can make claims about these students’ material acquisition based on their exam scores. I am not so good at memorizing formulas and, instead, I began asking myself about the story that the course is telling. After all, intelligent and thoughtful academics design these courses, write our textbooks, and they do so with intent about the order and nature in which content is delivered. There’s a subtle opportunity here for students to identify the course narrative and maybe enhance their understanding. I’ve started attending more office hours, asking my instructors to take me through the narrative of the course and answer some of the “why’s” regarding the order and nature in which the material is taught. It’s also a great way to look back on the term in preparation for final exams.\nLooking back, I wish our team took more time at the beginning to think and share about potential stories that were emerging from the data."
+  },
+  {
+    "objectID": "blog_posts/4_28_2024_datafest/index.html#roadblock",
+    "href": "blog_posts/4_28_2024_datafest/index.html#roadblock",
+    "title": "DataFest 2024",
+    "section": "Roadblock",
+    "text": "Roadblock\nHalf-way through the competition, our team was hitting roadblocks and was feeling unhopeful. Each of us was building a separate component of the presentation. I was focused on joining two data sets to extract a broader, philosophical claim about the data and my team was reasonably skeptical. The data wrangling was taking me longer than we anticipated and other analyses were appearing statistically insignificant or disjointed. After a walk around campus, we continued making periodic strides forward on the quantitative analysis.\nMy sub-project was finally bearing something useful. After I was finally able to arrange and clean the data appropriately, they were ready to be graphed. I paired up with another group member to help with creating a set of box plots with density curve overlays. The rest of our team worked on aesthetics, accessibility, and synthesizing some of their own quantitative findings to further drive the narrative. They built a beautiful presentation and we worked together on a script."
+  },
+  {
+    "objectID": "blog_posts/4_28_2024_datafest/index.html#conclusion",
+    "href": "blog_posts/4_28_2024_datafest/index.html#conclusion",
+    "title": "DataFest 2024",
+    "section": "Conclusion",
+    "text": "Conclusion\nWe presented our findings to the panel and were hopeful that our visualization would impress the judges. And it did, indeed, as our team was awarded with Best Visualization. An exciting and challenging experience, DataFest provided us an opportunity to test our skills in a rapid succession of EDA, statistical analysis, story-boarding, and oral communication.\n\n\n\nWinner: Best Visualization of Cal Poly DataFest 2024"
+  },
+  {
+    "objectID": "blog_posts/6_4_2024_resolution_passed/index.html",
+    "href": "blog_posts/6_4_2024_resolution_passed/index.html",
+    "title": "Passing Legislation at Cal Poly",
+    "section": "",
+    "text": "As an elected member of the ASI Board of Directors, I made it part of my 2023 campaign to advocate for mental wellness on the Cal Poly campus. Last fall, I reached out the Secretary of Campus Health and Well-being, Emily Prince, and we began authoring legislation that would drive this mission.\n\nIt was in the midst of drafting our message and holding meetings with campus officials that the exigence of this work became clear to me. An individual who is very close to my heart faced a mental health crisis. I shed many tears, for many days, and my academics were impacted. This was beyond challenging, but the experience gave me new and ambitious passion for the work Emily and I were spearheading.\n\nResolution 24-02 of the ASI Board of Directors called upon the university Academic Senate to include mental health in the definition of illness within the Excusable Absence Policy. On February 21st of this year, the Board passed our resolution unanimously. As the official voice of the student body, the position of ASI Student Government was made clear by this legislation, and it was promptly disseminated to University President Armstrong and a number of VP’s at Cal Poly. The Academic Senate pushed the legislation forward and authored their own legislation that, if approved, would change the Excusable Absence Policy, consistent with our recommendations."
+  },
+  {
+    "objectID": "blog_posts/6_4_2024_resolution_passed/index.html#history",
+    "href": "blog_posts/6_4_2024_resolution_passed/index.html#history",
+    "title": "Passing Legislation at Cal Poly",
+    "section": "",
+    "text": "As an elected member of the ASI Board of Directors, I made it part of my 2023 campaign to advocate for mental wellness on the Cal Poly campus. Last fall, I reached out the Secretary of Campus Health and Well-being, Emily Prince, and we began authoring legislation that would drive this mission.\n\nIt was in the midst of drafting our message and holding meetings with campus officials that the exigence of this work became clear to me. An individual who is very close to my heart faced a mental health crisis. I shed many tears, for many days, and my academics were impacted. This was beyond challenging, but the experience gave me new and ambitious passion for the work Emily and I were spearheading.\n\nResolution 24-02 of the ASI Board of Directors called upon the university Academic Senate to include mental health in the definition of illness within the Excusable Absence Policy. On February 21st of this year, the Board passed our resolution unanimously. As the official voice of the student body, the position of ASI Student Government was made clear by this legislation, and it was promptly disseminated to University President Armstrong and a number of VP’s at Cal Poly. The Academic Senate pushed the legislation forward and authored their own legislation that, if approved, would change the Excusable Absence Policy, consistent with our recommendations."
+  },
+  {
+    "objectID": "blog_posts/6_4_2024_resolution_passed/index.html#present",
+    "href": "blog_posts/6_4_2024_resolution_passed/index.html#present",
+    "title": "Passing Legislation at Cal Poly",
+    "section": "Present",
+    "text": "Present\nToday marked an important day for Cal Poly and the ASI Board of Directors. I am pleased to announce that the Academic Senate has now passed the policy, changing language on the Excusable Absence Policy to be explicitly inclusive of mental health and discouraging the requirement of a doctor’s note. This is a huge leap forward for Cal Poly students and it is my honor to be at the forefront of this action.\nI want to thank Emily Prince for your thoughtful collaboration and the Board of Directors for your passionate support. I also want to thank Dr. Greenwood for your guidance in this process. The Student Health Advisory Committee stood beside us and advised our legislation. Thank you to the members of SHAC as well. Lastly, thank you to everyone who provided feedback and insight on the resolution. Your voices were heard and I hope you feel proud of the work you helped to create.\nYou can view Resolution #24-02 from the ASI Board of Directors here."
+  },
+  {
+    "objectID": "blog_posts/5-29-2024_storelli_scholarship/index.html",
+    "href": "blog_posts/5-29-2024_storelli_scholarship/index.html",
+    "title": "Recapping 2024 Student Government",
+    "section": "",
+    "text": "Engaging in community service is one way that I find purpose and fulfillment, independent of career-related successes and failures. After coming to Cal Poly, it wasn’t long before I found myself in student government and serving the Board of Directors for Associated Students Inc. I applied in mid-first-year and was elected by the student body."
+  },
+  {
+    "objectID": "blog_posts/5-29-2024_storelli_scholarship/index.html#some-history",
+    "href": "blog_posts/5-29-2024_storelli_scholarship/index.html#some-history",
+    "title": "Recapping 2024 Student Government",
+    "section": "",
+    "text": "Engaging in community service is one way that I find purpose and fulfillment, independent of career-related successes and failures. After coming to Cal Poly, it wasn’t long before I found myself in student government and serving the Board of Directors for Associated Students Inc. I applied in mid-first-year and was elected by the student body."
+  },
+  {
+    "objectID": "blog_posts/5-29-2024_storelli_scholarship/index.html#my-role",
+    "href": "blog_posts/5-29-2024_storelli_scholarship/index.html#my-role",
+    "title": "Recapping 2024 Student Government",
+    "section": "My role",
+    "text": "My role\nThe ASI Board of Directors at Cal Poly is considered the official voice of the student body. The role of a Director is two-fold. I’m proud to share some of the work I accomplished this year in both advocacy and corporate oversight.\n\nAdvocate\nIn terms of political advocacy, we are the voices who represent our student constituents. One thing that I’m passionate about is student wellness, particularly with respect to mental health. This year, I worked with our Secretary of Health and Wellbeing, Emily Prince, on policy that recognizes mental health as an excusable reason for absence. Our resolution passed the board unanimously and was referred to Cal Poly President Jeff Armstrong as well as other campus officials.\nIn response, the Academic Senate, a faculty-governed body, wrote and approved a policy change that officially amended the campus-wide excusable absence policy to include mental health. This is my proudest initiative on campus as it marks a huge step forward for our students and demonstrates value in shared governance.\n\n\nFiduciary\nDirectors are also responsible for the internal corporate business, including budget approvals and strategic planning.\nThis year, I was appointed to Co-Chair the Internal Review Committee. This is one of two corporate committees within ASI, and it’s mandated to oversee risk management and serve as the corporation’s audit committee. In the fall, the Board of Directors approved an Ad Hoc committee to conduct a comprehensive bylaw review. Having incorporated a nonprofit in 2022, I was appointed to chair this committee concurrently.\nThe committee was composed of all three ASI officers, plus three additional student leaders in student government. I knew that having six confident voices at the table meant facilitating the discussion effectively would be pertinent to our success. An unanticipated challenge, however, was push-back from other stakeholders. On a couple instances, I presented revisions made by the committee to the Board of Directors and wasn’t quite prepared for the overwhelming feedback. It taught me a lesson about creating a comfortable buffer between myself and my work.\nAfter a lengthy process of feedback loops and redrafting, the final bill passed the Board of Directors unanimously on 5/24/2024, and the revisions we instituted will carry into future administrations of ASI indefinitely."
+  },
+  {
+    "objectID": "blog_posts/5-29-2024_storelli_scholarship/index.html#recognition",
+    "href": "blog_posts/5-29-2024_storelli_scholarship/index.html#recognition",
+    "title": "Recapping 2024 Student Government",
+    "section": "Recognition",
+    "text": "Recognition\nThis leads us to the end of the academic year. I advocated for policy serving the mental wellness of students and revamped our corporate bylaws. I continuously asked hard questions of campus officials and stood up to stakeholders to justify or reconsider my team’s decisions.\nSarah Storelli, former ASI Student Body President, instituted the “Use Your Voice” Scholarship this year on behalf of her mom, Kathy Storelli. The Board of Directors had the privilege of hearing both Kathy and Sarah during speak during one of our recent meetings. They shared beautiful words and inspiring sentiment that spoke powerfully to student government members.\nDuring our student government end-of-year banquet, I was graciously awarded this scholarship. I am beyond grateful for the support and lessons that ASI has provided me. Student government lends me a platform to spark change on campus that reaches our entire student body. It’s my mission to continue elevating student voices and maximizing my impact on campus. The Storelli family, students, and staff at ASI continue to motivate my work."
   }
 ]

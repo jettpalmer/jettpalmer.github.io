@@ -8,7 +8,7 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - projects.qmd
+      - blog.qmd
       - activities.qmd
 
 format:
