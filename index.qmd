@@ -7,9 +7,6 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/jett-palmer/
-    - icon: github
-      text: Github
-      href: https://github.com/jettpalmer
     - icon: file-earmark-pdf-fill
       text: Resume
       href: jett-palmer-resume.pdf
