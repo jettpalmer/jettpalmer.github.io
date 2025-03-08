@@ -9,7 +9,7 @@ website:
       - text: Home
         href: index.qmd
       - activities.qmd
-      - blog.qmd
+      #- blog.qmd
 
 format:
   html:

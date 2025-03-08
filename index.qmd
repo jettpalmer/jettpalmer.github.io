@@ -2,7 +2,7 @@
 title: "Jett Palmer"
 about:
   template: jolla
-  image: profile_smile.jpg
+  image: profile.jpg
   links:
     - icon: linkedin
       text: LinkedIn
