@@ -1,6 +1,7 @@
 ---
 title: "Activities"
 ---
+
 # Projects
 
 ### Association for Practical & Professional Ethics \| Intercollegiate Ethics Bowl (2024)
@@ -41,13 +42,11 @@ Lead author of student wellness legislation that passed unanimously by the Assoc
 
 ### Current Appointments:
 
--   Academic Senate Executive Committee (Interim Representative)
-
 -   Associated Students Inc. Board of Directors (Voting Member)
 
 -   Bailey College of Science & Math Inclusion and Equity Committee (Representative)
 
--   Bailey College of Science & Math Inclusion and Equity Funding Review Committee (Representative)
+-   Bailey College of Science & Math Inclusion and Equity Funding Review Committee (Voting Member)
 
 -   Campus Administrative Policy Committee (Voting Member)
 
@@ -58,6 +57,8 @@ Lead author of student wellness legislation that passed unanimously by the Assoc
 -   Substance Use and Misuse Advisory Committee (Representative)
 
 ### Previous Appointments:
+
+-   Academic Senate Executive Committee (Interim Representative)
 
 -   Ad-Hoc Bylaw Review Committee (Chair)
 

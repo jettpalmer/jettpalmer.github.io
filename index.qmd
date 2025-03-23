@@ -2,7 +2,7 @@
 title: "Jett Palmer"
 about:
   template: jolla
-  image: profile.jpg
+  image: profile_pic.jpg
   links:
     - icon: linkedin
       text: LinkedIn
@@ -10,18 +10,29 @@ about:
     - icon: file-earmark-pdf-fill
       text: Resume
       href: jett-palmer-resume.pdf
+    - icon: github
+      text: GitHub
+      href: https://github.com/jettpalmer
 resources: 
   - jett-palmer-resume.pdf
 toc: false
 ---
 
-I'm currently located in San Luis Obispo, CA. Service is at the center of my work and my peers would say I am gritty, ambitious, and precise.
+## 👋 About
+
+I am an undergraduate pursuing a blended M.S./B.S. in Statistics. My peers describe me as accurate, ambitious, and analytical.
+
+## 📍 Location
+
+Currently located in San Luis Obispo, CA, and originally from San Diego, CA.
 
 ## 🎓 Education
 
-California Polytechnic State University \| San Luis Obispo, CA \| B.S. in Statistics
+California Polytechnic State University \| San Luis Obispo, CA
 
-Sept 2022 - June 2026
+M.S. in Statistics \| Sept 2026 - June 2027 (Expected)
+
+B.S. in Statistics \| Sept 2022 - June 2026 (Expected)
 
 ## 📊 Experience
 
