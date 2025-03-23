@@ -4,11 +4,11 @@ title: "Research"
 
 ## Publications
 
-### Exploring the *Literary Digest* Polls (2024)
+### Exploring the Literary Digest Polls (2024)
 
 Chance, B., Kerr, A., & Palmer, J. (2024). Taking the Next Step in Exploring the *Literary Digest* 1936 Poll. *Journal of Statistics and Data Science Education*, *32*(4), 405–415. <https://doi.org/10.1080/26939169.2024.2395505>
 
-## Works In Progress
+## In Progress
 
 ### Social Pressure Theory (2025)
 
@@ -26,4 +26,4 @@ Paper to be presented at the 105th annual meeting of the WPA, Las Vegas, NV.
 
 ### e-Conference on Teaching Statistics \| Poster Presentation (2024)
 
-Presented with Dr. Allison Theobold on our research studying collaborations and social identity in mathematics and statistics classrooms.
+Presented on the relationship between group work and social identity in mathematics and statistics classrooms.
