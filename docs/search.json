@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jett Palmer",
     "section": "",
-    "text": "I am an undergraduate at California Polytechnic State University.\nMy peers describe me as diligent, thoughtful, and thorough."
+    "text": "I am an undergraduate at California Polytechnic State University in San Luis Obispo.\nMy peers describe me as diligent, thoughtful, and thorough."
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "index.html#education",
     "title": "Jett Palmer",
     "section": "🎓 Education",
-    "text": "🎓 Education\nCalifornia Polytechnic State University | San Luis Obispo, CA\nM.S. in Statistics | Sept 2026 - June 2027 (Expected)\nB.S. in Statistics | Sept 2022 - June 2026 (Expected)"
+    "text": "🎓 Education\nCalifornia Polytechnic State University (Cal Poly) | San Luis Obispo, CA\nM.S. in Statistics | Sept 2026 - June 2027 (Expected)\nB.S. in Statistics | Sept 2022 - June 2026 (Expected)"
   },
   {
     "objectID": "index.html#experience",
@@ -235,14 +235,14 @@
     "href": "index.html#about",
     "title": "Jett Palmer",
     "section": "",
-    "text": "I am an undergraduate at California Polytechnic State University.\nMy peers describe me as diligent, thoughtful, and thorough."
+    "text": "I am an undergraduate at California Polytechnic State University in San Luis Obispo.\nMy peers describe me as diligent, thoughtful, and thorough."
   },
   {
     "objectID": "index.html#location",
     "href": "index.html#location",
     "title": "Jett Palmer",
     "section": "📍 Location",
-    "text": "📍 Location\nCurrently located in San Luis Obispo, CA, and originally from San Diego, CA."
+    "text": "📍 Location\nCurrently located in San Luis Obispo and originally from San Diego, CA."
   },
   {
     "objectID": "projects.html#publications",
@@ -390,5 +390,19 @@
     "title": "Research",
     "section": "In Progress",
     "text": "In Progress\n\nSocial Pressure Theory (2025)\nEpstein, R., Frye, E., Palmer, J., & Rajgarhia, A. (2025, May 1-4). Evaluating the Social Pressure Theory (SPT) of sexual orientation with data from a large non-English-speaking sample. (Manuscript).\n\n\nEquitable Collaborations (2025)\nNSF-funded research on pair-programming experiences in data science classrooms."
+  },
+  {
+    "objectID": "index.html#service",
+    "href": "index.html#service",
+    "title": "Jett Palmer",
+    "section": "🎗️ Service",
+    "text": "🎗️ Service\nI have founded two 501(c)(3) nonprofit organizations and currently advise on nine committees or governing bodies at Cal Poly."
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Jett Palmer",
+    "section": "🔎 Research",
+    "text": "🔎 Research\nMy research focuses on statistics education and human behavior.\nI have co-authored externally-validated papers on sampling methodology and theories of social pressure."
   }
 ]
