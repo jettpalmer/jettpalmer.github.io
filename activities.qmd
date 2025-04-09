@@ -6,6 +6,8 @@ title: "Activities"
 
 ### Presiding:
 
+-   Ad Hoc Committee to Advise on the ASI Cal Poly and AS Cal Maritime Integration
+
 -   Internal Review Committee (Co-Chair)
 
 -   Policy & Procedure Subcommittee of the BCSM Inclusion and Equity Committee (Chair)
@@ -28,13 +30,19 @@ title: "Activities"
 
 ### Previous Appointments:
 
--   Academic Senate Executive Committee (Interim Representative)
+-   Academic Senate (Interim Representative) (2024-2025)
 
--   Ad-Hoc Bylaw Review Committee (Chair)
+-   Academic Senate Executive Committee (Interim Representative) (2024-2025)
 
--   Student Success Fee Allocation Committee (Voting Member)
+-   Ad-Hoc Bylaw Review Committee (Chair) (2024)
+
+-   Student Success Fee Allocation Committee (Voting Member) (2023-2024)
 
 ## Competitions
+
+### American Statistical Association \| DataFest at Cal Poly (2025)
+
+Competed in a 48-hour data analysis marathon. Won Best Use of External Data.
 
 ### Association for Practical & Professional Ethics \| Intercollegiate Ethics Bowl (2024)
 
@@ -45,6 +53,10 @@ Achieved fifth place in the western region.
 Competed in a 48-hour data analysis marathon. Won Best Visualization.
 
 ## Awards
+
+### Best Use of External Data at ASA DataFest, Cal Poly (2025)
+
+Awarded by panel of faculty and industry judges.
 
 ### Kathy Storelli "Use Your Voice" Scholarship (2024)
 
