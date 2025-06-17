@@ -18,36 +18,33 @@ resources:
 toc: false
 ---
 
-## 👋 About
 
-I am an undergraduate at California Polytechnic State University in San Luis Obispo.
-
-My peers describe me as diligent, thoughtful, and thorough.
-
-## 🎓 Education
+## 🎓 |  Education
 
 California Polytechnic State University (Cal Poly) \| San Luis Obispo, CA
 
-M.S. in Statistics \| Sept 2026 - June 2027 (Expected)
+M.S. in Statistics \| Jan 2026 - Dec 2026 (Expected)
 
-B.S. in Statistics \| Sept 2022 - June 2026 (Expected)
+B.S. in Statistics \| Sept 2022 - Dec 2025 (Expected)
 
-## 🔎 Research
+## 🔎 |  Research
 
-My research focuses on statistics education and human behavior.
+I am currently researching authority constructs in data science classrooms.
 
-I have co-authored externally validated papers on teaching sampling methodology and theories of social pressure.
+I have published in the Journal of Statistics and Data Science Education (2024) and presented human behavioral research for the Western Psychological Association (2025).
 
-## 📊 Experience
+## 📊 |  Experience
 
 Data Analyst Intern \| American Institute of Behavioral Research & Technology \| June 2024 - present
 
-Lead Research Assistant \| Collaborations in Data Science \| September 2023 - present
+Research Assistant \| Authority in Data Science \| September 2023 - present
 
 Research Fellow \| User Experience for Social Impact \| July 2023 - June 2025
 
 Research Assistant \| Statistics Pedagogy \| June 2023 - September 2023
 
-## 🎗️ Service
+## 🎗️ |  Service
 
-I have founded two 501(c)(3) nonprofit organizations and currently advise on ten committees or governing bodies at Cal Poly.
+I helped found two 501(c)(3) nonprofit organizations and have been appointed to over fifteen committees and governing bodies at Cal Poly.
+
+I am actively serving my third year as a member of the ASI Board of Directors and chairing an ad hoc committee responsible for facilitating a $20 million dollar merger.

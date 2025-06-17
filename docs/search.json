@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jett Palmer",
     "section": "",
-    "text": "I am an undergraduate at California Polytechnic State University in San Luis Obispo.\nMy peers describe me as diligent, thoughtful, and thorough."
+    "text": "California Polytechnic State University (Cal Poly) | San Luis Obispo, CA\nM.S. in Statistics | Jan 2026 - Dec 2026 (Expected)\nB.S. in Statistics | Sept 2022 - Dec 2025 (Expected)"
   },
   {
     "objectID": "about.html",
@@ -17,22 +17,22 @@
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Jett Palmer",
-    "section": "🎓 Education",
-    "text": "🎓 Education\nCalifornia Polytechnic State University (Cal Poly) | San Luis Obispo, CA\nM.S. in Statistics | Sept 2026 - June 2027 (Expected)\nB.S. in Statistics | Sept 2022 - June 2026 (Expected)"
+    "section": "",
+    "text": "California Polytechnic State University (Cal Poly) | San Luis Obispo, CA\nM.S. in Statistics | Jan 2026 - Dec 2026 (Expected)\nB.S. in Statistics | Sept 2022 - Dec 2025 (Expected)"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Jett Palmer",
-    "section": "📊 Experience",
-    "text": "📊 Experience\nData Analyst Intern | American Institute of Behavioral Research & Technology | June 2024 - present\nLead Research Assistant | Collaborations in Data Science | September 2023 - present\nResearch Fellow | User Experience for Social Impact | July 2023 - June 2025\nResearch Assistant | Statistics Pedagogy | June 2023 - September 2023"
+    "section": "📊 | Experience",
+    "text": "📊 | Experience\nData Analyst Intern | American Institute of Behavioral Research & Technology | June 2024 - present\nResearch Assistant | Authority in Data Science | September 2023 - present\nResearch Fellow | User Experience for Social Impact | July 2023 - June 2025\nResearch Assistant | Statistics Pedagogy | June 2023 - September 2023"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Spearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team. Under the guidance of Dr. Heather Smith and Cal Poly Student Affairs."
+    "text": "Evaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.\n\n\n\nInvestigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.\n\n\n\nAnalyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.\n\n\n\nSpearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team. Under the guidance of Dr. Heather Smith and Cal Poly Student Affairs."
   },
   {
     "objectID": "project_posts/6_1_2024_datafest/index.html",
@@ -256,7 +256,7 @@
     "href": "projects.html#client-projects",
     "title": "Projects",
     "section": "",
-    "text": "Spearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team. Under the guidance of Dr. Heather Smith and Cal Poly Student Affairs."
+    "text": "Evaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.\n\n\n\nInvestigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.\n\n\n\nAnalyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.\n\n\n\nSpearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team. Under the guidance of Dr. Heather Smith and Cal Poly Student Affairs."
   },
   {
     "objectID": "projects.html#presentations",
@@ -395,14 +395,21 @@
     "objectID": "index.html#service",
     "href": "index.html#service",
     "title": "Jett Palmer",
-    "section": "🎗️ Service",
-    "text": "🎗️ Service\nI have founded two 501(c)(3) nonprofit organizations and currently advise on ten committees or governing bodies at Cal Poly."
+    "section": "🎗️ | Service",
+    "text": "🎗️ | Service\nI helped found two 501(c)(3) nonprofit organizations and have been appointed to over fifteen committees and governing bodies at Cal Poly.\nI am actively serving my third year as a member of the ASI Board of Directors and chairing an ad hoc committee responsible for facilitating a $20 million dollar merger."
   },
   {
     "objectID": "index.html#research",
     "href": "index.html#research",
     "title": "Jett Palmer",
-    "section": "🔎 Research",
-    "text": "🔎 Research\nMy research focuses on statistics education and human behavior.\nI have co-authored externally validated papers on teaching sampling methodology and theories of social pressure."
+    "section": "🔎 | Research",
+    "text": "🔎 | Research\nI am currently researching authority constructs in data science classrooms.\nI have published in the Journal of Statistics and Data Science Education (2024) and presented human behavioral research for the Western Psychological Association (2025)."
+  },
+  {
+    "objectID": "index.html#servicee",
+    "href": "index.html#servicee",
+    "title": "Jett Palmer",
+    "section": "🎗️ | Servicee",
+    "text": "🎗️ | Servicee\nI have helped found two 501(c)(3) nonprofit organizations and been appointed to over fifteen committees and governing bodies at Cal Poly. I am actively serving my third year as a member of the ASI Board of Directors and chairing an ad hoc committee responsible for facilitating a $20 million dollar merger."
   }
 ]

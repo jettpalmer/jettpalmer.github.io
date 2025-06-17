@@ -14,7 +14,7 @@ Chance, B., Kerr, A., & Palmer, J. (2024). Taking the Next Step in Exploring the
 
 Epstein, R., Frye, E., Palmer, J., & Rajgarhia, A. (2025, May 1-4). *Evaluating the Social Pressure Theory (SPT) of sexual orientation with data from a large non-English-speaking sample.* (Manuscript).
 
-### Equitable Collaborations (2025)
+### Authority in Data Science (2025)
 
 NSF-funded research on pair-programming experiences in data science classrooms.
 
@@ -22,7 +22,7 @@ NSF-funded research on pair-programming experiences in data science classrooms.
 
 ### Western Psychological Association \| Paper Presentation (2025)
 
-Paper presented at the 105th annual meeting of the WPA, Las Vegas, NV.
+Presented at the 105th annual meeting of the WPA, Las Vegas, NV.
 
 ### e-Conference on Teaching Statistics \| Poster Presentation (2024)
 

@@ -4,6 +4,18 @@ title: "Projects"
 
 ## Client Projects
 
+### Analyzing the Effect of Hand Dominance, Wrist Direction, and Distraction on Ergonomics Task
+
+Evaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.
+
+### Associations Between Mothers’ Technology Use, Parenting Stress, and Depression During the Early Postpartum Period
+
+Investigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.
+
+### Investigating Cal Poly Student Sustainability Literacy Using Spatial Data (2025)
+
+Analyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.
+
 ### Designing the Premier Student Employment Experience at Cal Poly (2024)
 
 Spearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team. Under the guidance of Dr. Heather Smith and Cal Poly Student Affairs.
