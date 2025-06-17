@@ -4,11 +4,11 @@ title: "Projects"
 
 ## Client Projects
 
-### Analyzing the Effect of Hand Dominance, Wrist Direction, and Distraction on Ergonomics Task
+### Analyzing the Effect of Hand Dominance, Wrist Direction, and Distraction on Ergonomics Task (2025)
 
 Evaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.
 
-### Associations Between Mothers’ Technology Use, Parenting Stress, and Depression During the Early Postpartum Period
+### Associations Between Mothers’ Technology Use, Parenting Stress, and Depression During the Early Postpartum Period (2025)
 
 Investigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.
 
