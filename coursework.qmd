@@ -1,0 +1,57 @@
+---
+title: "Coursework"
+---
+
+## Statistics
+
+-   Statistical Machine Learning with R \*\*
+
+-   Multilevel and Mixed Modeling \*\*
+
+-   Statistical Consulting \*\*
+
+-   Applied Multivariate Statistics
+
+-   Survival Analysis Methods
+
+-   Probability Theory
+
+-   Estimation and Sampling Theory
+
+-   Mathematical Statistics
+
+-   Applied Linear Models
+
+-   Survey Sampling & Methodology
+
+-   Design & Analysis of Experiments
+
+-   Statistical Computing with R
+
+-   Statistical Computing with SAS
+
+-   Statistical Communication
+
+## Mathematics
+
+-   Calculus (I-IV)
+
+-   Linear Algebra
+
+-   Methods of Proof
+
+## Computer Science
+
+-   Introduction to Python
+
+-   Data Structures
+
+## Philosophy
+
+-   Ethics
+
+-   Science, Ethics, and Technology
+
+-   Philosophy of Science
+
+\*\* Work sample available upon request

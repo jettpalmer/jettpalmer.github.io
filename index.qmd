@@ -10,41 +10,43 @@ about:
     - icon: file-earmark-pdf-fill
       text: Resume
       href: jett-palmer-resume.pdf
-    - icon: github
-      text: GitHub
-      href: https://github.com/jettpalmer
 resources: 
   - jett-palmer-resume.pdf
 toc: false
 ---
 
-
-## 🎓 |  Education
+## 🎓 \| Education
 
 California Polytechnic State University (Cal Poly) \| San Luis Obispo, CA
 
 M.S. in Statistics \| Jan 2026 - Dec 2026 (Expected)
 
-B.S. in Statistics \| Sept 2022 - Dec 2025 (Expected)
+B.S. in Statistics \| Sept 2022 - Dec 2025
 
-## 🔎 |  Research
+## 🔎 \| Research
 
-I am currently researching authority constructs in data science classrooms.
+Submitted data science pedagogy and behavioral research to the 2026 International Conference on Teaching Statistics with a proceedings paper under review (Theobold, Palmer, et al., 2025).
 
-I have published in the Journal of Statistics and Data Science Education (2024) and presented human behavioral research for the Western Psychological Association (2025).
+Presented human behavioral research for the Western Psychological Association (2025) with publication under review ([Epstein, Newland, Palmer, et al., 2025](https://ssrn.com/abstract=5526418)).
 
-## 📊 |  Experience
+Published statistics pedagogy and sampling research in the Journal of Statistics and Data Science Education ([Chance, Kerr, & Palmer, 2024](https://doi.org/10.1080/26939169.2024.2395505)).
 
-Data Analyst Intern \| American Institute of Behavioral Research & Technology \| June 2024 - present
+## 📊 \| Experience
 
-Research Assistant \| Authority in Data Science \| September 2023 - present
+Principal Investigator \| Advancing the ASCCR Frame with Impact Evaluation \| 2025 - 2026
 
-Research Fellow \| User Experience for Social Impact \| July 2023 - June 2025
+Data Analyst (Intern) \| American Institute of Behavioral Research & Technology \| 2024 - 2025
 
-Research Assistant \| Statistics Pedagogy \| June 2023 - September 2023
+Research Assistant \| Authority Constructs in Data Science \| 2023 - 2025
 
-## 🎗️ |  Service
+Research Fellow \| User Experience for Social Impact \| 2023 - 2025
 
-I helped found two 501(c)(3) nonprofit organizations and have been appointed to over fifteen committees and governing bodies at Cal Poly.
+Research Assistant \| Statistical Pedagogy \| 2023
 
-I am actively serving my third year as a member of the ASI Board of Directors and chairing an ad hoc committee responsible for facilitating a $20 million dollar merger.
+## 🎗️ \| Service
+
+Founded two 501(c)(3) nonprofit organizations both with human wellness missions.
+
+Appointed to over fifteen advisory committees and governing bodies at Cal Poly.
+
+Elected to the Board of Directors of Associated Students, Inc. (2023 - 2026) and appointed to facilitate an eight-figure merger.

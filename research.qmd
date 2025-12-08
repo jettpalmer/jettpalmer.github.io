@@ -8,17 +8,21 @@ title: "Research"
 
 Chance, B., Kerr, A., & Palmer, J. (2024). Taking the Next Step in Exploring the *Literary Digest* 1936 Poll. *Journal of Statistics and Data Science Education*, *32*(4), 405–415. <https://doi.org/10.1080/26939169.2024.2395505>
 
-## In Progress
+## Under Review
 
 ### Social Pressure Theory (2025)
 
-Epstein, R., Frye, E., Palmer, J., & Rajgarhia, A. (2025, May 1-4). *Evaluating the Social Pressure Theory (SPT) of sexual orientation with data from a large non-English-speaking sample.* (Manuscript).
+Epstein, R., Newland, A., Palmer, J., Rajgarhia, A., & Wang, N. (submitted for publication). *Testing a quantitative social pressure theory of sexual orientation with data obtained from 310,144 participants in 92 countries completing surveys in their native languages*. (Preprint posted on SSRN, September 24, 2025, [https://ssrn.com/abstract=5526418](#0))
 
 ### Authority in Data Science (2025)
 
-NSF-funded research on pair-programming experiences in data science classrooms.
+Abrash, I., Canner, J., Geam, E., Kan, N., Kuebitz, C., Lopez, E., Palmer, J., Pfeiffer, I., Theobold, A., Woodard, V. (submitted to International Conference on Teaching Statistics). *Status, Equity, and Collaboration: A Pilot Study of Complex Instruction-Informed Pair Programing*.
 
-## Conferences
+## In Progress
+
+Palmer, J., Smith, H., Vance, E. *From Evidence to Action: Advancing the ASCCR Frame with Impact Evaluation.*
+
+## Conference Presentations
 
 ### Western Psychological Association \| Paper Presentation (2025)
 

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jett Palmer",
     "section": "",
-    "text": "California Polytechnic State University (Cal Poly) | San Luis Obispo, CA\nM.S. in Statistics | Jan 2026 - Dec 2026 (Expected)\nB.S. in Statistics | Sept 2022 - Dec 2025 (Expected)"
+    "text": "California Polytechnic State University (Cal Poly) | San Luis Obispo, CA\nM.S. in Statistics | Jan 2026 - Dec 2026 (Expected)\nB.S. in Statistics | Sept 2022 - Dec 2025"
   },
   {
     "objectID": "about.html",
@@ -18,21 +18,21 @@
     "href": "index.html#education",
     "title": "Jett Palmer",
     "section": "",
-    "text": "California Polytechnic State University (Cal Poly) | San Luis Obispo, CA\nM.S. in Statistics | Jan 2026 - Dec 2026 (Expected)\nB.S. in Statistics | Sept 2022 - Dec 2025 (Expected)"
+    "text": "California Polytechnic State University (Cal Poly) | San Luis Obispo, CA\nM.S. in Statistics | Jan 2026 - Dec 2026 (Expected)\nB.S. in Statistics | Sept 2022 - Dec 2025"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Jett Palmer",
     "section": "📊 | Experience",
-    "text": "📊 | Experience\nData Analyst Intern | American Institute of Behavioral Research & Technology | June 2024 - present\nResearch Assistant | Authority in Data Science | September 2023 - present\nResearch Fellow | User Experience for Social Impact | July 2023 - June 2025\nResearch Assistant | Statistics Pedagogy | June 2023 - September 2023"
+    "text": "📊 | Experience\nPrincipal Investigator | Advancing the ASCCR Frame with Impact Evaluation | 2025 - 2026\nData Analyst (Intern) | American Institute of Behavioral Research & Technology | 2024 - 2025\nResearch Assistant | Authority Constructs in Data Science | 2023 - 2025\nResearch Fellow | User Experience for Social Impact | 2023 - 2025\nResearch Assistant | Statistical Pedagogy | 2023"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Activities",
     "section": "",
-    "text": "Evaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.\n\n\n\nInvestigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.\n\n\n\nAnalyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.\n\n\n\nSpearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team. Under the guidance of Dr. Heather Smith and Cal Poly Student Affairs."
+    "text": "Interactive presentation to high school students on the 1936 Literary Digest presidential poll: a classic example of flawed statistical sampling.\n\n\n\nTaught local nonprofit organizations how to use data visualization to enhance their impact on the community."
   },
   {
     "objectID": "project_posts/6_1_2024_datafest/index.html",
@@ -137,7 +137,7 @@
     "href": "activities.html",
     "title": "Activities",
     "section": "",
-    "text": "ASI Cal Maritime Integration Ad Hoc Committee (Chair)\nInternal Review Committee (Co-Chair)\n\n\n\n\n\nAssociated Students Inc. Board of Directors (Voting Member)\nCampus Administrative Policy Committee (Voting Member)\nStudent Health Services Advisory Committee of the California State University (Voting Member)\nSubstance Use and Misuse Advisory Committee (Representative)\n\n\n\n\n\nDistinguished Teaching Award Committee (Voting Member) (2025)\nBailey College of Science & Math Inclusion and Equity Committee (Representative) (2025)\nBailey College of Science & Math Inclusion and Equity Funding Review Committee (Voting Member) (2025)\nPolicy & Procedure Subcommittee of the BCSM Inclusion and Equity Committee (Chair) (2025)\nAcademic Senate (Interim Representative) (2024-2025)\nAcademic Senate Executive Committee (Interim Representative) (2024-2025)\nAd-Hoc Bylaw Review Committee (Chair) (2024)\nStudent Success Fee Allocation Committee (Voting Member) (2023-2024)"
+    "text": "Evaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.\n\n\n\nInvestigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.\n\n\n\nAnalyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.\n\n\n\nSpearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team."
   },
   {
     "objectID": "blog.html",
@@ -261,16 +261,16 @@
   {
     "objectID": "projects.html#presentations",
     "href": "projects.html#presentations",
-    "title": "Projects",
-    "section": "Presentations",
-    "text": "Presentations\n\nUnited By Excellence | Introducing Sampling Methodology to High School Students (2024)\nInteractive presentation to high school students on the 1936 Literary Digest presidential poll: a classic example of flawed statistical sampling.\n\n\nElevating Impact through Data Visualization Workshop (2024)\nTaught local nonprofit organizations how to use data visualization to enhance their impact on the community. Under the guidance of Dr. Emily Robinson."
+    "title": "Activities",
+    "section": "",
+    "text": "Interactive presentation to high school students on the 1936 Literary Digest presidential poll: a classic example of flawed statistical sampling.\n\n\n\nTaught local nonprofit organizations how to use data visualization to enhance their impact on the community."
   },
   {
     "objectID": "projects.html#competitions",
     "href": "projects.html#competitions",
-    "title": "Projects",
+    "title": "Activities",
     "section": "Competitions",
-    "text": "Competitions\n\nAmerican Statistical Association | DataFest at Cal Poly (2025)\nCompeting in a 48-hour data analysis marathon this spring.\n\n\nAssociation for Practical & Professional Ethics | Intercollegiate Ethics Bowl (2024)\nAchieved fifth place in the western region.\n\n\nAmerican Statistical Association | DataFest at Cal Poly (2024)\nCompeted in a 48-hour data analysis marathon. Won Best Visualization."
+    "text": "Competitions\n\nAmerican Statistical Association | DataFest at Cal Poly (2025)\nCompeted in a 48-hour data analysis marathon. Won Best Use of External Data.\n\n\nAssociation for Practical & Professional Ethics | Intercollegiate Ethics Bowl (2024)\nWon fifth place in the western region.\n\n\nAmerican Statistical Association | DataFest at Cal Poly (2024)\nCompeted in a 48-hour data analysis marathon. Won Best Visualization."
   },
   {
     "objectID": "projects.html#legislation",
@@ -284,21 +284,21 @@
     "href": "activities.html#competitions",
     "title": "Activities",
     "section": "Competitions",
-    "text": "Competitions\n\nAmerican Statistical Association | DataFest at Cal Poly (2025)\nCompeted in a 48-hour data analysis marathon. Won Best Use of External Data.\n\n\nAssociation for Practical & Professional Ethics | Intercollegiate Ethics Bowl (2024)\nAchieved fifth place in the western region.\n\n\nAmerican Statistical Association | DataFest at Cal Poly (2024)\nCompeted in a 48-hour data analysis marathon. Won Best Visualization."
+    "text": "Competitions\n\nAmerican Statistical Association | DataFest at Cal Poly (2025)\nCompeted in a 48-hour data analysis marathon. Won Best Use of External Data.\n\n\nAssociation for Practical & Professional Ethics | Intercollegiate Ethics Bowl (2024)\nWon fifth place in the western region.\n\n\nAmerican Statistical Association | DataFest at Cal Poly (2024)\nCompeted in a 48-hour data analysis marathon. Won Best Visualization."
   },
   {
     "objectID": "activities.html#committees",
     "href": "activities.html#committees",
     "title": "Activities",
-    "section": "",
-    "text": "ASI Cal Maritime Integration Ad Hoc Committee (Chair)\nInternal Review Committee (Co-Chair)\n\n\n\n\n\nAssociated Students Inc. Board of Directors (Voting Member)\nCampus Administrative Policy Committee (Voting Member)\nStudent Health Services Advisory Committee of the California State University (Voting Member)\nSubstance Use and Misuse Advisory Committee (Representative)\n\n\n\n\n\nDistinguished Teaching Award Committee (Voting Member) (2025)\nBailey College of Science & Math Inclusion and Equity Committee (Representative) (2025)\nBailey College of Science & Math Inclusion and Equity Funding Review Committee (Voting Member) (2025)\nPolicy & Procedure Subcommittee of the BCSM Inclusion and Equity Committee (Chair) (2025)\nAcademic Senate (Interim Representative) (2024-2025)\nAcademic Senate Executive Committee (Interim Representative) (2024-2025)\nAd-Hoc Bylaw Review Committee (Chair) (2024)\nStudent Success Fee Allocation Committee (Voting Member) (2023-2024)"
+    "section": "Committees",
+    "text": "Committees\n\nPresiding:\n\nASI Cal Maritime Integration Ad Hoc Committee (Chair)\n\n\n\nCurrent Appointments:\n\nAssociated Students Inc. Board of Directors\nDistinguished Teaching Award Committee\nSubstance Use and Misuse Advisory Committee\nArtificial Intelligence Student Success Advisory Group\nAcademic Senate: Student Perceptions of Teaching Effectiveness Ad Hoc Committee\n\n\n\nPrevious Appointments:\n\nInternal Review Committee (Chair) (2023-2025)\nCampus Administrative Policy Committee (2023-2025)\nStudent Health Services Advisory Committee of the California State University (2023-2025)\nBailey College of Science & Math Inclusion and Equity Committee (2024-2025)\nBailey College of Science & Math Inclusion and Equity Funding Review Committee (2024-2025)\nAcademic Senate (2024-2025)\nAcademic Senate Executive Committee (2024-2025)\nAd-Hoc Bylaw Review Committee (Chair) (2024)\nStudent Success Fee Allocation Committee (2023-2024)"
   },
   {
     "objectID": "activities.html#awards",
     "href": "activities.html#awards",
     "title": "Activities",
     "section": "Awards",
-    "text": "Awards\n\nBest Use of External Data at ASA DataFest, Cal Poly (2025)\nAwarded by panel of faculty and industry judges.\n\n\nKathy Storelli “Use Your Voice” Scholarship (2024)\nFor outstanding service to Cal Poly student government as the Chair of Internal Review, Chair of Bylaw Review, and member of the Board of Directors. Inaugural recipient.\n\n\nBest Visualization at ASA DataFest, Cal Poly (2024)\nAwarded by panel of faculty and industry judges.\n\n\nJoyce Curry-Daly and James Daly Scholarship (2023)\nAwarded by the Statistics department review committee.\n\n\nOutstanding Character and Communication Scholarship (2022)\nAwarded by the North County Education Fund.\n\n\nEmployee of the Year, Chick-fil-A Del Sur (2021)\n\n\nEmployee of the Month, Chick-fil-A Del Sur (2021)"
+    "text": "Awards\n\nBest Use of External Data at ASA DataFest, Cal Poly (2025)\nAwarded by panel of faculty and industry judges.\n\n\nKathy Storelli “Use Your Voice” Scholarship (2024)\nFor outstanding service to Cal Poly student government as the Chair of Internal Review, Chair of Bylaw Review, and member of the Board of Directors. Inaugural recipient.\n\n\nBest Visualization at ASA DataFest, Cal Poly (2024)\nAwarded by panel of faculty and industry judges.\n\n\nJoyce Curry-Daly and James Daly Scholarship (2023)\nAwarded by the Statistics department review committee.\n\n\nOutstanding Character and Communication Scholarship (2022)\nAwarded by the North County Education Fund selection committee."
   },
   {
     "objectID": "publications_presentations.html",
@@ -389,21 +389,21 @@
     "href": "research.html#in-progress",
     "title": "Research",
     "section": "In Progress",
-    "text": "In Progress\n\nSocial Pressure Theory (2025)\nEpstein, R., Frye, E., Palmer, J., & Rajgarhia, A. (2025, May 1-4). Evaluating the Social Pressure Theory (SPT) of sexual orientation with data from a large non-English-speaking sample. (Manuscript).\n\n\nAuthority in Data Science (2025)\nNSF-funded research on pair-programming experiences in data science classrooms."
+    "text": "In Progress\nPalmer, J., Smith, H., Vance, E. From Evidence to Action: Advancing the ASCCR Frame with Impact Evaluation."
   },
   {
     "objectID": "index.html#service",
     "href": "index.html#service",
     "title": "Jett Palmer",
     "section": "🎗️ | Service",
-    "text": "🎗️ | Service\nI helped found two 501(c)(3) nonprofit organizations and have been appointed to over fifteen committees and governing bodies at Cal Poly.\nI am actively serving my third year as a member of the ASI Board of Directors and chairing an ad hoc committee responsible for facilitating a $20 million dollar merger."
+    "text": "🎗️ | Service\nFounded two 501(c)(3) nonprofit organizations both with human wellness missions.\nAppointed to over fifteen advisory committees and governing bodies at Cal Poly.\nElected to the Board of Directors of Associated Students, Inc. (2023 - 2026) and appointed to facilitate an eight-figure merger."
   },
   {
     "objectID": "index.html#research",
     "href": "index.html#research",
     "title": "Jett Palmer",
     "section": "🔎 | Research",
-    "text": "🔎 | Research\nI am currently researching authority constructs in data science classrooms.\nI have published in the Journal of Statistics and Data Science Education (2024) and presented human behavioral research for the Western Psychological Association (2025)."
+    "text": "🔎 | Research\nSubmitted data science pedagogy and behavioral research to the 2026 International Conference on Teaching Statistics with a proceedings paper under review (Theobold, Palmer, et al., 2025).\nPresented human behavioral research for the Western Psychological Association (2025) with publication under review (Epstein, Newland, Palmer, et al., 2025).\nPublished statistics pedagogy and sampling research in the Journal of Statistics and Data Science Education (Chance, Kerr, & Palmer, 2024)."
   },
   {
     "objectID": "index.html#servicee",
@@ -411,5 +411,117 @@
     "title": "Jett Palmer",
     "section": "🎗️ | Servicee",
     "text": "🎗️ | Servicee\nI have helped found two 501(c)(3) nonprofit organizations and been appointed to over fifteen committees and governing bodies at Cal Poly. I am actively serving my third year as a member of the ASI Board of Directors and chairing an ad hoc committee responsible for facilitating a $20 million dollar merger."
+  },
+  {
+    "objectID": "research.html#under-review",
+    "href": "research.html#under-review",
+    "title": "Research",
+    "section": "Under Review",
+    "text": "Under Review\n\nSocial Pressure Theory (2025)\nEpstein, R., Newland, A., Palmer, J., Rajgarhia, A., & Wang, N. (submitted for publication). Testing a quantitative social pressure theory of sexual orientation with data obtained from 310,144 participants in 92 countries completing surveys in their native languages. (Preprint posted on SSRN, September 24, 2025, https://ssrn.com/abstract=5526418)\n\n\nAuthority in Data Science (2025)\nAbrash, I., Canner, J., Geam, E., Kan, N., Kuebitz, C., Lopez, E., Palmer, J., Pfeiffer, I., Theobold, A., Woodard, V. (submitted to International Conference on Teaching Statistics). Status, Equity, and Collaboration: A Pilot Study of Complex Instruction-Informed Pair Programing."
+  },
+  {
+    "objectID": "research.html#conference-presentations",
+    "href": "research.html#conference-presentations",
+    "title": "Research",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n\nWestern Psychological Association | Paper Presentation (2025)\nPresented at the 105th annual meeting of the WPA, Las Vegas, NV.\n\n\ne-Conference on Teaching Statistics | Poster Presentation (2024)\nPresented on the relationship between group work and social identity in mathematics and statistics classrooms."
+  },
+  {
+    "objectID": "research.html#consulting",
+    "href": "research.html#consulting",
+    "title": "Research",
+    "section": "Consulting",
+    "text": "Consulting\n\nAnalyzing the Effect of Hand Dominance, Wrist Direction, and Distraction on Ergonomics Task (2025)\nEvaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.\n\n\nAssociations Between Mothers’ Technology Use, Parenting Stress, and Depression During the Early Postpartum Period (2025)\nInvestigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.\n\n\nInvestigating Cal Poly Student Sustainability Literacy Using Spatial Data (2025)\nAnalyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.\n\n\nDesigning the Premier Student Employment Experience at Cal Poly (2024)\nSpearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team. Under the guidance of Dr. Heather Smith and Cal Poly Student Affairs."
+  },
+  {
+    "objectID": "projects.html#awards",
+    "href": "projects.html#awards",
+    "title": "Activities",
+    "section": "Awards",
+    "text": "Awards\n\nBest Use of External Data at ASA DataFest, Cal Poly (2025)\nAwarded by panel of faculty and industry judges.\n\n\nKathy Storelli “Use Your Voice” Scholarship (2024)\nFor outstanding service to Cal Poly student government as the Chair of Internal Review, Chair of Bylaw Review, and member of the Board of Directors. Inaugural recipient.\n\n\nBest Visualization at ASA DataFest, Cal Poly (2024)\nAwarded by panel of faculty and industry judges.\n\n\nJoyce Curry-Daly and James Daly Scholarship (2023)\nAwarded by the Statistics department review committee.\n\n\nOutstanding Character and Communication Scholarship (2022)\nAwarded by the North County Education Fund selection committee."
+  },
+  {
+    "objectID": "projects.html#advocacy",
+    "href": "projects.html#advocacy",
+    "title": "Activities",
+    "section": "Advocacy",
+    "text": "Advocacy\nThe Associated Students Inc. Board of Directors is the official voice of the student body. As an elected representative, I authored and passed the following legislation:\n\nResolution to Amend ASI Articles of Incorporation (Palmer, 2025)\nResolution Calling for Reform of the Course Evaluation Instrument and Processes (Reyes & Palmer, 2025)\nResolution to Reaffirm Shared Governance (Palmer & Finch, 2025)\nResolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Poly (Palmer & Prince, 2024)."
+  },
+  {
+    "objectID": "projects.html#committees",
+    "href": "projects.html#committees",
+    "title": "Activities",
+    "section": "Committees",
+    "text": "Committees\n\nPresiding:\n\nASI Cal Maritime Integration Ad Hoc Committee (Chair)\n\n\n\nCurrent Appointments:\n\nAssociated Students Inc. Board of Directors\nDistinguished Teaching Award Committee\nSubstance Use and Misuse Advisory Committee\nArtificial Intelligence Student Success Advisory Group\nAcademic Senate: Student Perceptions of Teaching Effectiveness Ad Hoc Committee\n\n\n\nPrevious Appointments:\n\nInternal Review Committee (Chair) (2023-2025)\nCampus Administrative Policy Committee (2023-2025)\nStudent Health Services Advisory Committee of the California State University (2023-2025)\nBailey College of Science & Math Inclusion and Equity Committee (2024-2025)\nBailey College of Science & Math Inclusion and Equity Funding Review Committee (2024-2025)\nAcademic Senate (2024-2025)\nAcademic Senate Executive Committee (2024-2025)\nAd-Hoc Bylaw Review Committee (Chair) (2024)\nStudent Success Fee Allocation Committee (2023-2024)"
+  },
+  {
+    "objectID": "activities.html#presentations",
+    "href": "activities.html#presentations",
+    "title": "Activities",
+    "section": "Presentations",
+    "text": "Presentations\n\nUnited By Excellence | Introducing Sampling Methodology to High School Students (2024)\nInteractive presentation to high school students on the 1936 Literary Digest presidential poll: a classic example of flawed statistical sampling.\n\n\nElevating Impact through Data Visualization Workshop (2024)\nTaught local nonprofit organizations how to use data visualization to enhance their impact on the community."
+  },
+  {
+    "objectID": "activities.html#advocacy",
+    "href": "activities.html#advocacy",
+    "title": "Activities",
+    "section": "Advocacy",
+    "text": "Advocacy\nThe Associated Students Inc. Board of Directors is the official voice of the student body. As an elected representative, I authored and passed the following legislation:\n\nResolution to Amend ASI Articles of Incorporation (Palmer, 2025)\nResolution Calling for Reform of the Course Evaluation Instrument and Processes (Reyes & Palmer, 2025)\nResolution to Reaffirm Shared Governance (Palmer & Finch, 2025)\nResolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Poly (Palmer & Prince, 2024)."
+  },
+  {
+    "objectID": "coursework.html",
+    "href": "coursework.html",
+    "title": "Coursework",
+    "section": "",
+    "text": "Statistical Machine Learning with R **\nMultilevel and Mixed Modeling **\nStatistical Consulting **\nApplied Multivariate Statistics\nSurvival Analysis Methods\nProbability Theory\nEstimation and Sampling Theory\nMathematical Statistics\nApplied Linear Models\nSurvey Sampling & Methodology\nDesign & Analysis of Experiments\nStatistical Computing with R\nStatistical Computing with SAS\nStatistical Communication"
+  },
+  {
+    "objectID": "coursework.html#statistics",
+    "href": "coursework.html#statistics",
+    "title": "Coursework",
+    "section": "",
+    "text": "Statistical Machine Learning with R **\nMultilevel and Mixed Modeling **\nStatistical Consulting **\nApplied Multivariate Statistics\nSurvival Analysis Methods\nProbability Theory\nEstimation and Sampling Theory\nMathematical Statistics\nApplied Linear Models\nSurvey Sampling & Methodology\nDesign & Analysis of Experiments\nStatistical Computing with R\nStatistical Computing with SAS\nStatistical Communication"
+  },
+  {
+    "objectID": "coursework.html#mathematics",
+    "href": "coursework.html#mathematics",
+    "title": "Coursework",
+    "section": "Mathematics",
+    "text": "Mathematics\n\nCalculus (I-IV)\nLinear Algebra\nMethods of Proof"
+  },
+  {
+    "objectID": "coursework.html#computer-science",
+    "href": "coursework.html#computer-science",
+    "title": "Coursework",
+    "section": "Computer Science",
+    "text": "Computer Science\n\nIntroduction to Python\nData Structures"
+  },
+  {
+    "objectID": "coursework.html#misc",
+    "href": "coursework.html#misc",
+    "title": "Coursework",
+    "section": "Misc",
+    "text": "Misc\n\nEthics\nScience, Ethics, and Technology\nPhilosophy of Science\n\n** Work sample available upon request"
+  },
+  {
+    "objectID": "activities.html#consulting",
+    "href": "activities.html#consulting",
+    "title": "Activities",
+    "section": "",
+    "text": "Evaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.\n\n\n\nInvestigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.\n\n\n\nAnalyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.\n\n\n\nSpearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team."
+  },
+  {
+    "objectID": "activities.html#legislation",
+    "href": "activities.html#legislation",
+    "title": "Activities",
+    "section": "Legislation",
+    "text": "Legislation\nThe Associated Students Inc. Board of Directors is the official voice of the student body. As an elected representative, I authored and passed the following legislation:\n\nResolution to Amend ASI Articles of Incorporation (Palmer, 2025)\nResolution Calling for Reform of the Course Evaluation Instrument and Processes (Reyes & Palmer, 2025)\nResolution to Reaffirm Shared Governance (Palmer & Finch, 2025)\nResolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Poly (Palmer & Prince, 2024)."
+  },
+  {
+    "objectID": "coursework.html#philosophy",
+    "href": "coursework.html#philosophy",
+    "title": "Coursework",
+    "section": "Philosophy",
+    "text": "Philosophy\n\nEthics\nScience, Ethics, and Technology\nPhilosophy of Science\n\n** Work sample available upon request"
   }
 ]

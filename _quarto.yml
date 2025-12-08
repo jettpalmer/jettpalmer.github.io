@@ -9,7 +9,6 @@ website:
       - text: Home
         href: index.qmd
       - research.qmd
-      - projects.qmd
       - activities.qmd
       #- blog.qmd
 

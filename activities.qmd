@@ -2,78 +2,116 @@
 title: "Activities"
 ---
 
-## Committees
+## Consulting
 
-### Presiding:
+### **Analyzing the Effect of Hand Dominance, Wrist Direction, and Distraction on Ergonomics Task (2025)**
 
--   ASI Cal Maritime Integration Ad Hoc Committee (Chair)
+Evaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.
 
--   Internal Review Committee (Co-Chair)
+### **Associations Between Mothers’ Technology Use, Parenting Stress, and Depression During the Early Postpartum Period (2025)**
 
-### Current Appointments:
+Investigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.
 
--   Associated Students Inc. Board of Directors (Voting Member)
+### **Investigating Cal Poly Student Sustainability Literacy Using Spatial Data (2025)**
 
--   Campus Administrative Policy Committee (Voting Member)
+Analyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.
 
--   Student Health Services Advisory Committee of the California State University (Voting Member)
+### **Designing the Premier Student Employment Experience at Cal Poly (2024)**
 
--   Substance Use and Misuse Advisory Committee (Representative)
+Spearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team.
 
-### Previous Appointments:
+## Presentations
 
--   Distinguished Teaching Award Committee (Voting Member) (2025)
+### United By Excellence \| Introducing Sampling Methodology to High School Students (2024)
 
--   Bailey College of Science & Math Inclusion and Equity Committee (Representative) (2025)
+Interactive presentation to high school students on the 1936 Literary Digest presidential poll: a classic example of flawed statistical sampling.
 
--   Bailey College of Science & Math Inclusion and Equity Funding Review Committee (Voting Member) (2025)
+### Elevating Impact through Data Visualization Workshop (2024)
 
--   Policy & Procedure Subcommittee of the BCSM Inclusion and Equity Committee (Chair) (2025)
+Taught local nonprofit organizations how to use data visualization to enhance their impact on the community.
 
--   Academic Senate (Interim Representative) (2024-2025)
+## Legislation
 
--   Academic Senate Executive Committee (Interim Representative) (2024-2025)
+The Associated Students Inc. Board of Directors is the official voice of the student body. As an elected representative, I authored and passed the following legislation:
 
--   Ad-Hoc Bylaw Review Committee (Chair) (2024)
+-   Resolution to Amend ASI Articles of Incorporation ([Palmer, 2025](https://www.asi.calpoly.edu/wp-content/uploads/2025/05/Resolution-25-10-Amended-Articles-of-Incorporation_BODAppr-1.pdf))
 
--   Student Success Fee Allocation Committee (Voting Member) (2023-2024)
+-   Resolution Calling for Reform of the Course Evaluation Instrument and Processes ([Reyes & Palmer, 2025](https://www.asi.calpoly.edu/wp-content/uploads/2025/05/Resolution-25-04_Resolution-on-Course-Evaluations.pdf))
 
-## Competitions
+-   Resolution to Reaffirm Shared Governance ([Palmer & Finch, 2025](https://www.asi.calpoly.edu/wp-content/uploads/2025/04/Resolution25-03_Reaffirm-Shared-Governance.pdf))
 
-### American Statistical Association \| DataFest at Cal Poly (2025)
+-   Resolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Poly ([Palmer & Prince, 2024](https://www.asi.calpoly.edu/wp-content/uploads/2024/03/24-02-Resolution-to-Recommend-an-Amendment-to-the-Cal-Poly-Academic-Senate-Class-Attendance-Policy_BODAppr.pdf)).
 
-Competed in a 48-hour data analysis marathon. Won Best Use of External Data.
+## **Awards**
 
-### Association for Practical & Professional Ethics \| Intercollegiate Ethics Bowl (2024)
-
-Achieved fifth place in the western region.
-
-### American Statistical Association \| DataFest at Cal Poly (2024)
-
-Competed in a 48-hour data analysis marathon. Won Best Visualization.
-
-## Awards
-
-### Best Use of External Data at ASA DataFest, Cal Poly (2025)
+### **Best Use of External Data at ASA DataFest, Cal Poly (2025)**
 
 Awarded by panel of faculty and industry judges.
 
-### Kathy Storelli "Use Your Voice" Scholarship (2024)
+### **Kathy Storelli “Use Your Voice” Scholarship (2024)**
 
 For outstanding service to Cal Poly student government as the Chair of Internal Review, Chair of Bylaw Review, and member of the Board of Directors. Inaugural recipient.
 
-### Best Visualization at ASA DataFest, Cal Poly (2024)
+### **Best Visualization at ASA DataFest, Cal Poly (2024)**
 
 Awarded by panel of faculty and industry judges.
 
-### Joyce Curry-Daly and James Daly Scholarship (2023)
+### **Joyce Curry-Daly and James Daly Scholarship (2023)**
 
 Awarded by the Statistics department review committee.
 
-### Outstanding Character and Communication Scholarship (2022)
+### **Outstanding Character and Communication Scholarship (2022)**
 
-Awarded by the North County Education Fund.
+Awarded by the North County Education Fund selection committee.
 
-### Employee of the Year, Chick-fil-A Del Sur (2021)
+## **Competitions**
 
-### Employee of the Month, Chick-fil-A Del Sur (2021)
+### **American Statistical Association \| DataFest at Cal Poly (2025)**
+
+Competed in a 48-hour data analysis marathon. Won Best Use of External Data.
+
+### **Association for Practical & Professional Ethics \| Intercollegiate Ethics Bowl (2024)**
+
+Won fifth place in the western region.
+
+### **American Statistical Association \| DataFest at Cal Poly (2024)**
+
+Competed in a 48-hour data analysis marathon. Won Best Visualization.
+
+## **Committees**
+
+### **Presiding:**
+
+-   ASI Cal Maritime Integration Ad Hoc Committee (Chair)
+
+### **Current Appointments:**
+
+-   Associated Students Inc. Board of Directors
+
+-   Distinguished Teaching Award Committee
+
+-   Substance Use and Misuse Advisory Committee
+
+-   Artificial Intelligence Student Success Advisory Group
+
+-   Academic Senate: Student Perceptions of Teaching Effectiveness Ad Hoc Committee
+
+### **Previous Appointments:**
+
+-   Internal Review Committee (Chair) (2023-2025)
+
+-   Campus Administrative Policy Committee (2023-2025)
+
+-   Student Health Services Advisory Committee of the California State University (2023-2025)
+
+-   Bailey College of Science & Math Inclusion and Equity Committee (2024-2025)
+
+-   Bailey College of Science & Math Inclusion and Equity Funding Review Committee (2024-2025)
+
+-   Academic Senate (2024-2025)
+
+-   Academic Senate Executive Committee (2024-2025)
+
+-   Ad-Hoc Bylaw Review Committee (Chair) (2024)
+
+-   Student Success Fee Allocation Committee (2023-2024)
