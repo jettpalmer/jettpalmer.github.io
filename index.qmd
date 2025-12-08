@@ -19,29 +19,17 @@ toc: false
 
 California Polytechnic State University (Cal Poly) \| San Luis Obispo, CA
 
-M.S. in Statistics \| Jan 2026 - Dec 2026 (Expected)
+M.S. in Statistics \| Jan 2026 - present
 
 B.S. in Statistics \| Sept 2022 - Dec 2025
 
-## 🔎 \| Research
+## 📊 \| Recent Experience
 
-Submitted data science pedagogy and behavioral research to the 2026 International Conference on Teaching Statistics with a proceedings paper under review (Theobold, Palmer, et al., 2025).
-
-Presented human behavioral research for the Western Psychological Association (2025) with publication under review ([Epstein, Newland, Palmer, et al., 2025](https://ssrn.com/abstract=5526418)).
-
-Published statistics pedagogy and sampling research in the Journal of Statistics and Data Science Education ([Chance, Kerr, & Palmer, 2024](https://doi.org/10.1080/26939169.2024.2395505)).
-
-## 📊 \| Experience
-
-Principal Investigator \| Advancing the ASCCR Frame with Impact Evaluation \| 2025 - 2026
+Principal Investigator \| Advancing the ASCCR Frame with Impact Evaluation \| 2025 - present
 
 Data Analyst (Intern) \| American Institute of Behavioral Research & Technology \| 2024 - 2025
 
 Research Assistant \| Authority Constructs in Data Science \| 2023 - 2025
-
-Research Fellow \| User Experience for Social Impact \| 2023 - 2025
-
-Research Assistant \| Statistical Pedagogy \| 2023
 
 ## 🎗️ \| Service
 

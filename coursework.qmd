@@ -2,6 +2,8 @@
 title: "Coursework"
 ---
 
+Technical and otherwise relevant coursework. Work samples available upon request (\*\*).
+
 ## Statistics
 
 -   Statistical Machine Learning with R \*\*
@@ -46,12 +48,10 @@ title: "Coursework"
 
 -   Data Structures
 
-## Philosophy
+## Ethics
 
--   Ethics
+-   Meta Ethics
 
 -   Science, Ethics, and Technology
 
 -   Philosophy of Science
-
-\*\* Work sample available upon request

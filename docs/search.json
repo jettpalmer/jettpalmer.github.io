@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jett Palmer",
     "section": "",
-    "text": "California Polytechnic State University (Cal Poly) | San Luis Obispo, CA\nM.S. in Statistics | Jan 2026 - Dec 2026 (Expected)\nB.S. in Statistics | Sept 2022 - Dec 2025"
+    "text": "California Polytechnic State University (Cal Poly) | San Luis Obispo, CA\nM.S. in Statistics | Jan 2026 - present\nB.S. in Statistics | Sept 2022 - Dec 2025"
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "index.html#education",
     "title": "Jett Palmer",
     "section": "",
-    "text": "California Polytechnic State University (Cal Poly) | San Luis Obispo, CA\nM.S. in Statistics | Jan 2026 - Dec 2026 (Expected)\nB.S. in Statistics | Sept 2022 - Dec 2025"
+    "text": "California Polytechnic State University (Cal Poly) | San Luis Obispo, CA\nM.S. in Statistics | Jan 2026 - present\nB.S. in Statistics | Sept 2022 - Dec 2025"
   },
   {
     "objectID": "index.html#experience",
@@ -30,9 +30,9 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Activities",
+    "title": "Projects",
     "section": "",
-    "text": "Interactive presentation to high school students on the 1936 Literary Digest presidential poll: a classic example of flawed statistical sampling.\n\n\n\nTaught local nonprofit organizations how to use data visualization to enhance their impact on the community."
+    "text": "Evaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.\n\n\n\nInvestigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.\n\n\n\nAnalyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.\n\n\n\nSpearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team."
   },
   {
     "objectID": "project_posts/6_1_2024_datafest/index.html",
@@ -137,7 +137,7 @@
     "href": "activities.html",
     "title": "Activities",
     "section": "",
-    "text": "Evaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.\n\n\n\nInvestigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.\n\n\n\nAnalyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.\n\n\n\nSpearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team."
+    "text": "American Statistical Association | DataFest at Cal Poly (2025) | 48-hour data analysis marathon (Winner).\nAssociation for Practical & Professional Ethics | Intercollegiate Ethics Bowl (2024).\nAmerican Statistical Association | DataFest at Cal Poly (2024) | 48-hour data analysis marathon (Winner)."
   },
   {
     "objectID": "blog.html",
@@ -261,9 +261,9 @@
   {
     "objectID": "projects.html#presentations",
     "href": "projects.html#presentations",
-    "title": "Activities",
-    "section": "",
-    "text": "Interactive presentation to high school students on the 1936 Literary Digest presidential poll: a classic example of flawed statistical sampling.\n\n\n\nTaught local nonprofit organizations how to use data visualization to enhance their impact on the community."
+    "title": "Projects",
+    "section": "Presentations",
+    "text": "Presentations\n\nUnited By Excellence | Introducing Sampling Methodology to High School Students (2024)\nInteractive presentation to high school students on the 1936 Literary Digest presidential poll: a classic example of flawed statistical sampling.\n\n\nElevating Impact through Data Visualization Workshop (2024)\nTaught local nonprofit organizations how to use data visualization to enhance their impact on the community."
   },
   {
     "objectID": "projects.html#competitions",
@@ -277,14 +277,14 @@
     "href": "projects.html#legislation",
     "title": "Projects",
     "section": "Legislation",
-    "text": "Legislation\nThe Associated Students Inc. Board of Directors is the official voice of the student body. As an elected representative, I have authored and passed legislation on the following topics:\n\nResolution to Amend ASI Articles of Incorporation (2025)\nPassed by the Associated Students Inc. Board of Directors.\n\n\nResolution Calling for Reform of the Course Evaluation Instrument and Processes (2025)\nPassed by the Associated Students Inc. Board of Directors.\n\n\nResolution to Reaffirm Shared Governance (2025)\nPassed by the Associated Students Inc. Board of Directors.\n\n\nResolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Policy (2024)\nPassed by the Associated Students Inc. Board of Directors."
+    "text": "Legislation\nThe Associated Students Inc. Board of Directors is the official voice of the student body. As an elected representative, I authored and passed the following legislation:\n\nResolution to Amend ASI Articles of Incorporation (Palmer, 2025)\nResolution Calling for Reform of the Course Evaluation Instrument and Processes (Reyes & Palmer, 2025)\nResolution to Reaffirm Shared Governance (Palmer & Finch, 2025)\nResolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Poly (Palmer & Prince, 2024)."
   },
   {
     "objectID": "activities.html#competitions",
     "href": "activities.html#competitions",
     "title": "Activities",
-    "section": "Competitions",
-    "text": "Competitions\n\nAmerican Statistical Association | DataFest at Cal Poly (2025)\nCompeted in a 48-hour data analysis marathon. Won Best Use of External Data.\n\n\nAssociation for Practical & Professional Ethics | Intercollegiate Ethics Bowl (2024)\nWon fifth place in the western region.\n\n\nAmerican Statistical Association | DataFest at Cal Poly (2024)\nCompeted in a 48-hour data analysis marathon. Won Best Visualization."
+    "section": "",
+    "text": "American Statistical Association | DataFest at Cal Poly (2025) | 48-hour data analysis marathon (Winner).\nAssociation for Practical & Professional Ethics | Intercollegiate Ethics Bowl (2024).\nAmerican Statistical Association | DataFest at Cal Poly (2024) | 48-hour data analysis marathon (Winner)."
   },
   {
     "objectID": "activities.html#committees",
@@ -298,7 +298,7 @@
     "href": "activities.html#awards",
     "title": "Activities",
     "section": "Awards",
-    "text": "Awards\n\nBest Use of External Data at ASA DataFest, Cal Poly (2025)\nAwarded by panel of faculty and industry judges.\n\n\nKathy Storelli “Use Your Voice” Scholarship (2024)\nFor outstanding service to Cal Poly student government as the Chair of Internal Review, Chair of Bylaw Review, and member of the Board of Directors. Inaugural recipient.\n\n\nBest Visualization at ASA DataFest, Cal Poly (2024)\nAwarded by panel of faculty and industry judges.\n\n\nJoyce Curry-Daly and James Daly Scholarship (2023)\nAwarded by the Statistics department review committee.\n\n\nOutstanding Character and Communication Scholarship (2022)\nAwarded by the North County Education Fund selection committee."
+    "text": "Awards\n\nBest use of External Data at ASA DataFest, Cal Poly (2025)\nKathy Storelli “Use Your Voice” Scholarship, ASI Student Government (2024)\nBest Visualization at ASA DataFest, Cal Poly (2024)\nJoyce Curry-Daly and James Daly Scholarship, Cal Poly Statistics Department (2023)\nOutstanding Character and Communication Scholarship, North County Education Fund (2022)\nEmployee of the Year, Food Service (2022)"
   },
   {
     "objectID": "publications_presentations.html",
@@ -473,14 +473,14 @@
     "href": "coursework.html",
     "title": "Coursework",
     "section": "",
-    "text": "Statistical Machine Learning with R **\nMultilevel and Mixed Modeling **\nStatistical Consulting **\nApplied Multivariate Statistics\nSurvival Analysis Methods\nProbability Theory\nEstimation and Sampling Theory\nMathematical Statistics\nApplied Linear Models\nSurvey Sampling & Methodology\nDesign & Analysis of Experiments\nStatistical Computing with R\nStatistical Computing with SAS\nStatistical Communication"
+    "text": "Technical and otherwise relevant coursework. Work samples available upon request (**)."
   },
   {
     "objectID": "coursework.html#statistics",
     "href": "coursework.html#statistics",
     "title": "Coursework",
-    "section": "",
-    "text": "Statistical Machine Learning with R **\nMultilevel and Mixed Modeling **\nStatistical Consulting **\nApplied Multivariate Statistics\nSurvival Analysis Methods\nProbability Theory\nEstimation and Sampling Theory\nMathematical Statistics\nApplied Linear Models\nSurvey Sampling & Methodology\nDesign & Analysis of Experiments\nStatistical Computing with R\nStatistical Computing with SAS\nStatistical Communication"
+    "section": "Statistics",
+    "text": "Statistics\n\nStatistical Machine Learning with R **\nMultilevel and Mixed Modeling **\nStatistical Consulting **\nApplied Multivariate Statistics\nSurvival Analysis Methods\nProbability Theory\nEstimation and Sampling Theory\nMathematical Statistics\nApplied Linear Models\nSurvey Sampling & Methodology\nDesign & Analysis of Experiments\nStatistical Computing with R\nStatistical Computing with SAS\nStatistical Communication"
   },
   {
     "objectID": "coursework.html#mathematics",
@@ -522,6 +522,27 @@
     "href": "coursework.html#philosophy",
     "title": "Coursework",
     "section": "Philosophy",
-    "text": "Philosophy\n\nEthics\nScience, Ethics, and Technology\nPhilosophy of Science\n\n** Work sample available upon request"
+    "text": "Philosophy\n\nEthics\nScience, Ethics, and Technology\nPhilosophy of Science"
+  },
+  {
+    "objectID": "projects.html#consulting",
+    "href": "projects.html#consulting",
+    "title": "Projects",
+    "section": "",
+    "text": "Evaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.\n\n\n\nInvestigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.\n\n\n\nAnalyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.\n\n\n\nSpearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team."
+  },
+  {
+    "objectID": "index.html#recent-experience",
+    "href": "index.html#recent-experience",
+    "title": "Jett Palmer",
+    "section": "📊 | Recent Experience",
+    "text": "📊 | Recent Experience\nPrincipal Investigator | Advancing the ASCCR Frame with Impact Evaluation | 2025 - present\nData Analyst (Intern) | American Institute of Behavioral Research & Technology | 2024 - 2025\nResearch Assistant | Authority Constructs in Data Science | 2023 - 2025"
+  },
+  {
+    "objectID": "coursework.html#ethics",
+    "href": "coursework.html#ethics",
+    "title": "Coursework",
+    "section": "Ethics",
+    "text": "Ethics\n\nMeta Ethics\nScience, Ethics, and Technology\nPhilosophy of Science"
   }
 ]
