@@ -12,7 +12,7 @@ Chance, B., Kerr, A., & Palmer, J. (2024). Taking the Next Step in Exploring the
 
 ### Social Pressure Theory (2025)
 
-Epstein, R., Newland, A., Palmer, J., Rajgarhia, A., & Wang, N. (submitted for publication). *Testing a quantitative social pressure theory of sexual orientation with data obtained from 310,144 participants in 92 countries completing surveys in their native languages*. (Preprint posted on SSRN, September 24, 2025, [https://ssrn.com/abstract=5526418](#0))
+Epstein, R., Newland, A., Palmer, J., Rajgarhia, A., & Wang, N. (submitted for publication). *Testing a quantitative social pressure theory of sexual orientation with data obtained from 310,144 participants in 92 countries completing surveys in their native languages*. (Preprint posted on SSRN, September 24, 2025, <https://ssrn.com/abstract=5526418>)
 
 ### Authority in Data Science (2025)
 
