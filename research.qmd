@@ -16,7 +16,7 @@ Epstein, R., Newland, A., Palmer, J., Rajgarhia, A., & Wang, N. (submitted for p
 
 ### Authority in Data Science (2025)
 
-Abrash, I., Canner, J., Geam, E., Kan, N., Kuebitz, C., Lopez, E., Palmer, J., Pfeiffer, I., Theobold, A., Woodard, V. (submitted to International Conference on Teaching Statistics). *Status, Equity, and Collaboration: A Pilot Study of Complex Instruction-Informed Pair Programing*.
+Abrash, I., Canner, J., Geam, E., Kan, N., Kuebitz, C., Lopez, E., Palmer, J., Pfeiffer, I., Theobold, A., Woodard, V. (International Conference on Teaching Statistics). *Status, Equity, and Collaboration: A Pilot Study of Complex Instruction-Informed Pair Programing*.
 
 ## In Progress
 

@@ -14,6 +14,8 @@ Technical and otherwise relevant coursework. Work samples available upon request
 
 -   Generalized Linear Models \*\*
 
+-   Introduction to Data Science with Python \*\*
+
 -   Applied Multivariate Statistics
 
 -   Survival Analysis Methods
@@ -33,8 +35,6 @@ Technical and otherwise relevant coursework. Work samples available upon request
 -   Statistical Computing with R
 
 -   Statistical Computing with SAS
-
--   Introduction to Data Science with Python
 
 -   Statistical Communication
 

@@ -4,6 +4,10 @@ title: "Projects"
 
 ## Consulting
 
+### **Associations Between Soil Health, Regenerative Land Management, and Viticulturist-Perceived Outcomes**
+
+Assessed whether soil health indicators or the use of regenerative land management practices were more strongly associated with viticulturist-perceived outcomes. Carried out multiple correspondence analysis (MCA) and ordinal, multiple, multivariate regression.
+
 ### **Analyzing the Effect of Hand Dominance, Wrist Direction, and Distraction on Ergonomics Task (2025)**
 
 Evaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.
@@ -23,6 +27,8 @@ Spearheaded a ten-week survey and analysis that utilized probability sampling an
 ## Presentations
 
 ### DataFest 2026 \| R Workshop (2026)
+
+Presented to prospective participants of the annual competition about R basics and presentation tips.
 
 ### United By Excellence \| Introducing Sampling Methodology to High School Students (2024)
 
