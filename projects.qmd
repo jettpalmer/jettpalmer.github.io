@@ -22,6 +22,8 @@ Spearheaded a ten-week survey and analysis that utilized probability sampling an
 
 ## Presentations
 
+### DataFest 2026 \| R Workshop (2026)
+
 ### United By Excellence \| Introducing Sampling Methodology to High School Students (2024)
 
 Interactive presentation to high school students on the 1936 Literary Digest presidential poll: a classic example of flawed statistical sampling.

@@ -12,6 +12,8 @@ Technical and otherwise relevant coursework. Work samples available upon request
 
 -   Statistical Consulting \*\*
 
+-   Generalized Linear Models \*\*
+
 -   Applied Multivariate Statistics
 
 -   Survival Analysis Methods
@@ -32,7 +34,11 @@ Technical and otherwise relevant coursework. Work samples available upon request
 
 -   Statistical Computing with SAS
 
+-   Introduction to Data Science with Python
+
 -   Statistical Communication
+
+-   Statistics Education
 
 ## Mathematics
 

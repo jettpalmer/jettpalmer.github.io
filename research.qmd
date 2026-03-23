@@ -20,7 +20,7 @@ Abrash, I., Canner, J., Geam, E., Kan, N., Kuebitz, C., Lopez, E., Palmer, J., P
 
 ## In Progress
 
-Palmer, J., Smith, H., Vance, E. *From Evidence to Action: Advancing the ASCCR Frame with Impact Evaluation.*
+Palmer, J., Smith, H., Vance, E. *Designed For Impact: The Statistical Collaborator's Workflow.* Learn more about the project [here](https://jettpalmer.github.io/designed-for-impact/).
 
 ## Conference Presentations
 
