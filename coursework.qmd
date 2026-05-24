@@ -6,58 +6,64 @@ Technical and otherwise relevant coursework. Work samples available upon request
 
 ## Statistics
 
--   Statistical Machine Learning with R \*\*
+- Advanced Statistical Computing with R \*\*
 
--   Multilevel and Mixed Modeling \*\*
+- Advanced Design and Analysis of Experiments \*\*
 
--   Statistical Consulting \*\*
+- Graduate Consulting Practicum \*\*
 
--   Generalized Linear Models \*\*
+- Statistical Machine Learning with R \*\*
 
--   Introduction to Data Science with Python \*\*
+- Multilevel and Mixed Modeling \*\*
 
--   Applied Multivariate Statistics
+- Statistical Consulting \*\*
 
--   Survival Analysis Methods
+- Generalized Linear Models \*\*
 
--   Probability Theory
+- Introduction to Data Science with Python \*\*
 
--   Estimation and Sampling Theory
+- Applied Multivariate Statistics
 
--   Mathematical Statistics
+- Survival Analysis Methods
 
--   Applied Linear Models
+- Probability Theory
 
--   Survey Sampling & Methodology
+- Estimation and Sampling Theory
 
--   Design & Analysis of Experiments
+- Mathematical Statistics
 
--   Statistical Computing with R
+- Applied Linear Models
 
--   Statistical Computing with SAS
+- Survey Sampling & Methodology
 
--   Statistical Communication
+- Design & Analysis of Experiments
 
--   Statistics Education
+- Statistical Computing with R
+
+- Statistical Computing with SAS
+
+- Statistical Communication
+
+- Statistics Education
 
 ## Mathematics
 
--   Calculus (I-IV)
+- Calculus (I-IV)
 
--   Linear Algebra
+- Linear Algebra
 
--   Methods of Proof
+- Methods of Proof
 
 ## Computer Science
 
--   Introduction to Python
+- Introduction to Python
 
--   Data Structures
+- Data Structures \*\*
 
 ## Ethics
 
--   Meta Ethics
+- Meta Ethics \*\*
 
--   Science, Ethics, and Technology
+- Science, Ethics, and Technology \*\*
 
--   Philosophy of Science
+- Philosophy of Science

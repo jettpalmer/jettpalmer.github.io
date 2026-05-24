@@ -8,15 +8,13 @@ title: "Research"
 
 Chance, B., Kerr, A., & Palmer, J. (2024). Taking the Next Step in Exploring the *Literary Digest* 1936 Poll. *Journal of Statistics and Data Science Education*, *32*(4), 405–415. <https://doi.org/10.1080/26939169.2024.2395505>
 
-## Under Review
-
 ### Social Pressure Theory (2025)
 
 Epstein, R., Newland, A., Palmer, J., Rajgarhia, A., & Wang, N. (submitted for publication). *Testing a quantitative social pressure theory of sexual orientation with data obtained from 310,144 participants in 92 countries completing surveys in their native languages*. (Preprint posted on SSRN, September 24, 2025, <https://ssrn.com/abstract=5526418>)
 
 ### Authority in Data Science (2025)
 
-Abrash, I., Canner, J., Geam, E., Kan, N., Kuebitz, C., Lopez, E., Palmer, J., Pfeiffer, I., Theobold, A., Woodard, V. (International Conference on Teaching Statistics). *Status, Equity, and Collaboration: A Pilot Study of Complex Instruction-Informed Pair Programing*.
+Abrash, I., Canner, J., Geam, E., Kan, N., Kuebitz, C., Lopez, E., Palmer, J., Pfeiffer, I., Theobold, A., Woodard, V. (International Conference on Teaching Statistics Proceedings). *Status, Equity, and Collaboration: A Pilot Study of Complex Instruction-Informed Pair Programing*.
 
 ## In Progress
 
@@ -24,10 +22,12 @@ Palmer, J., Smith, H., Vance, E. *Designed For Impact: The Statistical Collabora
 
 ## Conference Presentations
 
-### Western Psychological Association \| Paper Presentation (2025)
+- Joint Statistical Meetings \| Contributed Paper Presentation (2026)
 
-Presented at the 105th annual meeting of the WPA, Las Vegas, NV.
+- e-Conference on Teaching Statistics \| Poster Presentation (2026)
 
-### e-Conference on Teaching Statistics \| Poster Presentation (2024)
+- Bailey College of Science & Mathematics Research Conference \| Research Talk (2026)
 
-Presented on the relationship between group work and social identity in mathematics and statistics classrooms.
+- Western Psychological Association \| Paper Presentation (2025)
+
+- e-Conference on Teaching Statistics \| Poster Presentation (2024)

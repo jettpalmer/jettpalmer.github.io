@@ -32,7 +32,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Assessed whether soil health indicators or the use of regenerative land management practices were more strongly associated with viticulturist-perceived outcomes. Carried out multiple correspondence analysis (MCA) and ordinal, multiple, multivariate regression.\n\n\n\nEvaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.\n\n\n\nInvestigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.\n\n\n\nAnalyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.\n\n\n\nSpearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team."
+    "text": "Investigated whether relationships between soil organic carbon (SOC) and carbon pools exhibited linear, logarithmic, or exponential patterns consistent with theories of carbon saturation in soils.\n\n\n\nAssessed how environmental conditions differed across microhabitats. Conducted mixed-effects modeling with environmental predictors, repeated measurements over time, and random effects for campus location to account for clustered sampling structure.\n\n\n\nEvaluated how organism type, surface material, and time influenced bacterial cell concentration and biofilm formation. Conducted mixed-effects modeling, repeated-measures analysis, and pairwise comparisons to assess temporal patterns and organism-specific differences in biofilm development.\n\n\n\nAssessed whether soil health indicators or the use of regenerative land management practices were more strongly associated with viticulturist-perceived outcomes. Carried out multiple correspondence analysis (MCA) and ordinal, logistic regression.\n\n\n\nEvaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.\n\n\n\nInvestigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.\n\n\n\nAnalyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.\n\n\n\nSpearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team."
   },
   {
     "objectID": "project_posts/6_1_2024_datafest/index.html",
@@ -263,7 +263,7 @@
     "href": "projects.html#presentations",
     "title": "Projects",
     "section": "Presentations",
-    "text": "Presentations\n\nDataFest 2026 | R Workshop (2026)\nPresented to prospective participants of the annual competition about R basics and presentation tips.\n\n\nUnited By Excellence | Introducing Sampling Methodology to High School Students (2024)\nInteractive presentation to high school students on the 1936 Literary Digest presidential poll: a classic example of flawed statistical sampling.\n\n\nElevating Impact through Data Visualization Workshop (2024)\nTaught local nonprofit organizations how to use data visualization to enhance their impact on the community."
+    "text": "Presentations\n\nTelecommunications Customer Churn Prediction and Retention Strategy Optimization | Class Poster Presentation (2026)\nAnalyzed customer account, billing, and service subscription records from a fictitious telecommunications company to identify which customer profiles were most strongly associated with churn and how retention resources could be allocated more strategically. Compared logistic regression and decision tree classifiers using cross-validation, with logistic regression demonstrating slightly superior predictive performance. Included all available customer service and billing variables to maximize predictive accuracy while preserving interpretability of customer risk profiles.\nUsed logistic regression coefficients to identify the strongest drivers of churn and customer retention. Customers were more likely to churn when they had higher total charges, month-to-month contracts, electronic check payments, and no tech support plan, while customers with longer tenure, bundled phone services, DSL internet, two-year contracts, and paper billing were more likely to remain with the company. Developed a churn-risk classification framework that identified customers who were simultaneously high-risk and high-value, allowing retention interventions to be prioritized based on expected financial benefit.\n\n\nDataFest 2026 | R Workshop (2026)\nPresented to prospective participants of the annual competition about R basics and presentation tips.\n\n\nUnited By Excellence | Introducing Sampling Methodology to High School Students (2024)\nInteractive presentation to high school students on the 1936 Literary Digest presidential poll: a classic example of flawed statistical sampling.\n\n\nElevating Impact through Data Visualization Workshop (2024)\nTaught local nonprofit organizations how to use data visualization to enhance their impact on the community."
   },
   {
     "objectID": "projects.html#competitions",
@@ -277,7 +277,7 @@
     "href": "projects.html#legislation",
     "title": "Projects",
     "section": "Legislation",
-    "text": "Legislation\nThe Associated Students Inc. Board of Directors is the official voice of the student body. As an elected representative, I authored and passed the following legislation:\n\nResolution to Amend ASI Articles of Incorporation (Palmer, 2025)\nResolution Calling for Reform of the Course Evaluation Instrument and Processes (Reyes & Palmer, 2025)\nResolution to Reaffirm Shared Governance (Palmer & Finch, 2025)\nResolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Poly (Palmer & Prince, 2024)."
+    "text": "Legislation\nThe Associated Students Inc. Board of Directors is the official voice of the student body. As an elected representative, I authored and passed the following legislation:\n\nResolution on Institutional Growth and “Learn By Doing” Ethos (Palmer & Ramage, 2026)\nResolution to Amend ASI Articles of Incorporation (Palmer, 2025)\nResolution Calling for Reform of the Course Evaluation Instrument and Processes (Reyes & Palmer, 2025)\nResolution to Reaffirm Shared Governance (Palmer & Finch, 2025)\nResolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Poly (Palmer & Prince, 2024)"
   },
   {
     "objectID": "activities.html#competitions",
@@ -291,14 +291,14 @@
     "href": "activities.html#committees",
     "title": "Activities",
     "section": "Committees",
-    "text": "Committees\n\nPresiding:\n\nASI Cal Maritime Integration Ad Hoc Committee (Chair)\n\n\n\nCurrent Appointments:\n\nAssociated Students Inc. Board of Directors\nDistinguished Teaching Award Committee\nSubstance Use and Misuse Advisory Committee\nArtificial Intelligence Student Success Advisory Group\nAcademic Senate: Student Perceptions of Teaching Effectiveness Ad Hoc Committee\n\n\n\nPrevious Appointments:\n\nInternal Review Committee (Chair) (2023-2025)\nCampus Administrative Policy Committee (2023-2025)\nStudent Health Services Advisory Committee of the California State University (2023-2025)\nBailey College of Science & Math Inclusion and Equity Committee (2024-2025)\nBailey College of Science & Math Inclusion and Equity Funding Review Committee (2024-2025)\nAcademic Senate (2024-2025)\nAcademic Senate Executive Committee (2024-2025)\nAd-Hoc Bylaw Review Committee (Chair) (2024)\nStudent Success Fee Allocation Committee (2023-2024)"
+    "text": "Committees\n\nPrevious Appointments:\n\nASI Cal Maritime Integration Ad Hoc Committee (Chair) (2025-2026)\nAssociated Students Inc. Board of Directors (2023-2026)\nDistinguished Teaching Award Committee (2024-2026)\nSubstance Use and Misuse Advisory Committee (2024-2026)\nArtificial Intelligence Student Success Advisory Group (2025-2026)\nAcademic Senate: Student Perceptions of Teaching Effectiveness Ad Hoc Committee (2025-2026)\nInternal Review Committee (Chair) (2023-2025)\nCampus Administrative Policy Committee (2023-2025)\nStudent Health Services Advisory Committee of the California State University (2023-2025)\nBailey College of Science & Math Inclusion and Equity Committee (2024-2025)\nBailey College of Science & Math Inclusion and Equity Funding Review Committee (2024-2025)\nAcademic Senate (2024-2025)\nAcademic Senate Executive Committee (2024-2025)\nAd-Hoc Bylaw Review Committee (Chair) (2024)\nStudent Success Fee Allocation Committee (2023-2024)"
   },
   {
     "objectID": "activities.html#awards",
     "href": "activities.html#awards",
     "title": "Activities",
     "section": "Awards",
-    "text": "Awards\n\nBest use of External Data at ASA DataFest, Cal Poly (2025)\nKathy Storelli “Use Your Voice” Scholarship, ASI Student Government (2024)\nBest Visualization at ASA DataFest, Cal Poly (2024)\nJoyce Curry-Daly and James Daly Scholarship, Cal Poly Statistics Department (2023)\nOutstanding Character and Communication Scholarship, North County Education Fund (2022)\nEmployee of the Year, Food Service (2022)"
+    "text": "Awards\n\nMichael Koehn Scholarship - Finalist, Cal Poly University Housing (2026)\nBest use of External Data at ASA DataFest, Cal Poly (2025)\nKathy Storelli “Use Your Voice” Scholarship, ASI Student Government (2024)\nBest Visualization at ASA DataFest, Cal Poly (2024)\nJoyce Curry-Daly and James Daly Scholarship, Cal Poly Statistics Department (2023)\nOutstanding Character and Communication Scholarship, North County Education Fund (2022)\nEmployee of the Year, Food Service (2022)"
   },
   {
     "objectID": "publications_presentations.html",
@@ -361,14 +361,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Chance, B., Kerr, A., & Palmer, J. (2024). Taking the Next Step in Exploring the Literary Digest 1936 Poll. Journal of Statistics and Data Science Education, 32(4), 405–415. https://doi.org/10.1080/26939169.2024.2395505"
+    "text": "Chance, B., Kerr, A., & Palmer, J. (2024). Taking the Next Step in Exploring the Literary Digest 1936 Poll. Journal of Statistics and Data Science Education, 32(4), 405–415. https://doi.org/10.1080/26939169.2024.2395505\n\n\n\nEpstein, R., Newland, A., Palmer, J., Rajgarhia, A., & Wang, N. (submitted for publication). Testing a quantitative social pressure theory of sexual orientation with data obtained from 310,144 participants in 92 countries completing surveys in their native languages. (Preprint posted on SSRN, September 24, 2025, https://ssrn.com/abstract=5526418)\n\n\n\nAbrash, I., Canner, J., Geam, E., Kan, N., Kuebitz, C., Lopez, E., Palmer, J., Pfeiffer, I., Theobold, A., Woodard, V. (International Conference on Teaching Statistics Proceedings). Status, Equity, and Collaboration: A Pilot Study of Complex Instruction-Informed Pair Programing."
   },
   {
     "objectID": "research.html#publications",
     "href": "research.html#publications",
     "title": "Research",
     "section": "",
-    "text": "Chance, B., Kerr, A., & Palmer, J. (2024). Taking the Next Step in Exploring the Literary Digest 1936 Poll. Journal of Statistics and Data Science Education, 32(4), 405–415. https://doi.org/10.1080/26939169.2024.2395505"
+    "text": "Chance, B., Kerr, A., & Palmer, J. (2024). Taking the Next Step in Exploring the Literary Digest 1936 Poll. Journal of Statistics and Data Science Education, 32(4), 405–415. https://doi.org/10.1080/26939169.2024.2395505\n\n\n\nEpstein, R., Newland, A., Palmer, J., Rajgarhia, A., & Wang, N. (submitted for publication). Testing a quantitative social pressure theory of sexual orientation with data obtained from 310,144 participants in 92 countries completing surveys in their native languages. (Preprint posted on SSRN, September 24, 2025, https://ssrn.com/abstract=5526418)\n\n\n\nAbrash, I., Canner, J., Geam, E., Kan, N., Kuebitz, C., Lopez, E., Palmer, J., Pfeiffer, I., Theobold, A., Woodard, V. (International Conference on Teaching Statistics Proceedings). Status, Equity, and Collaboration: A Pilot Study of Complex Instruction-Informed Pair Programing."
   },
   {
     "objectID": "research.html#conferences",
@@ -424,7 +424,7 @@
     "href": "research.html#conference-presentations",
     "title": "Research",
     "section": "Conference Presentations",
-    "text": "Conference Presentations\n\nWestern Psychological Association | Paper Presentation (2025)\nPresented at the 105th annual meeting of the WPA, Las Vegas, NV.\n\n\ne-Conference on Teaching Statistics | Poster Presentation (2024)\nPresented on the relationship between group work and social identity in mathematics and statistics classrooms."
+    "text": "Conference Presentations\n\nJoint Statistical Meetings | Contributed Paper Presentation (2026)\ne-Conference on Teaching Statistics | Poster Presentation (2026)\nBailey College of Science & Mathematics Research Conference | Research Talk (2026)\nWestern Psychological Association | Paper Presentation (2025)\ne-Conference on Teaching Statistics | Poster Presentation (2024)"
   },
   {
     "objectID": "research.html#consulting",
@@ -480,7 +480,7 @@
     "href": "coursework.html#statistics",
     "title": "Coursework",
     "section": "Statistics",
-    "text": "Statistics\n\nStatistical Machine Learning with R **\nMultilevel and Mixed Modeling **\nStatistical Consulting **\nGeneralized Linear Models **\nIntroduction to Data Science with Python **\nApplied Multivariate Statistics\nSurvival Analysis Methods\nProbability Theory\nEstimation and Sampling Theory\nMathematical Statistics\nApplied Linear Models\nSurvey Sampling & Methodology\nDesign & Analysis of Experiments\nStatistical Computing with R\nStatistical Computing with SAS\nStatistical Communication\nStatistics Education"
+    "text": "Statistics\n\nAdvanced Statistical Computing with R **\nAdvanced Design and Analysis of Experiments **\nGraduate Consulting Practicum **\nStatistical Machine Learning with R **\nMultilevel and Mixed Modeling **\nStatistical Consulting **\nGeneralized Linear Models **\nIntroduction to Data Science with Python **\nApplied Multivariate Statistics\nSurvival Analysis Methods\nProbability Theory\nEstimation and Sampling Theory\nMathematical Statistics\nApplied Linear Models\nSurvey Sampling & Methodology\nDesign & Analysis of Experiments\nStatistical Computing with R\nStatistical Computing with SAS\nStatistical Communication\nStatistics Education"
   },
   {
     "objectID": "coursework.html#mathematics",
@@ -494,7 +494,7 @@
     "href": "coursework.html#computer-science",
     "title": "Coursework",
     "section": "Computer Science",
-    "text": "Computer Science\n\nIntroduction to Python\nData Structures"
+    "text": "Computer Science\n\nIntroduction to Python\nData Structures **"
   },
   {
     "objectID": "coursework.html#misc",
@@ -529,7 +529,7 @@
     "href": "projects.html#consulting",
     "title": "Projects",
     "section": "",
-    "text": "Assessed whether soil health indicators or the use of regenerative land management practices were more strongly associated with viticulturist-perceived outcomes. Carried out multiple correspondence analysis (MCA) and ordinal, multiple, multivariate regression.\n\n\n\nEvaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.\n\n\n\nInvestigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.\n\n\n\nAnalyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.\n\n\n\nSpearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team."
+    "text": "Investigated whether relationships between soil organic carbon (SOC) and carbon pools exhibited linear, logarithmic, or exponential patterns consistent with theories of carbon saturation in soils.\n\n\n\nAssessed how environmental conditions differed across microhabitats. Conducted mixed-effects modeling with environmental predictors, repeated measurements over time, and random effects for campus location to account for clustered sampling structure.\n\n\n\nEvaluated how organism type, surface material, and time influenced bacterial cell concentration and biofilm formation. Conducted mixed-effects modeling, repeated-measures analysis, and pairwise comparisons to assess temporal patterns and organism-specific differences in biofilm development.\n\n\n\nAssessed whether soil health indicators or the use of regenerative land management practices were more strongly associated with viticulturist-perceived outcomes. Carried out multiple correspondence analysis (MCA) and ordinal, logistic regression.\n\n\n\nEvaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.\n\n\n\nInvestigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.\n\n\n\nAnalyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.\n\n\n\nSpearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team."
   },
   {
     "objectID": "index.html#recent-experience",
@@ -543,6 +543,6 @@
     "href": "coursework.html#ethics",
     "title": "Coursework",
     "section": "Ethics",
-    "text": "Ethics\n\nMeta Ethics\nScience, Ethics, and Technology\nPhilosophy of Science"
+    "text": "Ethics\n\nMeta Ethics **\nScience, Ethics, and Technology **\nPhilosophy of Science"
   }
 ]
