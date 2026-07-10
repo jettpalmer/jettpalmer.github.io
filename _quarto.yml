@@ -8,6 +8,7 @@ project:
     - work/**/*.qmd
 
 resources:
+  - styles.css
   - jett-palmer-resume.pdf
   - coffee_shop_wide.JPG
   - assets/**
@@ -40,7 +41,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: assets/css/portfolio.css
     toc: false
     smooth-scroll: true
     anchor-sections: true

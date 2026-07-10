@@ -5,9 +5,9 @@ toc: true
 ---
 
 :::::: {.page-hero .page-hero--compact}
-::::: profile-hero-grid
-:::: profile-hero-copy
-::: eyebrow
+::::: {.profile-hero-grid}
+:::: {.profile-hero-copy}
+::: {.eyebrow}
 Profile
 :::
 
@@ -28,15 +28,15 @@ Maximizing **impact** and **engaging deeply** with clients is the central topic 
 
 ## Education
 
-::::: timeline
-::: timeline-item
+::::: {.timeline}
+::: {.timeline-item}
 ### California Polytechnic State University, San Luis Obispo
 
 **M.S. in Statistics**\
 2025 - 2026
 :::
 
-::: timeline-item
+::: {.timeline-item}
 ### California Polytechnic State University, San Luis Obispo
 
 **B.S. in Statistics**\
@@ -47,8 +47,8 @@ Maximizing **impact** and **engaging deeply** with clients is the central topic 
 ## Recent Experience
 
 ::::::::: {.card-grid .cards-3}
-:::: work-card
-::: card-kicker
+:::: {.work-card}
+::: {.card-kicker}
 Research & Consulting
 :::
 
@@ -59,8 +59,8 @@ Research & Consulting
 - Consulted on projects in agriculture, environmental science, public health, engineering, and higher education.
 ::::
 
-:::: work-card
-::: card-kicker
+:::: {.work-card}
+::: {.card-kicker}
 Leadership
 :::
 
@@ -70,8 +70,8 @@ Leadership
 - Facilitated cross-campus collaboration among student leaders and stakeholders, building consensus around a unified governance framework. Learn more about the project [here](work/leadership/maritime-integration.qmd).
 ::::
 
-:::: work-card
-::: card-kicker
+:::: {.work-card}
+::: {.card-kicker}
 Service
 :::
 
@@ -139,26 +139,26 @@ As an elected representative on the Board of Directors of a student association,
 
 ## Selected Coursework
 
-::::::: coursework-grid
-::: coursework-group
+::::::: {.coursework-grid}
+::: {.coursework-group}
 ### Statistics
 
 Advanced Statistical Computing with R; Advanced Design and Analysis of Experiments; Graduate Consulting Practicum; Statistical Machine Learning with R; Generalized Linear Models; Multilevel and Mixed Modeling; Statistical Consulting; Generalized Linear Models; Applied Multivariate Statistics; Survival Analysis Methods; Survey Sampling & Methodology; Statistical Communication; Statistics Education.
 :::
 
-::: coursework-group
+::: {.coursework-group}
 ### Computing & Data Science
 
 Introduction to Data Science with Python; Statistical Computing with R; Statistical Computing with SAS; Introduction to Python; Data Structures.
 :::
 
-::: coursework-group
+::: {.coursework-group}
 ### Mathematical Foundations
 
 Probability Theory; Estimation and Sampling Theory; Mathematical Statistics; Calculus I-IV; Linear Algebra; Methods of Proof.
 :::
 
-::: coursework-group
+::: {.coursework-group}
 ### Ethics & Philosophy
 
 Meta Ethics; Science, Ethics, and Technology; Philosophy of Science.

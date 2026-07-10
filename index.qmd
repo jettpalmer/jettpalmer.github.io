@@ -5,10 +5,10 @@ page-layout: full
 toc: false
 ---
 
-:::::::: home-hero
-::::::: home-hero__inner
-::::: home-hero__content
-::: eyebrow
+:::::::: {.home-hero}
+::::::: {.home-hero__inner}
+::::: {.home-hero__content}
+::: {.eyebrow}
 Applied Statistics \| AI \| Consulting
 :::
 
@@ -16,23 +16,23 @@ Applied Statistics \| AI \| Consulting
 
 Explore my work at the intersection of statistics, AI, and organizational problem-solving.
 
-::: button-row
+::: {.button-row}
 [Learn more about me](profile.qmd){.btn .btn-primary} [Explore my work](work.qmd){.btn .btn-primary}
 :::
 :::::
 
-::: home-hero__media
+::: {.home-hero__media}
 <img src="assets/img/profile-portrait.png" alt="Portrait of Jett Palmer" class="home-portrait"/>
 :::
 :::::::
 ::::::::
 
-:::::::::: section-block
+:::::::::: {.section-block}
 ## Featured Work
 
 ::::::::: {.card-grid .cards-3}
-:::: work-card
-::: card-kicker
+:::: {.work-card}
+::: {.card-kicker}
 Research
 :::
 
@@ -41,8 +41,8 @@ Research
 A framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.
 ::::
 
-:::: work-card
-::: card-kicker
+:::: {.work-card}
+::: {.card-kicker}
 Coding Projects
 :::
 
@@ -51,8 +51,8 @@ Coding Projects
 An AI-powered operations tool to help a fictitious nonprofit streamline operations, improve service reports, and make more informed resource allocation decisions.
 ::::
 
-:::: work-card
-::: card-kicker
+:::: {.work-card}
+::: {.card-kicker}
 Community Engagement
 :::
 
@@ -63,15 +63,15 @@ My work on the organizational restructuring for a historic, eight-figure strateg
 :::::::::
 ::::::::::
 
-:::::: section-band
+:::::: {.section-band}
 ::::: {.section-block .focus-grid}
-::: focus-copy
+::: {.focus-copy}
 ## Current Focus
 
 Later this year, I will defend my master's thesis entitled, *Designed For Impact: The Statistical Collaborator's Workflow*. These are the tasks I'm currently working on.
 :::
 
-::: focus-list
+::: {.focus-list}
 - Analyzing results from our framework validation research.
 - Writing a full-length thesis to defend this fall.
 - Authoring a peer-reviewed paper to accompany the thesis.

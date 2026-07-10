@@ -6,12 +6,12 @@ date: "2026"
 toc: true
 ---
 
-:::: project-hero
+:::: {.project-hero}
 ## Student Advocacy at Cal Poly
 
 A legislative portfolio of student advocacy work focused on shared governance, academic policy, institutional growth, and student representation.
 
-::: project-links
+::: {.project-links}
 [View ASI Resolutions](https://www.asi.calpoly.edu/discover-asi/public-documents/agendas-minutes/board-of-directors-resolutions/){.btn .btn-primary}
 :::
 ::::
@@ -69,6 +69,6 @@ A resolution addressing institutional growth and the importance of preserving Ca
 
 ## Skills
 
-::: skill-tags
+::: {.skill-tags}
 `Policy Writing` `Student Advocacy` `Shared Governance` `Stakeholder Communication` `Legislative Strategy`
 :::

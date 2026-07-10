@@ -7,8 +7,8 @@ date: "YYYY-MM-DD"
 toc: false
 ---
 
-:::: project-hero
-::: eyebrow
+:::: {.project-hero}
+::: {.eyebrow}
 Project Type Placeholder
 :::
 
@@ -16,13 +16,13 @@ Project Type Placeholder
 
 One-sentence summary placeholder for the project, written for a hiring manager or portfolio reviewer.
 
-::: project-links
+::: {.project-links}
 [Primary Link](#){.btn .btn-primary}
 [Secondary Link](#){.btn .btn-outline}
 :::
 ::::
 
-:::: project-snapshot
+:::: {.project-snapshot}
 ::: {}
 Role
 : Role placeholder
@@ -46,13 +46,13 @@ Deliverable
 
 ## Executive Summary
 
-::: project-summary
+::: {.project-summary}
 Placeholder executive-summary paragraph. Briefly describe the project context, the central problem, the work completed, and why the deliverable mattered. Keep this section concise and scannable.
 :::
 
 ## Project Highlights
 
-:::: project-highlights
+:::: {.project-highlights}
 ::: {}
 ### Highlight Placeholder
 
@@ -82,13 +82,13 @@ Placeholder paragraph or bullet list describing the approach, workflow, methods,
 
 ## Deliverables
 
-::: deliverable-card
+::: {.deliverable-card}
 ### Deliverable Placeholder
 
 Short deliverable description placeholder.
 :::
 
-::: deliverable-card
+::: {.deliverable-card}
 ### Deliverable Placeholder
 
 Short deliverable description placeholder.
@@ -96,7 +96,7 @@ Short deliverable description placeholder.
 
 ## Skills Demonstrated
 
-::: skill-tags
+::: {.skill-tags}
 <span>Skill placeholder</span>
 <span>Skill placeholder</span>
 <span>Skill placeholder</span>
