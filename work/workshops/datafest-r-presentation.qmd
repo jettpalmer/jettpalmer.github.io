@@ -1,0 +1,51 @@
+---
+title: "Intro to R & DataFest Prep"
+description: "Workshop materials helping students prepare for DataFest through R collaboration, exploratory analysis, and presentation strategy."
+categories: [Community Engagement, Teaching, R]
+date: "2026"
+---
+
+::: {.project-hero}
+## Intro to R & DataFest Prep
+
+Workshop materials helping students prepare for DataFest through R collaboration, exploratory analysis, and presentation strategy.
+
+::: {.project-links}
+[View Slides](r-datafest-workshop.pdf){.btn .btn-primary}
+:::
+:::
+
+## Executive Summary
+
+This workshop was designed to help students prepare for DataFest by strengthening both their technical workflow and their strategic approach to collaborative data analysis. The session covered practical guidance for working in R, collaborating with GitHub, beginning exploratory data analysis, and turning early findings into a focused presentation.
+
+The workshop emphasized that successful data work is not only about finding the most complex model. It also requires scoping a question, understanding the project domain, identifying useful variables, creating clear graphics, and communicating a small number of meaningful takeaways to stakeholders.
+
+## Project Highlights
+
+- Co-developed workshop materials introducing students to collaborative R workflows, exploratory analysis, and DataFest strategy.
+- Helped students think through GitHub practices, including shared file paths, `.gitignore`, modular scripts, and avoiding merge conflicts.
+- Taught presentation principles focused on curating content, highlighting key findings, and connecting results to stakeholder impact.
+
+## Methods & Approach
+
+The workshop was structured around four practical themes: collaboration, exploration, presentation, and general DataFest strategy. Students were encouraged to follow along in RStudio or Posit Cloud using supporting workshop materials.
+
+The technical guidance focused on reproducible and collaborative workflows, including how to organize scripts, manage large data files, and work as a team in GitHub. The analytic guidance focused on exploratory data analysis: learning the project domain, using documentation, identifying missing data and outliers, creating simple graphics, narrowing scope, engineering features, and incorporating external data when useful.
+
+The presentation guidance encouraged students to prioritize clarity over comprehensiveness. Instead of presenting every step of their analysis, students were advised to focus on one or two compelling ideas, use readable graphics, and connect findings to the needs of real stakeholders.
+
+## Deliverables
+
+::: {.deliverable-card}
+**Workshop Slides**  
+A slide deck covering collaborative R workflows, exploratory data analysis, presentation strategy, and practical tips for students preparing for DataFest.
+
+[View Slides](r-datafest-workshop.pdf){.btn .btn-primary}
+:::
+
+## Skills
+
+::: {.skill-tags}
+`R Instruction` `Workshop Design` `Data Communication` `GitHub Collaboration` `Exploratory Analysis`
+:::

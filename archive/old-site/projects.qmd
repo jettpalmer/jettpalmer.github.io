@@ -1,0 +1,73 @@
+---
+title: "Projects"
+---
+
+## Consulting
+
+### Associations Between Soil Organic Carbon, Mineral-Associated Organic Carbon, and Particulate Organic Carbon in Vineyard Soils (2026)
+
+Investigated whether relationships between soil organic carbon (SOC) and carbon pools exhibited linear, logarithmic, or exponential patterns consistent with theories of carbon saturation in soils.
+
+### Associations Between Microhabitat Conditions and Lizard Physiology (2026)
+
+Assessed how environmental conditions differed across microhabitats. Conducted mixed-effects modeling with environmental predictors, repeated measurements over time, and random effects for campus location to account for clustered sampling structure.
+
+### Biofilm Formation and Bacterial Cell Density Across Organisms and Time (2026)
+
+Evaluated how organism type, surface material, and time influenced bacterial cell concentration and biofilm formation. Conducted mixed-effects modeling, repeated-measures analysis, and pairwise comparisons to assess temporal patterns and organism-specific differences in biofilm development.
+
+### **Associations Between Soil Health, Regenerative Land Management, and Viticulturist-Perceived Outcomes (2026)**
+
+Assessed whether soil health indicators or the use of regenerative land management practices were more strongly associated with viticulturist-perceived outcomes. Carried out multiple correspondence analysis (MCA) and ordinal, logistic regression.
+
+### **Analyzing the Effect of Hand Dominance, Wrist Direction, and Distraction on Ergonomics Task (2025)**
+
+Evaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.
+
+### **Associations Between Mothers’ Technology Use, Parenting Stress, and Depression During the Early Postpartum Period (2025)**
+
+Investigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.
+
+### **Investigating Cal Poly Student Sustainability Literacy Using Spatial Data (2025)**
+
+Analyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.
+
+### **Designing the Premier Student Employment Experience at Cal Poly (2024)**
+
+Spearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team.
+
+## Presentations
+
+### Telecommunications Customer Churn Prediction and Retention Strategy Optimization \| Class Poster Presentation (2026)
+
+Analyzed customer account, billing, and service subscription records from a fictitious telecommunications company to identify which customer profiles were most strongly associated with churn and how retention resources could be allocated more strategically. Compared logistic regression and decision tree classifiers using cross-validation, with logistic regression demonstrating slightly superior predictive performance. Included all available customer service and billing variables to maximize predictive accuracy while preserving interpretability of customer risk profiles.
+
+Used logistic regression coefficients to identify the strongest drivers of churn and customer retention. Customers were more likely to churn when they had higher total charges, month-to-month contracts, electronic check payments, and no tech support plan, while customers with longer tenure, bundled phone services, DSL internet, two-year contracts, and paper billing were more likely to remain with the company. Developed a churn-risk classification framework that identified customers who were simultaneously high-risk and high-value, allowing retention interventions to be prioritized based on expected financial benefit.
+
+### DataFest 2026 \| R Workshop (2026)
+
+Presented to prospective participants of the annual competition about R basics and presentation tips.
+
+### United By Excellence \| Introducing Sampling Methodology to High School Students (2024)
+
+Interactive presentation to high school students on the 1936 Literary Digest presidential poll: a classic example of flawed statistical sampling.
+
+### Elevating Impact through Data Visualization Workshop (2024)
+
+Taught local nonprofit organizations how to use data visualization to enhance their impact on the community.
+
+## Legislation
+
+The Associated Students Inc. Board of Directors is the official voice of the student body. As an elected representative, I authored and passed the following legislation:
+
+- Resolution on Institutional Growth and "Learn By Doing" Ethos ([Palmer & Ramage, 2026](https://www.asi.calpoly.edu/discover-asi/public-documents/agendas-minutes/board-of-directors-resolutions/))
+
+- Resolution to Amend ASI Articles of Incorporation ([Palmer, 2025](https://www.asi.calpoly.edu/wp-content/uploads/2025/05/Resolution-25-10-Amended-Articles-of-Incorporation_BODAppr-1.pdf))
+
+- Resolution Calling for Reform of the Course Evaluation Instrument and Processes ([Reyes & Palmer, 2025](https://www.asi.calpoly.edu/wp-content/uploads/2025/05/Resolution-25-04_Resolution-on-Course-Evaluations.pdf))
+
+- Resolution to Reaffirm Shared Governance ([Palmer & Finch, 2025](https://www.asi.calpoly.edu/wp-content/uploads/2025/04/Resolution25-03_Reaffirm-Shared-Governance.pdf))
+
+- Resolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Poly ([Palmer & Prince, 2024](https://www.asi.calpoly.edu/wp-content/uploads/2024/03/24-02-Resolution-to-Recommend-an-Amendment-to-the-Cal-Poly-Academic-Senate-Class-Attendance-Policy_BODAppr.pdf))
+
+## 

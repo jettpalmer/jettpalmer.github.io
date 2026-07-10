@@ -1,0 +1,104 @@
+---
+title: "Project Title Placeholder"
+description: "One-sentence project description placeholder."
+categories:
+  - "Category Placeholder"
+date: "YYYY-MM-DD"
+toc: false
+---
+
+:::: project-hero
+::: eyebrow
+Project Type Placeholder
+:::
+
+# Project Title Placeholder
+
+One-sentence summary placeholder for the project, written for a hiring manager or portfolio reviewer.
+
+::: project-links
+[Primary Link](#){.btn .btn-primary}
+[Secondary Link](#){.btn .btn-outline}
+:::
+::::
+
+:::: project-snapshot
+::: {}
+Role
+: Role placeholder
+:::
+
+::: {}
+Type
+: Type placeholder
+:::
+
+::: {}
+Tools
+: Tools placeholder
+:::
+
+::: {}
+Deliverable
+: Deliverable placeholder
+:::
+::::
+
+## Executive Summary
+
+::: project-summary
+Placeholder executive-summary paragraph. Briefly describe the project context, the central problem, the work completed, and why the deliverable mattered. Keep this section concise and scannable.
+:::
+
+## Project Highlights
+
+:::: project-highlights
+::: {}
+### Highlight Placeholder
+
+Short highlight placeholder.
+:::
+
+::: {}
+### Highlight Placeholder
+
+Short highlight placeholder.
+:::
+
+::: {}
+### Highlight Placeholder
+
+Short highlight placeholder.
+:::
+::::
+
+## Methods & Approach
+
+Placeholder paragraph or bullet list describing the approach, workflow, methods, or decision process.
+
+- Method placeholder
+- Method placeholder
+- Method placeholder
+
+## Deliverables
+
+::: deliverable-card
+### Deliverable Placeholder
+
+Short deliverable description placeholder.
+:::
+
+::: deliverable-card
+### Deliverable Placeholder
+
+Short deliverable description placeholder.
+:::
+
+## Skills Demonstrated
+
+::: skill-tags
+<span>Skill placeholder</span>
+<span>Skill placeholder</span>
+<span>Skill placeholder</span>
+<span>Skill placeholder</span>
+:::

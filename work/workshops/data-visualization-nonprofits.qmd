@@ -1,0 +1,49 @@
+---
+title: "Data Viz for Nonprofits"
+description: "Workshop materials helping nonprofit teams collect, explore, and communicate data in ways that elevate community impact."
+categories: [Community Engagement, Data Visualization, Nonprofits]
+date: "2025"
+---
+
+::: {.project-hero}
+## Data Viz for Nonprofits
+
+Workshop materials helping nonprofit teams collect, explore, and communicate data in ways that elevate community impact.
+
+::: {.project-links}
+[View Slides](data-viz-for-nonprofits.pdf){.btn .btn-primary}
+:::
+:::
+
+## Executive Summary
+
+This workshop was designed to help nonprofit organizations use data more intentionally in support of their missions. The session focused on practical steps for designing data collection around organizational goals, collecting higher-quality information, and turning raw data into clear visual summaries that support decision-making.
+
+Rather than treating data visualization as a purely technical exercise, the workshop emphasized purpose, audience, and action. Participants were encouraged to begin by asking what they want to learn, who needs the information, and how the results could support planning, communication, or community impact.
+
+## Project Highlights
+
+- Co-developed workshop materials that introduced nonprofit teams to a practical data utilization workflow.
+- Helped participants connect data collection decisions to organizational purpose, audience, and mission-aligned questions.
+- Demonstrated how simple visual summaries can turn raw data into clearer insights for planning, reporting, and communication.
+
+## Methods & Approach
+
+The workshop followed a four-part structure: design, collect, explore, and discussion. The design section helped participants clarify their purpose, audience, and guiding questions. The collection section focused on practical strategies for improving data quality, including choosing appropriate collection methods, using organized digital tools, establishing regular collection processes, and reducing inconsistencies in stored data.
+
+The exploration section introduced a simple workflow for moving from raw information to usable insight: familiarize yourself with the data, choose what to investigate, visualize findings, and communicate results clearly to the intended audience. A sample meal-service scenario showed how an organization could collect daily service counts, organize them in a spreadsheet, and visualize trends over time.
+
+## Deliverables
+
+::: {.deliverable-card}
+**Workshop Slides**  
+A slide deck introducing nonprofit teams to data collection, exploration, and visualization practices that support clearer communication and stronger community impact.
+
+[View Slides](data-viz-for-nonprofits.pdf){.btn .btn-primary}
+:::
+
+## Skills
+
+::: {.skill-tags}
+`Data Visualization` `Workshop Design` `Nonprofit Support` `Data Collection` `Community Engagement`
+:::

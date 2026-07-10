@@ -1,0 +1,51 @@
+---
+title: "Complex Instruction and Pair Programming"
+description: "Collaborative research paper examining how structured pair programming can support more equitable participation in introductory data science courses."
+categories: [Research, Statistics Education, Data Science Education]
+date: "2026"
+---
+
+::: {.project-hero}
+## Complex Instruction and Pair Programming
+
+Collaborative research paper examining how structured pair programming can support more equitable participation in introductory data science courses.
+
+::: {.project-links}
+[View Paper](complex-instruction-pair-programming.pdf){.btn .btn-primary}
+:::
+:::
+
+## Executive Summary
+
+*Status, Equity, and Collaboration* is a collaborative research paper from a multi-institutional project studying how pair programming can be structured to support more equitable participation in introductory data science courses. The study examines student interactions at Cal Poly and CSU Monterey Bay, focusing on how power, authority, and status shape collaboration during programming activities.
+
+The project adapts principles from Complex Instruction, a pedagogical framework designed to address unequal participation in group work. Rather than assuming pair programming is automatically equitable, the study investigates how role design, classroom status dynamics, and student identities influence who contributes, whose ideas are taken up, and how collaborative learning can be improved.
+
+## Project Highlights
+
+- Contributed to a collaborative pilot study on equity, status, and participation in introductory data science classrooms.
+- Helped examine how modified pair programming roles shaped student collaboration across two institutional contexts.
+- Supported research connecting data science education, discourse analysis, and equity-focused instructional design.
+
+## Methods & Approach
+
+The study analyzed recorded and transcribed pair-programming interactions from introductory data science courses at Cal Poly and CSU Monterey Bay. The research team examined student contributions using discourse-analytic methods, focusing on proposal negotiation units and measures of intellectual merit.
+
+The intervention replaced the traditional driver-navigator model with revised collaborative roles designed to separate strategic decision-making from keyboard control. The study then evaluated whether students recognized and followed those roles, how role talk appeared during collaboration, and whether the protocol reduced differences in intellectual influence between partners.
+
+Findings from the pilot study informed revisions to the collaborative protocol, including clearer role names, more explicit responsibilities, and tangible role structures intended to reduce the influence of status characteristics such as gender, major, and prior programming experience.
+
+## Deliverables
+
+::: {.deliverable-card}
+**Proceedings Paper**  
+A collaborative paper summarizing the pilot study, pair programming intervention, discourse-analysis framework, key findings, and protocol revisions for supporting more equitable collaboration in data science education.
+
+[View Paper](complex-instruction-pair-programming.pdf){.btn .btn-primary}
+:::
+
+## Skills
+
+::: {.skill-tags}
+`Discourse Analysis` `Equity-Focused Research` `Data Science Education` `Research Communication`
+:::

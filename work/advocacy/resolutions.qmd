@@ -1,0 +1,74 @@
+---
+title: "Student Advocacy at Cal Poly"
+description: "A legislative portfolio of student advocacy work focused on shared governance, academic policy, institutional growth, and student representation."
+categories: [Community Engagement, Advocacy, Leadership]
+date: "2026"
+toc: true
+---
+
+:::: project-hero
+## Student Advocacy at Cal Poly
+
+A legislative portfolio of student advocacy work focused on shared governance, academic policy, institutional growth, and student representation.
+
+::: project-links
+[View ASI Resolutions](https://www.asi.calpoly.edu/discover-asi/public-documents/agendas-minutes/board-of-directors-resolutions/){.btn .btn-primary}
+:::
+::::
+
+## Executive Summary
+
+Associated Students, Inc. (ASI) is Cal Poly’s student-governed nonprofit auxiliary and the official voice of the student body. As an elected student representative on the ASI Board of Directors, I authored and co-authored legislation addressing institutional growth, shared governance, student representation, academic policy, and organizational structure.
+
+This page summarizes selected resolutions I helped advance through ASI. Together, these items reflect my approach to advocacy: translating student concerns into formal policy language, building coalitions with student and institutional partners, and using governance processes to shape decisions that affect the student experience.
+
+## Advocacy Highlights
+
+- Authored and co-authored formal student government legislation on academic policy, institutional decision-making, and governance reform.
+- Advanced student perspectives through resolutions directed toward university administrators, Academic Senate processes, and ASI corporate governance.
+- Used policy writing, stakeholder communication, and board process to turn student concerns into actionable recommendations.
+
+## Selected Legislation
+
+| Year | Resolution | Focus |
+|------------------------|------------------------|------------------------|
+| 2026 | [Resolution on Institutional Growth and “Learn By Doing” Ethos](https://www.asi.calpoly.edu/discover-asi/public-documents/agendas-minutes/board-of-directors-resolutions/) | Institutional growth, student experience, and preservation of Cal Poly’s educational mission |
+| 2025 | [Resolution to Amend ASI Articles of Incorporation](https://www.asi.calpoly.edu/wp-content/uploads/2025/05/Resolution-25-10-Amended-Articles-of-Incorporation_BODAppr-1.pdf) | ASI corporate governance and organizational alignment |
+| 2025 | [Resolution Calling for Reform of the Course Evaluation Instrument and Processes](https://www.asi.calpoly.edu/wp-content/uploads/2025/05/Resolution-25-04_Resolution-on-Course-Evaluations.pdf) | Academic feedback systems and student voice in teaching evaluation |
+| 2025 | [Resolution to Reaffirm Shared Governance](https://www.asi.calpoly.edu/wp-content/uploads/2025/04/Resolution25-03_Reaffirm-Shared-Governance.pdf) | Student participation in institutional decision-making |
+| 2024 | [Resolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Policy](https://www.asi.calpoly.edu/wp-content/uploads/2024/03/24-02-Resolution-to-Recommend-an-Amendment-to-the-Cal-Poly-Academic-Senate-Class-Attendance-Policy_BODAppr.pdf) | Academic policy, attendance flexibility, and student-centered governance |
+
+## Methods & Approach
+
+My legislative work began with identifying issues where student perspectives needed clearer representation in formal decision-making. From there, I worked with co-authors, student leaders, faculty, staff, and administrators to understand the relevant governance context, draft policy language, and build support before board consideration.
+
+This work required balancing advocacy with institutional fluency. Strong resolutions needed to be principled enough to communicate student priorities, specific enough to guide action, and collaborative enough to move through shared governance structures productively.
+
+## Deliverables
+
+::: {.deliverable-card}
+**ASI Resolution Archive**  
+A public archive of ASI Board of Directors resolutions, including legislation I authored and co-authored as an elected student representative.
+
+[View Resolution Archive](https://www.asi.calpoly.edu/discover-asi/public-documents/agendas-minutes/board-of-directors-resolutions/){.btn .btn-primary}
+:::
+
+::: {.deliverable-card}
+**Highlighted Resolution: Shared Governance**  
+A resolution reaffirming the role of students in shared governance and institutional decision-making at Cal Poly.
+
+[View Resolution](https://www.asi.calpoly.edu/wp-content/uploads/2025/04/Resolution25-03_Reaffirm-Shared-Governance.pdf){.btn .btn-secondary}
+:::
+
+::: {.deliverable-card}
+**Highlighted Resolution: Institutional Growth and “Learn By Doing” Ethos**  
+A resolution addressing institutional growth and the importance of preserving Cal Poly’s Learn By Doing educational mission as the university evolves.
+
+[View Resolution](https://www.asi.calpoly.edu/discover-asi/public-documents/agendas-minutes/board-of-directors-resolutions/){.btn .btn-secondary}
+:::
+
+## Skills
+
+::: skill-tags
+`Policy Writing` `Student Advocacy` `Shared Governance` `Stakeholder Communication` `Legislative Strategy`
+:::

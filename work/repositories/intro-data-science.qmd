@@ -1,0 +1,49 @@
+---
+title: "Intro to Data Science Repository"
+description: "Course archive demonstrating data acquisition, visualization, machine learning, and ethical data analysis workflows."
+categories: [Coding Project, Data Science, Machine Learning]
+date: "2025"
+---
+
+::: {.project-hero}
+## Intro to Data Science Repository
+
+Course archive demonstrating data acquisition, visualization, machine learning, and ethical data analysis workflows.
+
+::: {.project-links}
+[Request Materials](mailto:jettpalmer.io@gmail.com?subject=Request%20for%20Intro%20to%20Data%20Science%20Materials){.btn .btn-primary}
+:::
+:::
+
+## Executive Summary
+
+This course archive reflects foundational work in data science, with emphasis on acquiring, processing, visualizing, and modeling different types of data. The course introduced a full applied data science workflow, moving from exploratory summaries and visualization to machine learning, model evaluation, and ethical considerations.
+
+Because the repository contains course materials that may not be appropriate to post publicly, the full archive is available upon request. This page summarizes the main competencies covered rather than presenting the materials directly.
+
+## Project Highlights
+
+- Worked with tabular, textual, hierarchical, and geospatial data across applied data science exercises.
+- Built visualizations and summaries to uncover patterns, compare observations, and communicate findings.
+- Applied machine learning methods to real-world prediction problems, including classification, KNN, model tuning, and model evaluation.
+
+## Methods & Approach
+
+The coursework emphasized the full data science pipeline: acquiring and combining data, processing different data structures, exploring relationships through visualization, and applying predictive modeling methods. Topics included tabular summaries, multivariable visualization, distance-based methods, text analysis with TF-IDF, classification, unsupervised learning, hierarchical data, and data ethics.
+
+The course culminated in a project proposal and poster presentation, connecting technical methods to a complete data science communication workflow.
+
+## Deliverables
+
+::: {.deliverable-card}
+**Course Archive**  
+A private archive of introductory data science coursework, including data processing exercises, visualization work, machine learning assignments, and project materials. Materials are available upon request.
+
+[Request Materials](mailto:jettpalmer.io@gmail.com?subject=Request%20for%20Intro%20to%20Data%20Science%20Materials){.btn .btn-primary}
+:::
+
+## Skills
+
+::: {.skill-tags}
+`Data Science` `Data Visualization` `Machine Learning` `Text Analysis` `Data Ethics`
+:::

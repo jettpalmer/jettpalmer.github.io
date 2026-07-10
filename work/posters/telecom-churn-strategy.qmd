@@ -1,0 +1,57 @@
+---
+title: "Telecommunications Churn Strategy"
+description: "Poster project using classification models to identify churn risk and translate model results into retention strategy."
+categories: [Research, Classification Modeling, Business Analytics]
+date: "2025"
+---
+
+::: {.project-hero}
+## Telecommunications Churn Strategy
+
+Poster project using classification models to identify churn risk and translate model results into retention strategy.
+
+::: {.project-links}
+[View Poster](telecom-churn-poster.pdf){.btn .btn-primary}
+[View Repository](https://github.com/jettpalmer/telecom-churn){.btn .btn-secondary}
+:::
+:::
+
+## Executive Summary
+
+This project analyzed customer service records from a fictitious telecommunications company to identify which customer profiles were most strongly associated with churn. Using account, billing, and service subscription variables, I compared classification models and used the stronger model to estimate churn risk, identify key predictors, and translate model output into a targeted retention strategy.
+
+The project connects predictive modeling with business decision-making. Rather than stopping at model performance, the analysis considered how churn probabilities, customer value, and outreach costs could be used together to prioritize retention resources.
+
+## Project Highlights
+
+- Compared logistic regression and decision tree models using cross-validation, with logistic regression achieving stronger predictive performance.
+- Identified customer characteristics associated with higher churn risk, including month-to-month contracts, electronic check payments, no tech support plan, and higher total charges.
+- Developed a retention strategy framework by combining predicted churn probability, customer billing value, outreach cost, and expected reduction in churn risk.
+
+## Methods & Approach
+
+The analysis used customer account, billing, and service subscription variables to predict churn. Because the outcome was moderately imbalanced, I evaluated model performance using ROC-AUC and compared logistic regression against a decision tree approach. Logistic regression performed slightly better and was used to interpret the strongest predictors of churn.
+
+After estimating churn probabilities, I translated the classification results into a practical retention strategy. Customers were segmented by both predicted churn risk and billing value to identify high-risk, high-value accounts. I then considered a simple expected-value scenario in which outreach costs $50 per customer and reduces churn probability by 20%, allowing the model results to inform which customers would be most worthwhile to target.
+
+## Deliverables
+
+::: {.deliverable-card}
+**Research Poster**  
+A poster presentation summarizing the churn modeling process, key predictors of customer attrition, risk classification strategy, and business implications for targeted retention outreach.
+
+[View Poster](telecom-churn-poster.pdf){.btn .btn-primary}
+:::
+
+::: {.deliverable-card}
+**GitHub Repository**  
+Source code for the churn analysis, including model fitting, validation, visualization, and retention strategy calculations.
+
+[View Repository](https://github.com/jettpalmer/telecom-churn){.btn .btn-secondary}
+:::
+
+## Skills
+
+::: {.skill-tags}
+`Classification Modeling` `Logistic Regression` `Business Analytics` `Model Interpretation` `Data Visualization`
+:::

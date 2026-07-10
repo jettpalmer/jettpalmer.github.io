@@ -1,23 +1,49 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - profile.qmd
+    - work.qmd
+    - work/**/*.qmd
+
+resources:
+  - jett-palmer-resume.pdf
+  - coffee_shop_wide.JPG
+  - assets/**
+  - work/**/listings.json
 
 website:
   title: "Jett Palmer"
+  site-url: "https://jettpalmer.github.io"
+  favicon: assets/img/profile-portrait.png
+  search: false
   navbar:
+    title: "Jett Palmer"
     left:
       - text: Home
         href: index.qmd
-      - research.qmd
-      - projects.qmd
-      - activities.qmd 
-      - coursework.qmd
+      - text: Profile
+        href: profile.qmd
+      - text: Work
+        href: work.qmd
+  page-footer:
+    left: "© 2026 Jett Palmer. This website was developed with the assistance of AI. Content was reviewed, edited, and curated by the author."
+    right:
+      - text: Contact
+        href: mailto:jettpalmer.io@gmail.com
+      - text: GitHub
+        href: https://github.com/jettpalmer
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/jett-palmer/
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: false
+    smooth-scroll: true
+    anchor-sections: true
+    link-external-newwindow: true
 
 editor: visual
-

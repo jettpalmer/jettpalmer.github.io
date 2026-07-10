@@ -1,548 +1,1010 @@
 [
   {
+    "objectID": "work/workshops/datafest-r-presentation.html",
+    "href": "work/workshops/datafest-r-presentation.html",
+    "title": "Intro to R & DataFest Prep",
+    "section": "",
+    "text": "Workshop materials helping students prepare for DataFest through R collaboration, exploratory analysis, and presentation strategy.\n\nView Slides"
+  },
+  {
+    "objectID": "work/workshops/datafest-r-presentation.html#intro-to-r-datafest-prep",
+    "href": "work/workshops/datafest-r-presentation.html#intro-to-r-datafest-prep",
+    "title": "Intro to R & DataFest Prep",
+    "section": "",
+    "text": "Workshop materials helping students prepare for DataFest through R collaboration, exploratory analysis, and presentation strategy.\n\nView Slides"
+  },
+  {
+    "objectID": "work/workshops/datafest-r-presentation.html#executive-summary",
+    "href": "work/workshops/datafest-r-presentation.html#executive-summary",
+    "title": "Intro to R & DataFest Prep",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nThis workshop was designed to help students prepare for DataFest by strengthening both their technical workflow and their strategic approach to collaborative data analysis. The session covered practical guidance for working in R, collaborating with GitHub, beginning exploratory data analysis, and turning early findings into a focused presentation.\nThe workshop emphasized that successful data work is not only about finding the most complex model. It also requires scoping a question, understanding the project domain, identifying useful variables, creating clear graphics, and communicating a small number of meaningful takeaways to stakeholders."
+  },
+  {
+    "objectID": "work/workshops/datafest-r-presentation.html#project-highlights",
+    "href": "work/workshops/datafest-r-presentation.html#project-highlights",
+    "title": "Intro to R & DataFest Prep",
+    "section": "Project Highlights",
+    "text": "Project Highlights\n\nCo-developed workshop materials introducing students to collaborative R workflows, exploratory analysis, and DataFest strategy.\nHelped students think through GitHub practices, including shared file paths, .gitignore, modular scripts, and avoiding merge conflicts.\nTaught presentation principles focused on curating content, highlighting key findings, and connecting results to stakeholder impact."
+  },
+  {
+    "objectID": "work/workshops/datafest-r-presentation.html#methods-approach",
+    "href": "work/workshops/datafest-r-presentation.html#methods-approach",
+    "title": "Intro to R & DataFest Prep",
+    "section": "Methods & Approach",
+    "text": "Methods & Approach\nThe workshop was structured around four practical themes: collaboration, exploration, presentation, and general DataFest strategy. Students were encouraged to follow along in RStudio or Posit Cloud using supporting workshop materials.\nThe technical guidance focused on reproducible and collaborative workflows, including how to organize scripts, manage large data files, and work as a team in GitHub. The analytic guidance focused on exploratory data analysis: learning the project domain, using documentation, identifying missing data and outliers, creating simple graphics, narrowing scope, engineering features, and incorporating external data when useful.\nThe presentation guidance encouraged students to prioritize clarity over comprehensiveness. Instead of presenting every step of their analysis, students were advised to focus on one or two compelling ideas, use readable graphics, and connect findings to the needs of real stakeholders."
+  },
+  {
+    "objectID": "work/workshops/datafest-r-presentation.html#deliverables",
+    "href": "work/workshops/datafest-r-presentation.html#deliverables",
+    "title": "Intro to R & DataFest Prep",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nWorkshop Slides\nA slide deck covering collaborative R workflows, exploratory data analysis, presentation strategy, and practical tips for students preparing for DataFest.\nView Slides"
+  },
+  {
+    "objectID": "work/workshops/datafest-r-presentation.html#skills",
+    "href": "work/workshops/datafest-r-presentation.html#skills",
+    "title": "Intro to R & DataFest Prep",
+    "section": "Skills",
+    "text": "Skills\n\nR Instruction Workshop Design Data Communication GitHub Collaboration Exploratory Analysis"
+  },
+  {
+    "objectID": "work/thesis/designed-for-impact.html",
+    "href": "work/thesis/designed-for-impact.html",
+    "title": "Designed For Impact",
+    "section": "",
+    "text": "A collaborative scaffolding tool that helps statisticians and domain experts translate evidence into action.\n\nVisit Thesis Website Watch Poster Presentation"
+  },
+  {
+    "objectID": "work/thesis/designed-for-impact.html#designed-for-impact",
+    "href": "work/thesis/designed-for-impact.html#designed-for-impact",
+    "title": "Designed For Impact",
+    "section": "",
+    "text": "A collaborative scaffolding tool that helps statisticians and domain experts translate evidence into action.\n\nVisit Thesis Website Watch Poster Presentation"
+  },
+  {
+    "objectID": "work/thesis/designed-for-impact.html#executive-summary",
+    "href": "work/thesis/designed-for-impact.html#executive-summary",
+    "title": "Designed For Impact",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nDesigned For Impact: The Statistical Collaborator’s Workflow is my master’s thesis project focused on improving how statisticians and domain experts plan for real-world impact in collaborative projects. The project introduces the Designed for Impact Tool, a fillable framework that helps teams align on goals, define a decision-focused intended impact, connect analysis choices to that impact, and communicate results in ways that support action.\nThe work is motivated by a shift in the role of statisticians and data scientists. As technical analysis becomes increasingly automated, the value of a statistical collaborator depends not only on modeling and interpretation, but also on asking better questions, guiding stakeholder decisions, and helping teams translate evidence into action."
+  },
+  {
+    "objectID": "work/thesis/designed-for-impact.html#project-highlights",
+    "href": "work/thesis/designed-for-impact.html#project-highlights",
+    "title": "Designed For Impact",
+    "section": "Project Highlights",
+    "text": "Project Highlights\n\nDeveloped a practical consulting tool that structures early project conversations around vision, partnership, impact, analysis pathway, and narrative.\nExtended existing statistical collaboration frameworks by adding a more explicit structure for planning and assessing impact.\nCoordinated a full research cycle, including framework development, instrument design, research administration, stakeholder-informed iteration, and thesis writing."
+  },
+  {
+    "objectID": "work/thesis/designed-for-impact.html#methods-approach",
+    "href": "work/thesis/designed-for-impact.html#methods-approach",
+    "title": "Designed For Impact",
+    "section": "Methods & Approach",
+    "text": "Methods & Approach\nThe Designed for Impact Tool builds on established statistical collaboration frameworks, including QQQ and ASCCR, while addressing a gap in how statistical teams plan for impact. Rather than treating impact as something evaluated after analysis is complete, the tool helps collaborators define intended impact at the start of a project and use that definition to guide methodological and communication decisions.\nThe project combines framework development, applied research design, and mixed methods validation. I developed the tool through an iterative process by soliciting feedback from students and practitioners in computer-aided personal interviews."
+  },
+  {
+    "objectID": "work/thesis/designed-for-impact.html#deliverables",
+    "href": "work/thesis/designed-for-impact.html#deliverables",
+    "title": "Designed For Impact",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nThesis Website\nA public-facing website introducing the Designed for Impact Tool, the motivation behind the project, and the research process supporting the framework.\nVisit Website\n\n\nPoster Presentation\nA recorded eCOTS poster presentation summarizing the motivation, framework, and early research direction for the project.\nWatch Presentation"
+  },
+  {
+    "objectID": "work/thesis/designed-for-impact.html#skills",
+    "href": "work/thesis/designed-for-impact.html#skills",
+    "title": "Designed For Impact",
+    "section": "Skills",
+    "text": "Skills\n\nResearch Design Academic Writing Mixed Methods Research Instrument Design"
+  },
+  {
+    "objectID": "work/research/epstein-social-pressure-theory.html",
+    "href": "work/research/epstein-social-pressure-theory.html",
+    "title": "Quantitative Social Pressure Theory",
+    "section": "",
+    "text": "Collaborative research manuscript using large-scale survey data, statistical modeling, and visualization to evaluate a formal social pressure theory.\n\nView Manuscript"
+  },
+  {
+    "objectID": "work/research/epstein-social-pressure-theory.html#quantitative-social-pressure-theory",
+    "href": "work/research/epstein-social-pressure-theory.html#quantitative-social-pressure-theory",
+    "title": "Quantitative Social Pressure Theory",
+    "section": "",
+    "text": "Collaborative research manuscript using large-scale survey data, statistical modeling, and visualization to evaluate a formal social pressure theory.\n\nView Manuscript"
+  },
+  {
+    "objectID": "work/research/epstein-social-pressure-theory.html#executive-summary",
+    "href": "work/research/epstein-social-pressure-theory.html#executive-summary",
+    "title": "Quantitative Social Pressure Theory",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nThis collaborative research project evaluates a formal social pressure theory using large-scale questionnaire data from more than 570,000 respondents across 88 countries. The manuscript examines whether country-level measures of heteronormative social pressure are associated with differences in the distribution of sexual orientation scores across international samples.\nMy primary contributions focused on the statistical and visual components of the paper. I supported the analysis workflow, created many of the figures used to communicate model results, and contributed to manuscript preparation. The theoretical and mathematical foundations were developed collaboratively by the broader research team."
+  },
+  {
+    "objectID": "work/research/epstein-social-pressure-theory.html#project-highlights",
+    "href": "work/research/epstein-social-pressure-theory.html#project-highlights",
+    "title": "Quantitative Social Pressure Theory",
+    "section": "Project Highlights",
+    "text": "Project Highlights\n\nConducted statistical analyses for a large international dataset containing questionnaire responses from 572,128 people across 88 countries.\nCreated data visualizations to communicate distributional patterns, country-level comparisons, and relationships between social pressure measures and survey outcomes.\nContributed to manuscript development by supporting analysis interpretation, figure preparation, and written review."
+  },
+  {
+    "objectID": "work/research/epstein-social-pressure-theory.html#methods-approach",
+    "href": "work/research/epstein-social-pressure-theory.html#methods-approach",
+    "title": "Quantitative Social Pressure Theory",
+    "section": "Methods & Approach",
+    "text": "Methods & Approach\nThe project used translated versions of an online questionnaire to study sexual orientation scores across international samples. The research team developed a country-level social pressure measure using policy and social acceptance variables, then compared those scores against country-level patterns in mean sexual orientation.\nMy work centered on translating the research questions into statistical summaries and visual evidence. This included analyzing distributions, comparing country-level patterns, producing publication-ready graphics, and helping communicate findings in a clear manuscript format. The analysis included distributional visualization, regression modeling, group comparisons, and graphical summaries of large-scale survey data."
+  },
+  {
+    "objectID": "work/research/epstein-social-pressure-theory.html#deliverables",
+    "href": "work/research/epstein-social-pressure-theory.html#deliverables",
+    "title": "Quantitative Social Pressure Theory",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nResearch Manuscript\nA collaborative manuscript submitted for publication. The paper presents statistical and visual evidence from a large international survey dataset to evaluate a formal social pressure theory.\nView Manuscript"
+  },
+  {
+    "objectID": "work/research/epstein-social-pressure-theory.html#skills",
+    "href": "work/research/epstein-social-pressure-theory.html#skills",
+    "title": "Quantitative Social Pressure Theory",
+    "section": "Skills",
+    "text": "Skills\n\nData Visualization Large-Scale Survey Data Regression Research Communication"
+  },
+  {
+    "objectID": "work/repositories/statistical-machine-learning.html",
+    "href": "work/repositories/statistical-machine-learning.html",
+    "title": "Statistical Machine Learning Repository",
+    "section": "",
+    "text": "Course archive demonstrating predictive modeling, model assessment, and machine learning workflows in R.\n\nRequest Materials"
+  },
+  {
+    "objectID": "work/repositories/statistical-machine-learning.html#statistical-machine-learning-repository",
+    "href": "work/repositories/statistical-machine-learning.html#statistical-machine-learning-repository",
+    "title": "Statistical Machine Learning Repository",
+    "section": "",
+    "text": "Course archive demonstrating predictive modeling, model assessment, and machine learning workflows in R.\n\nRequest Materials"
+  },
+  {
+    "objectID": "work/repositories/statistical-machine-learning.html#executive-summary",
+    "href": "work/repositories/statistical-machine-learning.html#executive-summary",
+    "title": "Statistical Machine Learning Repository",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nThis course archive reflects graduate-level work in statistical machine learning, with emphasis on modern predictive modeling methods, supervised and unsupervised learning, and model assessment in R.\nBecause the repository contains course materials that may not be appropriate to post publicly, the full archive is available upon request. This page summarizes the main competencies covered rather than presenting the materials directly."
+  },
+  {
+    "objectID": "work/repositories/statistical-machine-learning.html#project-highlights",
+    "href": "work/repositories/statistical-machine-learning.html#project-highlights",
+    "title": "Statistical Machine Learning Repository",
+    "section": "Project Highlights",
+    "text": "Project Highlights\n\nApplied regression, classification, and clustering methods across supervised and unsupervised learning contexts.\nPracticed model assessment and selection using cross-validation, bootstrapping, and information criteria.\nBuilt statistical learning workflows in R with attention to reproducibility, interpretation, and predictive performance."
+  },
+  {
+    "objectID": "work/repositories/statistical-machine-learning.html#methods-approach",
+    "href": "work/repositories/statistical-machine-learning.html#methods-approach",
+    "title": "Statistical Machine Learning Repository",
+    "section": "Methods & Approach",
+    "text": "Methods & Approach\nThe coursework covered predictive modeling techniques such as support vector machines, LASSO, splines, decision trees, random forests, and clustering methods. Across assignments and examples, the emphasis was on selecting appropriate models, evaluating performance, and understanding tradeoffs between flexibility, interpretability, and generalization."
+  },
+  {
+    "objectID": "work/repositories/statistical-machine-learning.html#deliverables",
+    "href": "work/repositories/statistical-machine-learning.html#deliverables",
+    "title": "Statistical Machine Learning Repository",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nCourse Archive\nA private archive of graduate-level statistical machine learning coursework, including applied modeling exercises and R-based predictive modeling workflows. Materials are available upon request.\nRequest Materials"
+  },
+  {
+    "objectID": "work/repositories/statistical-machine-learning.html#skills",
+    "href": "work/repositories/statistical-machine-learning.html#skills",
+    "title": "Statistical Machine Learning Repository",
+    "section": "Skills",
+    "text": "Skills\n\nStatistical Machine Learning Predictive Modeling Model Selection Cross-Validation R"
+  },
+  {
+    "objectID": "work/repositories/data-structures.html",
+    "href": "work/repositories/data-structures.html",
+    "title": "Data Structures Repository",
+    "section": "",
+    "text": "Course archive demonstrating algorithm analysis, abstract data types, recursion, and software design in Python.\n\nRequest Materials"
+  },
+  {
+    "objectID": "work/repositories/data-structures.html#data-structures-repository",
+    "href": "work/repositories/data-structures.html#data-structures-repository",
+    "title": "Data Structures Repository",
+    "section": "",
+    "text": "Course archive demonstrating algorithm analysis, abstract data types, recursion, and software design in Python.\n\nRequest Materials"
+  },
+  {
+    "objectID": "work/repositories/data-structures.html#executive-summary",
+    "href": "work/repositories/data-structures.html#executive-summary",
+    "title": "Data Structures Repository",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nThis course archive reflects foundational computer science work in data structures, algorithm analysis, and software design. The course strengthened my ability to reason about how programs store, organize, and process information, with emphasis on writing clear, efficient, and modular Python code.\nBecause the repository contains course materials that may not be appropriate to post publicly, the full archive is available upon request. This page summarizes the main competencies covered rather than presenting the materials directly."
+  },
+  {
+    "objectID": "work/repositories/data-structures.html#project-highlights",
+    "href": "work/repositories/data-structures.html#project-highlights",
+    "title": "Data Structures Repository",
+    "section": "Project Highlights",
+    "text": "Project Highlights\n\nImplemented abstract data types and core data structures using Python.\nPracticed algorithm analysis for evaluating runtime, efficiency, and tradeoffs between different approaches.\nBuilt fluency with recursion, binary trees, mutable and immutable data, and fundamental sorting and searching algorithms."
+  },
+  {
+    "objectID": "work/repositories/data-structures.html#methods-approach",
+    "href": "work/repositories/data-structures.html#methods-approach",
+    "title": "Data Structures Repository",
+    "section": "Methods & Approach",
+    "text": "Methods & Approach\nThe coursework focused on connecting software design principles with the underlying data structures that make programs efficient and maintainable. Topics included abstract data types, recursion, binary trees, mutability, algorithmic complexity, and common sorting and searching strategies.\nThis archive complements my statistics and data science work by documenting a stronger foundation in computational thinking, program structure, and algorithmic problem-solving."
+  },
+  {
+    "objectID": "work/repositories/data-structures.html#deliverables",
+    "href": "work/repositories/data-structures.html#deliverables",
+    "title": "Data Structures Repository",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nCourse Archive\nA private archive of data structures coursework, including Python implementations, algorithm analysis exercises, and software design materials. Materials are available upon request.\nRequest Materials"
+  },
+  {
+    "objectID": "work/repositories/data-structures.html#skills",
+    "href": "work/repositories/data-structures.html#skills",
+    "title": "Data Structures Repository",
+    "section": "Skills",
+    "text": "Skills\n\nPython Data Structures Algorithm Analysis Recursion Software Design"
+  },
+  {
+    "objectID": "work/posters/telecom-churn-strategy.html",
+    "href": "work/posters/telecom-churn-strategy.html",
+    "title": "Telecommunications Churn Strategy",
+    "section": "",
+    "text": "Poster project using classification models to identify churn risk and translate model results into retention strategy.\n\nView Poster View Repository"
+  },
+  {
+    "objectID": "work/posters/telecom-churn-strategy.html#telecommunications-churn-strategy",
+    "href": "work/posters/telecom-churn-strategy.html#telecommunications-churn-strategy",
+    "title": "Telecommunications Churn Strategy",
+    "section": "",
+    "text": "Poster project using classification models to identify churn risk and translate model results into retention strategy.\n\nView Poster View Repository"
+  },
+  {
+    "objectID": "work/posters/telecom-churn-strategy.html#executive-summary",
+    "href": "work/posters/telecom-churn-strategy.html#executive-summary",
+    "title": "Telecommunications Churn Strategy",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nThis project analyzed customer service records from a fictitious telecommunications company to identify which customer profiles were most strongly associated with churn. Using account, billing, and service subscription variables, I compared classification models and used the stronger model to estimate churn risk, identify key predictors, and translate model output into a targeted retention strategy.\nThe project connects predictive modeling with business decision-making. Rather than stopping at model performance, the analysis considered how churn probabilities, customer value, and outreach costs could be used together to prioritize retention resources."
+  },
+  {
+    "objectID": "work/posters/telecom-churn-strategy.html#project-highlights",
+    "href": "work/posters/telecom-churn-strategy.html#project-highlights",
+    "title": "Telecommunications Churn Strategy",
+    "section": "Project Highlights",
+    "text": "Project Highlights\n\nCompared logistic regression and decision tree models using cross-validation, with logistic regression achieving stronger predictive performance.\nIdentified customer characteristics associated with higher churn risk, including month-to-month contracts, electronic check payments, no tech support plan, and higher total charges.\nDeveloped a retention strategy framework by combining predicted churn probability, customer billing value, outreach cost, and expected reduction in churn risk."
+  },
+  {
+    "objectID": "work/posters/telecom-churn-strategy.html#methods-approach",
+    "href": "work/posters/telecom-churn-strategy.html#methods-approach",
+    "title": "Telecommunications Churn Strategy",
+    "section": "Methods & Approach",
+    "text": "Methods & Approach\nThe analysis used customer account, billing, and service subscription variables to predict churn. Because the outcome was moderately imbalanced, I evaluated model performance using ROC-AUC and compared logistic regression against a decision tree approach. Logistic regression performed slightly better and was used to interpret the strongest predictors of churn.\nAfter estimating churn probabilities, I translated the classification results into a practical retention strategy. Customers were segmented by both predicted churn risk and billing value to identify high-risk, high-value accounts. I then considered a simple expected-value scenario in which outreach costs $50 per customer and reduces churn probability by 20%, allowing the model results to inform which customers would be most worthwhile to target."
+  },
+  {
+    "objectID": "work/posters/telecom-churn-strategy.html#deliverables",
+    "href": "work/posters/telecom-churn-strategy.html#deliverables",
+    "title": "Telecommunications Churn Strategy",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nResearch Poster\nA poster presentation summarizing the churn modeling process, key predictors of customer attrition, risk classification strategy, and business implications for targeted retention outreach.\nView Poster\n\n\nGitHub Repository\nSource code for the churn analysis, including model fitting, validation, visualization, and retention strategy calculations.\nView Repository"
+  },
+  {
+    "objectID": "work/posters/telecom-churn-strategy.html#skills",
+    "href": "work/posters/telecom-churn-strategy.html#skills",
+    "title": "Telecommunications Churn Strategy",
+    "section": "Skills",
+    "text": "Skills\n\nClassification Modeling Logistic Regression Business Analytics Model Interpretation Data Visualization"
+  },
+  {
+    "objectID": "work/leadership/maritime-integration.html",
+    "href": "work/leadership/maritime-integration.html",
+    "title": "Nonprofit M&A",
+    "section": "",
+    "text": "Leadership project developing governance recommendations for an eight-figure nonprofit integration in California higher education.\n\nView Closeout Memo Request Supporting Materials"
+  },
+  {
+    "objectID": "work/leadership/maritime-integration.html#nonprofit-ma",
+    "href": "work/leadership/maritime-integration.html#nonprofit-ma",
+    "title": "Nonprofit M&A",
+    "section": "",
+    "text": "Leadership project developing governance recommendations for an eight-figure nonprofit integration in California higher education.\n\nView Closeout Memo Request Supporting Materials"
+  },
+  {
+    "objectID": "work/leadership/maritime-integration.html#executive-summary",
+    "href": "work/leadership/maritime-integration.html#executive-summary",
+    "title": "Nonprofit M&A",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nAssociated Students, Inc. (ASI) is Cal Poly’s student-governed nonprofit auxiliary, responsible for representing students and supporting campus programs, services, and student leadership. During Cal Poly’s historic integration with Cal Maritime, ASI needed to develop a unified student governance structure that could incorporate Maritime students into one organization while preserving representation, continuity, and operational clarity.\nAs Chair of the ASI Cal Maritime Integration Ad Hoc Committee, I led a joint student governance process that brought together representatives from both campuses. Over the course of one year, the committee met 25 times, reported to multiple stakeholder groups, and produced three core recommendations: a shared governance model, responsibility guides for new Maritime student leadership positions, and a package of ASI Bylaws amendments to operationalize the integration."
+  },
+  {
+    "objectID": "work/leadership/maritime-integration.html#project-highlights",
+    "href": "work/leadership/maritime-integration.html#project-highlights",
+    "title": "Nonprofit M&A",
+    "section": "Project Highlights",
+    "text": "Project Highlights\n\nChaired a joint ad hoc committee with student representation from both ASI and the Associated Students of the California Maritime Academy.\nLed the development of governance recommendations that established a new Maritime student council and formalized representation across ASI leadership structures.\nGuided the committee through rescoping, cross-campus negotiation, policy review, and final recommendations approved by the ASI Board of Directors."
+  },
+  {
+    "objectID": "work/leadership/maritime-integration.html#methods-approach",
+    "href": "work/leadership/maritime-integration.html#methods-approach",
+    "title": "Nonprofit M&A",
+    "section": "Methods & Approach",
+    "text": "Methods & Approach\nThis project required translating a large institutional integration into concrete governance decisions for a student-governed nonprofit. The committee’s work began with relationship-building, campus learning, and shared problem definition before moving into governance design, role development, and policy implementation.\nA key challenge was that the legal and operational pathway changed during the project. The committee adapted from an initial merger-oriented plan toward a structure that supported ASCMA dissolution and integration into ASI. That shift required rescoping deliverables, maintaining stakeholder confidence, and ensuring that recommendations remained legally and operationally coherent.\nThe final recommendations included a shared governance framework, responsibility guides for new student leadership positions, and a bylaw amendment package that established the new governance bodies, clarified representation, and prepared ASI to welcome Maritime Academy students as members. The closeout memo describes these deliverables as the result of “early problem disaggregation, occasional rescoping, and measured execution.” :contentReferenceoaicite:0"
+  },
+  {
+    "objectID": "work/leadership/maritime-integration.html#deliverables",
+    "href": "work/leadership/maritime-integration.html#deliverables",
+    "title": "Nonprofit M&A",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nProject Closeout Memo\nA public summary of the committee’s charge, scope changes, execution, implementation plan, and key deliverables from the integration process.\nView Closeout Memo\n\n\nSupporting Governance Materials\nAdditional materials are available upon request, including the Shared Governance Model, student leadership responsibility guides, and the ASI Bylaws amendment package used to operationalize the integration.\nRequest Supporting Materials"
+  },
+  {
+    "objectID": "work/leadership/maritime-integration.html#skills",
+    "href": "work/leadership/maritime-integration.html#skills",
+    "title": "Nonprofit M&A",
+    "section": "Skills",
+    "text": "Skills\n\nChange Management Governance Design Policy Writing Stakeholder Communication Strategic Leadership"
+  },
+  {
+    "objectID": "work/builds/lift.html",
+    "href": "work/builds/lift.html",
+    "title": "LIFT",
+    "section": "",
+    "text": "An AI-powered operations tool to help a fictitious nonprofit streamline operations, improve service reports, and make more informed resource-allocation decisions.\n\nLaunch App View Repository"
+  },
+  {
+    "objectID": "work/builds/lift.html#lift",
+    "href": "work/builds/lift.html#lift",
+    "title": "LIFT",
+    "section": "",
+    "text": "An AI-powered operations tool to help a fictitious nonprofit streamline operations, improve service reports, and make more informed resource-allocation decisions.\n\nLaunch App View Repository"
+  },
+  {
+    "objectID": "work/builds/lift.html#executive-summary",
+    "href": "work/builds/lift.html#executive-summary",
+    "title": "LIFT",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nLIFT is a prototype AI-powered operations tool built around a fictitious nonprofit service scenario. The app demonstrates how organizations could use practical AI workflows to improve day-to-day operations, turn frontline notes into structured insights, and make more informed decisions about staffing, reporting, and resource allocation.\nThe project was designed as a public-facing demo rather than a live AI system. Instead of connecting to an external model, LIFT simulates an AI-assisted workflow through clickable interactions, guided outputs, and realistic nonprofit operations content. This makes the app easy to evaluate while still showing how thoughtful AI implementation could support mission-driven teams."
+  },
+  {
+    "objectID": "work/builds/lift.html#project-highlights",
+    "href": "work/builds/lift.html#project-highlights",
+    "title": "LIFT",
+    "section": "Project Highlights",
+    "text": "Project Highlights\n\nBuilt an interactive Shiny application that demonstrates how AI could support nonprofit operations, service reporting, and decision-making.\nDesigned a guided user experience that translates messy operational information into structured summaries, insights, and recommended next steps.\nCreated a realistic demo environment to communicate AI implementation strategy without requiring live model calls or sensitive organizational data."
+  },
+  {
+    "objectID": "work/builds/lift.html#methods-approach",
+    "href": "work/builds/lift.html#methods-approach",
+    "title": "LIFT",
+    "section": "Methods & Approach",
+    "text": "Methods & Approach\nLIFT was developed as a Quarto/Shiny application with an emphasis on usability, storytelling, and applied AI strategy. The app is structured around a fictitious nonprofit case study, allowing users to move through a simulated workflow for reviewing operational information, identifying service challenges, and generating decision-ready outputs.\nThe goal was not simply to build a dashboard, but to prototype how AI could fit into an organization’s existing work. I focused on designing interactions that feel practical for nonprofit staff: clarifying problems, reducing reporting friction, surfacing patterns, and helping teams move from raw information to action."
+  },
+  {
+    "objectID": "work/builds/lift.html#deliverables",
+    "href": "work/builds/lift.html#deliverables",
+    "title": "LIFT",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nLive Shiny App\nA deployed prototype demonstrating an AI-assisted operations workflow for a fictitious nonprofit organization.\nLaunch App\n\n\nGitHub Repository\nSource code for the LIFT prototype, including the Quarto/Shiny app structure and supporting materials.\nView Repository"
+  },
+  {
+    "objectID": "work/builds/lift.html#skills",
+    "href": "work/builds/lift.html#skills",
+    "title": "LIFT",
+    "section": "Skills",
+    "text": "Skills\n\nAI Implementation Shiny Product Prototyping Operations Strategy"
+  },
+  {
+    "objectID": "work/builds/democracy-dashboard.html",
+    "href": "work/builds/democracy-dashboard.html",
+    "title": "Democracy Dashboard",
+    "section": "",
+    "text": "Interactive dashboard applying survival analysis and geospatial visualization to explore democratic transitions and coup histories.\n\nLaunch Dashboard View Repository"
+  },
+  {
+    "objectID": "work/builds/democracy-dashboard.html#democracy-dashboard",
+    "href": "work/builds/democracy-dashboard.html#democracy-dashboard",
+    "title": "Democracy Dashboard",
+    "section": "",
+    "text": "Interactive dashboard applying survival analysis and geospatial visualization to explore democratic transitions and coup histories.\n\nLaunch Dashboard View Repository"
+  },
+  {
+    "objectID": "work/builds/democracy-dashboard.html#executive-summary",
+    "href": "work/builds/democracy-dashboard.html#executive-summary",
+    "title": "Democracy Dashboard",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nThe Democracy Dashboard is a collaborative Shiny project for exploring global histories of democratic and non-democratic regimes. The dashboard combines interactive maps, statistical summaries, and model interpretation to help users investigate how countries move between regime types and how long non-democratic spells last before returning to democracy.\nThe project uses democracy, dictatorship, and coup d’état datasets to make comparative political history more accessible. Users can explore global regime classifications, review country-level histories, examine regional governance patterns, and investigate successful and unsuccessful coup attempts by country."
+  },
+  {
+    "objectID": "work/builds/democracy-dashboard.html#project-highlights",
+    "href": "work/builds/democracy-dashboard.html#project-highlights",
+    "title": "Democracy Dashboard",
+    "section": "Project Highlights",
+    "text": "Project Highlights\n\nBuilt an interactive dashboard that combines geospatial visualization, statistical modeling, and political regime data.\nApplied a Cox proportional hazards model to analyze how regime characteristics are associated with return to democracy.\nDesigned user-facing explanations that translate technical modeling concepts, including hazard ratios, into accessible dashboard text."
+  },
+  {
+    "objectID": "work/builds/democracy-dashboard.html#methods-approach",
+    "href": "work/builds/democracy-dashboard.html#methods-approach",
+    "title": "Democracy Dashboard",
+    "section": "Methods & Approach",
+    "text": "Methods & Approach\nThe dashboard was built with Shiny to support interactive exploration of global governance data. One section visualizes democratic and non-democratic regimes on a world map, allowing users to inspect country-level regime histories and compare broad regional patterns. Another section focuses on coup d’état histories, showing successful and unsuccessful coup attempts for selected countries over time.\nThe modeling component uses survival analysis to study the time it takes for countries that transition away from democracy to return to it. The dashboard pairs model output with explanatory text so users can understand both the statistical approach and its interpretation."
+  },
+  {
+    "objectID": "work/builds/democracy-dashboard.html#deliverables",
+    "href": "work/builds/democracy-dashboard.html#deliverables",
+    "title": "Democracy Dashboard",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nLive Shiny Dashboard\nA deployed interactive dashboard for exploring global patterns in democracy, dictatorship, non-democratic spells, and coup d’état histories.\nLaunch Dashboard\n\n\nGitHub Repository\nSource code and project materials for the collaborative dashboard build.\nView Repository"
+  },
+  {
+    "objectID": "work/builds/democracy-dashboard.html#skills",
+    "href": "work/builds/democracy-dashboard.html#skills",
+    "title": "Democracy Dashboard",
+    "section": "Skills",
+    "text": "Skills\n\nShiny Survival Analysis Geospatial Visualization Political Data Analysis Model Communication"
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Work",
+    "section": "",
+    "text": "Portfolio\n\n\n\nBrowse my research, coding projects, and community engagement."
+  },
+  {
+    "objectID": "work.html#start-by-category",
+    "href": "work.html#start-by-category",
+    "title": "Work",
+    "section": "Start by Category",
+    "text": "Start by Category\n\n\n\n01\n\n\nResearch\n\nApplied research, consulting projects, posters, and publications.\n\n\n\n02\n\n\nCoding Projects\n\nAI tools, dashboards, packages, and classwork repositories.\n\n\n\n03\n\n\nCommunity Engagement\n\nWorkshops, advocacy, and nonprofit leadership."
+  },
+  {
+    "objectID": "work.html#featured-work",
+    "href": "work.html#featured-work",
+    "title": "Work",
+    "section": "Featured Work",
+    "text": "Featured Work\n\n\n\nResearch\n\n\nDesigned For Impact\nA framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.\n\n\n\n\nCoding Projects\n\n\nLIFT\nAn AI-powered operations tool to help a fictitious nonprofit streamline operations, improve reporting, and make more informed resource allocation decisions.\n\n\n\n\nCommunity Engagement\n\n\nNonprofit M&A\nMy work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system."
+  },
+  {
+    "objectID": "work.html#all-work",
+    "href": "work.html#all-work",
+    "title": "Work",
+    "section": "All Work",
+    "text": "All Work\n\nResearch\n\n\n\nThesis\n\n\nDesigned For Impact\nA framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.\n\n\n\n\nConsulting\n\n\nStatistical Consulting\nA consolidated list of consulting engagements across environmental science, health, human factors, sustainability, and more.\n\n\n\n\nPoster\n\n\nGreen Roofs and Environmental Performance\nPoster project using predictive modeling to assess how green roofs influence building temperatures in urban environments.\n\n\n\n\nPoster\n\n\nTelecommunications Churn Strategy\nPoster project using classification models to identify churn risk and translate model results into retention strategy.\n\n\n\n\nResearch\n\n\nPolitical Polling Teaching Article\nJournal article revisiting the 1936 Literary Digest poll as a teaching context for sampling, bias, and statistical reasoning.\n\n\n\n\nResearch\n\n\nQuantitative Social Pressure Theory\nPaper on a quantitative social pressure theory of sexual orientation with a large dataset from multilingual surveys and 92 countries.\n\n\n\n\nResearch\n\n\nComplex Instruction and Pair Programming\nConference proceedings paper on status, equity, and collaboration using a Complex Instruction-informed pedagogy and pair programming.\n\n\n\n\n\nCoding Projects\n\n\n\nBuild\n\n\nLIFT\nAI-powered operations prototype for nonprofit workflows, reporting, and resource allocation support.\n\n\n\n\nBuild\n\n\ndictatR\nR package project containing tools for exploring, visualizing, and analyzing global democracy and dictatorship data.\n\n\n\n\nBuild\n\n\nDemocracy Dashboard\nInteractive dashboard using survival analysis and geospatial visualization to explore democratic transitions across the globe.\n\n\n\n\nClasswork\n\n\nStatistical Machine Learning Repository\nCoursework repository for supervised learning, model assessment, and applied statistical modeling exercises.\n\n\n\n\nClasswork\n\n\nAdvanced R Computing Repository\nCoursework repository focused on R programming, statistical computing, and reproducible workflows.\n\n\n\n\nClasswork\n\n\nIntro to Data Science Repository\nCoursework repository for introductory data wrangling, visualization, and modeling projects.\n\n\n\n\nClasswork\n\n\nData Structures Repository\nCoursework repository for core data structures, algorithmic thinking, and programming fundamentals.\n\n\n\n\n\nCommunity Engagement\n\n\n\nWorkshop\n\n\nIntro to R & DataFest\nPresentation introducing R workflows and practical analysis habits for DataFest participants.\n\n\n\n\nWorkshop\n\n\nData Viz For Nonprofits\nWorkshop on using clear, audience-centered data visuals to communicate nonprofit impact.\n\n\n\n\nLeadership\n\n\nNonprofit M&A\nMy work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system.\n\n\n\n\nAdvocacy\n\n\nStudent Advocacy at Cal Poly\nResolutions on institutional growth, course evaluation reform, shared governance, and Academic Senate policy."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jett Palmer",
     "section": "",
-    "text": "California Polytechnic State University (Cal Poly) | San Luis Obispo, CA\nM.S. in Statistics | Jan 2026 - present\nB.S. in Statistics | Sept 2022 - Dec 2025"
+    "text": "Applied Statistics | AI | Consulting\n\n\n\nExplore my work at the intersection of statistics, AI, and organizational problem-solving.\n\nLearn more about me Explore my work"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
     "title": "Jett Palmer",
-    "section": "",
-    "text": "California Polytechnic State University (Cal Poly) | San Luis Obispo, CA\nM.S. in Statistics | Jan 2026 - present\nB.S. in Statistics | Sept 2022 - Dec 2025"
+    "section": "Featured Work",
+    "text": "Featured Work\n\n\n\nResearch\n\n\nDesigned For Impact\nA framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.\n\n\n\n\nCoding Projects\n\n\nLIFT\nAn AI-powered operations tool to help a fictitious nonprofit streamline operations, improve service reports, and make more informed resource allocation decisions.\n\n\n\n\nCommunity Engagement\n\n\nNonprofit M&A\nMy work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system."
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
     "title": "Jett Palmer",
-    "section": "📊 | Experience",
-    "text": "📊 | Experience\nPrincipal Investigator | Advancing the ASCCR Frame with Impact Evaluation | 2025 - 2026\nData Analyst (Intern) | American Institute of Behavioral Research & Technology | 2024 - 2025\nResearch Assistant | Authority Constructs in Data Science | 2023 - 2025\nResearch Fellow | User Experience for Social Impact | 2023 - 2025\nResearch Assistant | Statistical Pedagogy | 2023"
+    "section": "Current Focus",
+    "text": "Current Focus\nLater this year, I will defend my master’s thesis entitled, Designed For Impact: The Statistical Collaborator’s Workflow. These are the tasks I’m currently working on."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "profile.html",
+    "href": "profile.html",
+    "title": "Profile",
     "section": "",
-    "text": "Investigated whether relationships between soil organic carbon (SOC) and carbon pools exhibited linear, logarithmic, or exponential patterns consistent with theories of carbon saturation in soils.\n\n\n\nAssessed how environmental conditions differed across microhabitats. Conducted mixed-effects modeling with environmental predictors, repeated measurements over time, and random effects for campus location to account for clustered sampling structure.\n\n\n\nEvaluated how organism type, surface material, and time influenced bacterial cell concentration and biofilm formation. Conducted mixed-effects modeling, repeated-measures analysis, and pairwise comparisons to assess temporal patterns and organism-specific differences in biofilm development.\n\n\n\nAssessed whether soil health indicators or the use of regenerative land management practices were more strongly associated with viticulturist-perceived outcomes. Carried out multiple correspondence analysis (MCA) and ordinal, logistic regression.\n\n\n\nEvaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.\n\n\n\nInvestigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.\n\n\n\nAnalyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.\n\n\n\nSpearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team."
+    "text": "Profile\n\n\n\nExplore my educational background, research projects, and leadership activities."
   },
   {
-    "objectID": "project_posts/6_1_2024_datafest/index.html",
-    "href": "project_posts/6_1_2024_datafest/index.html",
-    "title": "DataFest 2024",
-    "section": "",
-    "text": "Placeholder for text"
+    "objectID": "profile.html#about",
+    "href": "profile.html#about",
+    "title": "Profile",
+    "section": "About",
+    "text": "About\nI work at the intersection of statistics, AI, and organizational strategy. With a background in statistical consulting and collaboration, I use data to help teams define and navigate their toughest problems. My natural curiosity allows me to learn new domains quickly and implement intentional solutions that are grounded in the client’s mission.\nMaximizing impact and engaging deeply with clients is the central topic of my research. Learn more about the project here."
   },
   {
-    "objectID": "project_posts/4_28_2024_datafest/index.html",
-    "href": "project_posts/4_28_2024_datafest/index.html",
-    "title": "DataFest 2024",
-    "section": "",
-    "text": "DataFest is a 48 hour data analysis marathon hosted by the American Statistical Association. Every year, undergraduates all across the United States are provided a large, rich, and complex data set. Students are tasked with wrangling and analyzing these data to present insights, as they work around the clock to prepare a five minute presentation for a panel of judges.\nStudents are prohibited from sharing detailed information about the data for confidentiality. This post is limited to my reflection on the experience."
+    "objectID": "profile.html#education",
+    "href": "profile.html#education",
+    "title": "Profile",
+    "section": "Education",
+    "text": "Education\n\n\nCalifornia Polytechnic State University, San Luis Obispo\nM.S. in Statistics\n2025 - 2026\n\n\nCalifornia Polytechnic State University, San Luis Obispo\nB.S. in Statistics\n2022 - 2025"
   },
   {
-    "objectID": "project_posts/5-29-2024_storelli_scholarship/index.html",
-    "href": "project_posts/5-29-2024_storelli_scholarship/index.html",
-    "title": "Recapping 2024 Student Government",
-    "section": "",
-    "text": "Engaging in community service is one way that I find purpose and fulfillment, independent of career-related successes and failures. After coming to Cal Poly, it wasn’t long before I found myself in student government and serving the Board of Directors for Associated Students Inc. I applied in mid-first-year and was elected by the student body."
+    "objectID": "profile.html#recent-experience",
+    "href": "profile.html#recent-experience",
+    "title": "Profile",
+    "section": "Recent Experience",
+    "text": "Recent Experience\n\n\n\nResearch & Consulting\n\n\nStatistical Practice\n\nPrincipal Investigator, Designed For Impact: The Statistical Collaborator’s Workflow (2025 - present).\nLead Research Assistant, Authority Constructs in Data Science (2023 - 2025).\nConsulted on projects in agriculture, environmental science, public health, engineering, and higher education.\n\n\n\n\n\nLeadership\n\n\nStrategic Initiatives\n\nChaired a joint task force responsible for developing governance recommendations and advising 26 student leaders through an eight-figure merger of registered nonprofits.\nFacilitated cross-campus collaboration among student leaders and stakeholders, building consensus around a unified governance framework. Learn more about the project here.\n\n\n\n\n\nService\n\n\nCommunity Contributions\n\nAppointed to over fifteen committees and governing bodies at Cal Poly to advise executive administrators on institutional decisions.\nDesigned and hosted workshops for students and local nonprofits on data literacy and statistical tools."
   },
   {
-    "objectID": "project_posts/5-29-2024_storelli_scholarship/index.html#some-history",
-    "href": "project_posts/5-29-2024_storelli_scholarship/index.html#some-history",
-    "title": "Recapping 2024 Student Government",
-    "section": "",
-    "text": "Engaging in community service is one way that I find purpose and fulfillment, independent of career-related successes and failures. After coming to Cal Poly, it wasn’t long before I found myself in student government and serving the Board of Directors for Associated Students Inc. I applied in mid-first-year and was elected by the student body."
+    "objectID": "profile.html#scholarship",
+    "href": "profile.html#scholarship",
+    "title": "Profile",
+    "section": "Scholarship",
+    "text": "Scholarship\n\nPublications\n\nAbrash, I., Canner, J., Geam, E., Kan, N., Kuebitz, C., Lopez, E., Palmer, J., Pfeiffer, I., Theobold, A., & Woodard, V. (Proceedings of the International Conference on Teaching Statistics, 2026). Status, equity, and collaboration: A pilot study of Complex Instruction-informed pair programming.\nEpstein, R., Newland, A., Palmer, J., Rajgarhia, A., & Wang, N. Testing a quantitative social pressure theory of sexual orientation with data obtained from 310,144 participants in 92 countries completing surveys in their native languages. Manuscript posted on SSRN, September 24, 2025. https://ssrn.com/abstract=5526418\nChance, B., Kerr, A., & Palmer, J. (2024). Taking the next step in exploring the Literary Digest 1936 poll. Journal of Statistics and Data Science Education, 32(4), 405-415. https://doi.org/10.1080/26939169.2024.2395505\n\n\n\nIn Progress\n\nPalmer, J., Smith, H., & Vance, E. Designed For Impact: The Statistical Collaborator’s Workflow. Learn more about the project here.\n\n\n\nConference Presentations\n\nJoint Statistical Meetings | Contributed Paper Presentation (2026).\ne-Conference on Teaching Statistics | Poster Presentation (2026).\nBailey College of Science & Mathematics Research Conference | Research Talk (2026).\nWestern Psychological Association | Paper Presentation (2025).\ne-Conference on Teaching Statistics | Poster Presentation (2024)."
   },
   {
-    "objectID": "project_posts/5-29-2024_storelli_scholarship/index.html#recapping-this-year",
-    "href": "project_posts/5-29-2024_storelli_scholarship/index.html#recapping-this-year",
-    "title": "Recapping 2024 Student Government",
-    "section": "Recapping this year",
-    "text": "Recapping this year\nThe ASI Board of Directors at Cal Poly is considered the official voice of the student body. The role of a Director is two-fold. I’m proud to share some of the work I accomplished this year on both ends of the role.\n\nAdvocate\nIn terms of political advocacy, we are the voices who represent our student constituents. One thing that I’m passionate about is student wellness, particularly with respect to mental health. I worked with, Emily, the Secretary of Health and Wellbeing this year on policy that aims to recognize mental health as an excusable reason for absence, with appropriate documentation. Our resolution passed the board unanimously and was referred to the Cal Poly President Armstrong as well as other campus officials.\n\n\nFiduciary\nDirectors are also responsible for the internal corporate business like budget approvals and strategic planning.\nThis year, I was appointed to Co-Chair the Internal Review Committee. This is one of two corporate committees within ASI and it’s role is more stipulated by mandates. Internal Review oversees risk management and serves as the corporation’s audit committee.\nIn the fall, the Board of Directors approved an ad hoc committee to conduct a comprehensive bylaw review. I helped incorporate a nonprofit in 2022, which entailed writing some bylaws, so I was appointed to chair this committee as well.\nThe committee was composed of all three of the corporation’s officers, plus three additional student leaders in student government. This meant six confident voices held a seat at the table and facilitating the discussion effectively would prove pertinent to our success. An unanticipated challenge, however, was push-back from other stakeholders. On a couple instances, I presented revisions made by the committee to the Board of Directors and wasn’t quite prepared for the amount of feedback. It taught me a lesson about creating a comfortable buffer between myself and my work.\nThe final bill passed the Board of Directors unanimously and the revisions we instituted will carry into future administrations of ASI indefinitely."
+    "objectID": "profile.html#leadership",
+    "href": "profile.html#leadership",
+    "title": "Profile",
+    "section": "Leadership",
+    "text": "Leadership\n\nGovernance Work\nAs an elected representative on the Board of Directors of a student association, I authored and passed legislation connected to institutional policy, shared governance, and student experience.\n\nResolution on Institutional Growth and “Learn By Doing” Ethos (Palmer & Ramage, 2026).\nResolution to Amend ASI Articles of Incorporation (Palmer, 2025).\nResolution Calling for Reform of the Course Evaluation Instrument and Processes (Reyes & Palmer, 2025).\nResolution to Reaffirm Shared Governance (Palmer & Finch, 2025).\nResolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Policy (Palmer & Prince, 2024).\n\n\n\nSelected Committees\n\nASI Cal Maritime Integration Ad Hoc Committee, Chair (2025-2026).\nArtificial Intelligence Student Success Advisory Group (2025-2026).\nDistinguished Teaching Award Committee (2024-2026).\nAcademic Senate: Student Perceptions of Teaching Effectiveness Ad Hoc Committee (2025-2026).\nAcademic Senate and Academic Senate Executive Committee (2024-2025).\nInternal Review Committee, Chair (2023-2025).\nCampus Administrative Policy Committee (2023-2025).\nStudent Success Fee Allocation Committee (2023-2024)."
   },
   {
-    "objectID": "project_posts/5-29-2024_storelli_scholarship/index.html#recognition",
-    "href": "project_posts/5-29-2024_storelli_scholarship/index.html#recognition",
-    "title": "Recapping 2024 Student Government",
-    "section": "Recognition",
-    "text": "Recognition\nThis leads us to the end of the academic year. I advocated for policy serving the mental wellness of students and revamped our corporate bylaws. I continuously asked hard questions of campus officials and stood up to stakeholders to justify or reconsider my team’s decisions.\nSarah Storelli, former ASI Student Body President, instituted the “Use Your Voice” Scholarship this year on behalf of her mom, Kathy Storelli. The Board of Directors had the privilege of hearing both Kathy and Sarah during speak during one of our recent meetings. They shared beautiful words and inspiring sentiment that spoke powerfully to student government members.\nDuring our student government end-of-year banquet, I was graciously awarded this scholarship. I am beyond grateful for the support and lessons that ASI has provided me. Student government lends me a platform to spark change on campus that reaches our entire student body. It’s my mission to continue elevating student voices and maximizing my impact on campus. The Storelli family, students, and staff at ASI continue to motivate my work."
-  },
-  {
-    "objectID": "project_posts/4_28_2024_datafest/index.html#about",
-    "href": "project_posts/4_28_2024_datafest/index.html#about",
-    "title": "DataFest 2024",
-    "section": "",
-    "text": "DataFest is a 48 hour data analysis marathon hosted by the American Statistical Association. Every year, undergraduates all across the United States are provided a large, rich, and complex data set. Students are tasked with wrangling and analyzing these data to present insights, as they work around the clock to prepare a five minute presentation for a panel of judges.\nStudents are prohibited from sharing detailed information about the data for confidentiality. This post is limited to my reflection on the experience."
-  },
-  {
-    "objectID": "project_posts/4_28_2024_datafest/index.html#clock-starts",
-    "href": "project_posts/4_28_2024_datafest/index.html#clock-starts",
-    "title": "DataFest 2024",
-    "section": "Clock Starts",
-    "text": "Clock Starts\n\nExplore\nTo kick-off the event, we were shown a video introducing the data set. The data were sectioned into multiple files and we started by delegating the files to each of the four members of our team. We first needed to orient ourselves with the data, read the documentation, and conduct exploratory analysis.\nWe allotted time for the team to come together and collectively discuss the highlights and interesting characteristics from each of our sets. We kept tabs on what kind of information each team member found so that we were able to strategically combine data sets later in the analysis. After discussing, we went our separate ways again and dove deeper into each of our preliminary ideas.\n\n\nApproach\nThis year at Cal Poly, I’ve applied a new approach to learning and asking questions. In the stats industry, we see our fair share of formulas. Many of my peers commit these formulas to memory and score very highly on exams. I wonder, though, the extent to which we can make claims about these students’ material acquisition based on their exam scores. I am not so good at memorizing formulas and, instead, I began asking myself about the story that the course is telling. After all, intelligent and thoughtful academics design these courses, write our textbooks, and they do so with intent about the order and nature in which content is delivered. There’s a subtle opportunity here for students to identify the course narrative and maybe enhance their understanding. I’ve started attending more office hours, asking my instructors to take me through the narrative of the course and answer some of the “why’s” regarding the order and nature in which the material is taught. It’s also a great way to look back on the term in preparation for final exams.\nLooking back, I wish our team took more time at the beginning to think and share about potential stories that were emerging from the data."
-  },
-  {
-    "objectID": "project_posts/4_28_2024_datafest/index.html#conclusion",
-    "href": "project_posts/4_28_2024_datafest/index.html#conclusion",
-    "title": "DataFest 2024",
-    "section": "Conclusion",
-    "text": "Conclusion\nWe presented our findings to the panel and were hopeful that our visualization would impress the judges. And it did, indeed, as our team was awarded with Best Visualization. An exciting and challenging experience, DataFest provided us an opportunity to test our skills in a rapid succession of EDA, statistical analysis, story-boarding, and oral communication.\n\n\n\nWinner: Best Visualization of Cal Poly DataFest 2024"
-  },
-  {
-    "objectID": "project_posts/5-29-2024_storelli_scholarship/index.html#my-role",
-    "href": "project_posts/5-29-2024_storelli_scholarship/index.html#my-role",
-    "title": "Recapping 2024 Student Government",
-    "section": "My role",
-    "text": "My role\nThe ASI Board of Directors at Cal Poly is considered the official voice of the student body. The role of a Director is two-fold. I’m proud to share some of the work I accomplished this year in both advocacy and corporate oversight.\n\nAdvocate\nIn terms of political advocacy, we are the voices who represent our student constituents. One thing that I’m passionate about is student wellness, particularly with respect to mental health. This year, I worked with our Secretary of Health and Wellbeing, Emily Prince, on policy that recognizes mental health as an excusable reason for absence. Our resolution passed the board unanimously and was referred to Cal Poly President Jeff Armstrong as well as other campus officials.\nIn response, the Academic Senate, a faculty-governed body, wrote and approved a policy change that officially amended the campus-wide excusable absence policy to include mental health. This is my proudest initiative on campus as it marks a huge step forward for our students and demonstrates value in shared governance.\n\n\nFiduciary\nDirectors are also responsible for the internal corporate business, including budget approvals and strategic planning.\nThis year, I was appointed to Co-Chair the Internal Review Committee. This is one of two corporate committees within ASI, and it’s mandated to oversee risk management and serve as the corporation’s audit committee. In the fall, the Board of Directors approved an Ad Hoc committee to conduct a comprehensive bylaw review. Having incorporated a nonprofit in 2022, I was appointed to chair this committee concurrently.\nThe committee was composed of all three ASI officers, plus three additional student leaders in student government. I knew that having six confident voices at the table meant facilitating the discussion effectively would be pertinent to our success. An unanticipated challenge, however, was push-back from other stakeholders. On a couple instances, I presented revisions made by the committee to the Board of Directors and wasn’t quite prepared for the overwhelming feedback. It taught me a lesson about creating a comfortable buffer between myself and my work.\nAfter a lengthy process of feedback loops and redrafting, the final bill passed the Board of Directors unanimously on 5/24/2024, and the revisions we instituted will carry into future administrations of ASI indefinitely."
-  },
-  {
-    "objectID": "project_posts/6_4_2024_resolution_passed/index.html",
-    "href": "project_posts/6_4_2024_resolution_passed/index.html",
-    "title": "Passing Legislation at Cal Poly",
-    "section": "",
-    "text": "As an elected member of the ASI Board of Directors, I made it part of my 2023 campaign to advocate for mental wellness on the Cal Poly campus. Last fall, I reached out the Secretary of Campus Health and Well-being, Emily Prince, and we began authoring legislation that would drive this mission.\n\nIt was in the midst of drafting our message and holding meetings with campus officials that the exigence of this work became clear to me. An individual who is very close to my heart faced a mental health crisis. I shed many tears, for many days, and my academics were impacted. This was beyond challenging, but the experience gave me new and ambitious passion for the work Emily and I were spearheading.\n\nResolution 24-02 of the ASI Board of Directors called upon the university Academic Senate to include mental health in the definition of illness within the Excusable Absence Policy. On February 21st of this year, the Board passed our resolution unanimously. As the official voice of the student body, the position of ASI Student Government was made clear by this legislation, and it was promptly disseminated to University President Armstrong and a number of VP’s at Cal Poly. The Academic Senate pushed the legislation forward and authored their own legislation that, if approved, would change the Excusable Absence Policy, consistent with our recommendations."
-  },
-  {
-    "objectID": "project_posts/6_4_2024_resolution_passed/index.html#history",
-    "href": "project_posts/6_4_2024_resolution_passed/index.html#history",
-    "title": "Passing Legislation at Cal Poly",
-    "section": "",
-    "text": "As an elected member of the ASI Board of Directors, I made it part of my 2023 campaign to advocate for mental wellness on the Cal Poly campus. Last fall, I reached out the Secretary of Campus Health and Well-being, Emily Prince, and we began authoring legislation that would drive this mission.\n\nIt was in the midst of drafting our message and holding meetings with campus officials that the exigence of this work became clear to me. An individual who is very close to my heart faced a mental health crisis. I shed many tears, for many days, and my academics were impacted. This was beyond challenging, but the experience gave me new and ambitious passion for the work Emily and I were spearheading.\n\nResolution 24-02 of the ASI Board of Directors called upon the university Academic Senate to include mental health in the definition of illness within the Excusable Absence Policy. On February 21st of this year, the Board passed our resolution unanimously. As the official voice of the student body, the position of ASI Student Government was made clear by this legislation, and it was promptly disseminated to University President Armstrong and a number of VP’s at Cal Poly. The Academic Senate pushed the legislation forward and authored their own legislation that, if approved, would change the Excusable Absence Policy, consistent with our recommendations."
-  },
-  {
-    "objectID": "project_posts/6_4_2024_resolution_passed/index.html#present",
-    "href": "project_posts/6_4_2024_resolution_passed/index.html#present",
-    "title": "Passing Legislation at Cal Poly",
-    "section": "Present",
-    "text": "Present\nToday marked an important day for Cal Poly and the ASI Board of Directors. I am pleased to announce that the Academic Senate has now passed the policy, changing language on the Excusable Absence Policy to be explicitly inclusive of mental health and discouraging the requirement of a doctor’s note. This is a huge leap forward for Cal Poly students and it is my honor to be at the forefront of this action.\nI want to thank Emily Prince for your thoughtful collaboration and the Board of Directors for your passionate support. I also want to thank Dr. Greenwood for your guidance in this process. The Student Health Advisory Committee stood beside us and advised our legislation. Thank you to the members of SHAC as well. Lastly, thank you to everyone who provided feedback and insight on the resolution. Your voices were heard and I hope you feel proud of the work you helped to create.\nYou can view Resolution #24-02 from the ASI Board of Directors here."
-  },
-  {
-    "objectID": "project_posts/4_28_2024_datafest/index.html#roadblock",
-    "href": "project_posts/4_28_2024_datafest/index.html#roadblock",
-    "title": "DataFest 2024",
-    "section": "Roadblock",
-    "text": "Roadblock\nHalf-way through the competition, our team was hitting roadblocks and was feeling unhopeful. Each of us was building a separate component of the presentation. I was focused on joining two data sets to extract a broader, philosophical claim about the data and my team was reasonably skeptical. The data wrangling was taking me longer than we anticipated and other analyses were appearing statistically insignificant or disjointed. After a walk around campus, we continued making periodic strides forward on the quantitative analysis.\nMy sub-project was finally bearing something useful. After I was finally able to arrange and clean the data appropriately, they were ready to be graphed. I paired up with another group member to help with creating a set of box plots with density curve overlays. The rest of our team worked on aesthetics, accessibility, and synthesizing some of their own quantitative findings to further drive the narrative. They built a beautiful presentation and we worked together on a script."
-  },
-  {
-    "objectID": "activities.html",
-    "href": "activities.html",
-    "title": "Activities",
-    "section": "",
-    "text": "American Statistical Association | DataFest at Cal Poly (2025) | 48-hour data analysis marathon (Winner).\nAssociation for Practical & Professional Ethics | Intercollegiate Ethics Bowl (2024).\nAmerican Statistical Association | DataFest at Cal Poly (2024) | 48-hour data analysis marathon (Winner)."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Passing Legislation at Cal Poly\n\n\n\nASI\n\n\nLeadership\n\n\n\nWorking with student government and campus officials to elevate the importance of mental health on campus.\n\n\n\nJett Palmer\n\n\nJun 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRecapping 2024 Student Government\n\n\n\nASI\n\n\nAwards\n\n\nLeadership\n\n\n\nFirst-ever recipient of the Kathy Storelli “Use Your Voice” Scholarship for student leaders at Cal Poly ASI.\n\n\n\nJett Palmer\n\n\nMay 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDataFest 2024\n\n\n\nAwards\n\n\nData Visualization\n\n\nR\n\n\nStatistics\n\n\n\nReflecting on the first-time experience and winning Best Data Visualization.\n\n\n\nJett Palmer\n\n\nApr 28, 2024\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog_posts/4_28_2024_datafest/index.html",
-    "href": "blog_posts/4_28_2024_datafest/index.html",
-    "title": "DataFest 2024",
-    "section": "",
-    "text": "DataFest is a 48 hour data analysis marathon hosted by the American Statistical Association. Every year, undergraduates all across the United States are provided a large, rich, and complex data set. Students are tasked with wrangling and analyzing these data to present insights, as they work around the clock to prepare a five minute presentation for a panel of judges.\nStudents are prohibited from sharing detailed information about the data for confidentiality. This post is limited to my reflection on the experience."
-  },
-  {
-    "objectID": "blog_posts/4_28_2024_datafest/index.html#about",
-    "href": "blog_posts/4_28_2024_datafest/index.html#about",
-    "title": "DataFest 2024",
-    "section": "",
-    "text": "DataFest is a 48 hour data analysis marathon hosted by the American Statistical Association. Every year, undergraduates all across the United States are provided a large, rich, and complex data set. Students are tasked with wrangling and analyzing these data to present insights, as they work around the clock to prepare a five minute presentation for a panel of judges.\nStudents are prohibited from sharing detailed information about the data for confidentiality. This post is limited to my reflection on the experience."
-  },
-  {
-    "objectID": "blog_posts/4_28_2024_datafest/index.html#clock-starts",
-    "href": "blog_posts/4_28_2024_datafest/index.html#clock-starts",
-    "title": "DataFest 2024",
-    "section": "Clock Starts",
-    "text": "Clock Starts\n\nExplore\nTo kick-off the event, we were shown a video introducing the data set. The data were sectioned into multiple files and we started by delegating the files to each of the four members of our team. We first needed to orient ourselves with the data, read the documentation, and conduct exploratory analysis.\nWe allotted time for the team to come together and collectively discuss the highlights and interesting characteristics from each of our sets. We kept tabs on what kind of information each team member found so that we were able to strategically combine data sets later in the analysis. After discussing, we went our separate ways again and dove deeper into each of our preliminary ideas.\n\n\nApproach\nThis year at Cal Poly, I’ve applied a new approach to learning and asking questions. In the stats industry, we see our fair share of formulas. Many of my peers commit these formulas to memory and score very highly on exams. I wonder, though, the extent to which we can make claims about these students’ material acquisition based on their exam scores. I am not so good at memorizing formulas and, instead, I began asking myself about the story that the course is telling. After all, intelligent and thoughtful academics design these courses, write our textbooks, and they do so with intent about the order and nature in which content is delivered. There’s a subtle opportunity here for students to identify the course narrative and maybe enhance their understanding. I’ve started attending more office hours, asking my instructors to take me through the narrative of the course and answer some of the “why’s” regarding the order and nature in which the material is taught. It’s also a great way to look back on the term in preparation for final exams.\nLooking back, I wish our team took more time at the beginning to think and share about potential stories that were emerging from the data."
-  },
-  {
-    "objectID": "blog_posts/4_28_2024_datafest/index.html#roadblock",
-    "href": "blog_posts/4_28_2024_datafest/index.html#roadblock",
-    "title": "DataFest 2024",
-    "section": "Roadblock",
-    "text": "Roadblock\nHalf-way through the competition, our team was hitting roadblocks and was feeling unhopeful. Each of us was building a separate component of the presentation. I was focused on joining two data sets to extract a broader, philosophical claim about the data and my team was reasonably skeptical. The data wrangling was taking me longer than we anticipated and other analyses were appearing statistically insignificant or disjointed. After a walk around campus, we continued making periodic strides forward on the quantitative analysis.\nMy sub-project was finally bearing something useful. After I was finally able to arrange and clean the data appropriately, they were ready to be graphed. I paired up with another group member to help with creating a set of box plots with density curve overlays. The rest of our team worked on aesthetics, accessibility, and synthesizing some of their own quantitative findings to further drive the narrative. They built a beautiful presentation and we worked together on a script."
-  },
-  {
-    "objectID": "blog_posts/4_28_2024_datafest/index.html#conclusion",
-    "href": "blog_posts/4_28_2024_datafest/index.html#conclusion",
-    "title": "DataFest 2024",
-    "section": "Conclusion",
-    "text": "Conclusion\nWe presented our findings to the panel and were hopeful that our visualization would impress the judges. And it did, indeed, as our team was awarded with Best Visualization. An exciting and challenging experience, DataFest provided us an opportunity to test our skills in a rapid succession of EDA, statistical analysis, story-boarding, and oral communication.\n\n\n\nWinner: Best Visualization of Cal Poly DataFest 2024"
-  },
-  {
-    "objectID": "blog_posts/6_4_2024_resolution_passed/index.html",
-    "href": "blog_posts/6_4_2024_resolution_passed/index.html",
-    "title": "Passing Legislation at Cal Poly",
-    "section": "",
-    "text": "As an elected member of the ASI Board of Directors, I made it part of my 2023 campaign to advocate for mental wellness on the Cal Poly campus. Last fall, I reached out the Secretary of Campus Health and Well-being, Emily Prince, and we began authoring legislation that would drive this mission.\n\nIt was in the midst of drafting our message and holding meetings with campus officials that the exigence of this work became clear to me. An individual who is very close to my heart faced a mental health crisis. I shed many tears, for many days, and my academics were impacted. This was beyond challenging, but the experience gave me new and ambitious passion for the work Emily and I were spearheading.\n\nResolution 24-02 of the ASI Board of Directors called upon the university Academic Senate to include mental health in the definition of illness within the Excusable Absence Policy. On February 21st of this year, the Board passed our resolution unanimously. As the official voice of the student body, the position of ASI Student Government was made clear by this legislation, and it was promptly disseminated to University President Armstrong and a number of VP’s at Cal Poly. The Academic Senate pushed the legislation forward and authored their own legislation that, if approved, would change the Excusable Absence Policy, consistent with our recommendations."
-  },
-  {
-    "objectID": "blog_posts/6_4_2024_resolution_passed/index.html#history",
-    "href": "blog_posts/6_4_2024_resolution_passed/index.html#history",
-    "title": "Passing Legislation at Cal Poly",
-    "section": "",
-    "text": "As an elected member of the ASI Board of Directors, I made it part of my 2023 campaign to advocate for mental wellness on the Cal Poly campus. Last fall, I reached out the Secretary of Campus Health and Well-being, Emily Prince, and we began authoring legislation that would drive this mission.\n\nIt was in the midst of drafting our message and holding meetings with campus officials that the exigence of this work became clear to me. An individual who is very close to my heart faced a mental health crisis. I shed many tears, for many days, and my academics were impacted. This was beyond challenging, but the experience gave me new and ambitious passion for the work Emily and I were spearheading.\n\nResolution 24-02 of the ASI Board of Directors called upon the university Academic Senate to include mental health in the definition of illness within the Excusable Absence Policy. On February 21st of this year, the Board passed our resolution unanimously. As the official voice of the student body, the position of ASI Student Government was made clear by this legislation, and it was promptly disseminated to University President Armstrong and a number of VP’s at Cal Poly. The Academic Senate pushed the legislation forward and authored their own legislation that, if approved, would change the Excusable Absence Policy, consistent with our recommendations."
-  },
-  {
-    "objectID": "blog_posts/6_4_2024_resolution_passed/index.html#present",
-    "href": "blog_posts/6_4_2024_resolution_passed/index.html#present",
-    "title": "Passing Legislation at Cal Poly",
-    "section": "Present",
-    "text": "Present\nToday marked an important day for Cal Poly and the ASI Board of Directors. I am pleased to announce that the Academic Senate has now passed the policy, changing language on the Excusable Absence Policy to be explicitly inclusive of mental health and discouraging the requirement of a doctor’s note. This is a huge leap forward for Cal Poly students and it is my honor to be at the forefront of this action.\nI want to thank Emily Prince for your thoughtful collaboration and the Board of Directors for your passionate support. I also want to thank Dr. Greenwood for your guidance in this process. The Student Health Advisory Committee stood beside us and advised our legislation. Thank you to the members of SHAC as well. Lastly, thank you to everyone who provided feedback and insight on the resolution. Your voices were heard and I hope you feel proud of the work you helped to create.\nYou can view Resolution #24-02 from the ASI Board of Directors here."
-  },
-  {
-    "objectID": "blog_posts/5-29-2024_storelli_scholarship/index.html",
-    "href": "blog_posts/5-29-2024_storelli_scholarship/index.html",
-    "title": "Recapping 2024 Student Government",
-    "section": "",
-    "text": "Engaging in community service is one way that I find purpose and fulfillment, independent of career-related successes and failures. After coming to Cal Poly, it wasn’t long before I found myself in student government and serving the Board of Directors for Associated Students Inc. I applied in mid-first-year and was elected by the student body."
-  },
-  {
-    "objectID": "blog_posts/5-29-2024_storelli_scholarship/index.html#some-history",
-    "href": "blog_posts/5-29-2024_storelli_scholarship/index.html#some-history",
-    "title": "Recapping 2024 Student Government",
-    "section": "",
-    "text": "Engaging in community service is one way that I find purpose and fulfillment, independent of career-related successes and failures. After coming to Cal Poly, it wasn’t long before I found myself in student government and serving the Board of Directors for Associated Students Inc. I applied in mid-first-year and was elected by the student body."
-  },
-  {
-    "objectID": "blog_posts/5-29-2024_storelli_scholarship/index.html#my-role",
-    "href": "blog_posts/5-29-2024_storelli_scholarship/index.html#my-role",
-    "title": "Recapping 2024 Student Government",
-    "section": "My role",
-    "text": "My role\nThe ASI Board of Directors at Cal Poly is considered the official voice of the student body. The role of a Director is two-fold. I’m proud to share some of the work I accomplished this year in both advocacy and corporate oversight.\n\nAdvocate\nIn terms of political advocacy, we are the voices who represent our student constituents. One thing that I’m passionate about is student wellness, particularly with respect to mental health. This year, I worked with our Secretary of Health and Wellbeing, Emily Prince, on policy that recognizes mental health as an excusable reason for absence. Our resolution passed the board unanimously and was referred to Cal Poly President Jeff Armstrong as well as other campus officials.\nIn response, the Academic Senate, a faculty-governed body, wrote and approved a policy change that officially amended the campus-wide excusable absence policy to include mental health. This is my proudest initiative on campus as it marks a huge step forward for our students and demonstrates value in shared governance.\n\n\nFiduciary\nDirectors are also responsible for the internal corporate business, including budget approvals and strategic planning.\nThis year, I was appointed to Co-Chair the Internal Review Committee. This is one of two corporate committees within ASI, and it’s mandated to oversee risk management and serve as the corporation’s audit committee. In the fall, the Board of Directors approved an Ad Hoc committee to conduct a comprehensive bylaw review. Having incorporated a nonprofit in 2022, I was appointed to chair this committee concurrently.\nThe committee was composed of all three ASI officers, plus three additional student leaders in student government. I knew that having six confident voices at the table meant facilitating the discussion effectively would be pertinent to our success. An unanticipated challenge, however, was push-back from other stakeholders. On a couple instances, I presented revisions made by the committee to the Board of Directors and wasn’t quite prepared for the overwhelming feedback. It taught me a lesson about creating a comfortable buffer between myself and my work.\nAfter a lengthy process of feedback loops and redrafting, the final bill passed the Board of Directors unanimously on 5/24/2024, and the revisions we instituted will carry into future administrations of ASI indefinitely."
-  },
-  {
-    "objectID": "blog_posts/5-29-2024_storelli_scholarship/index.html#recognition",
-    "href": "blog_posts/5-29-2024_storelli_scholarship/index.html#recognition",
-    "title": "Recapping 2024 Student Government",
-    "section": "Recognition",
-    "text": "Recognition\nThis leads us to the end of the academic year. I advocated for policy serving the mental wellness of students and revamped our corporate bylaws. I continuously asked hard questions of campus officials and stood up to stakeholders to justify or reconsider my team’s decisions.\nSarah Storelli, former ASI Student Body President, instituted the “Use Your Voice” Scholarship this year on behalf of her mom, Kathy Storelli. The Board of Directors had the privilege of hearing both Kathy and Sarah during speak during one of our recent meetings. They shared beautiful words and inspiring sentiment that spoke powerfully to student government members.\nDuring our student government end-of-year banquet, I was graciously awarded this scholarship. I am beyond grateful for the support and lessons that ASI has provided me. Student government lends me a platform to spark change on campus that reaches our entire student body. It’s my mission to continue elevating student voices and maximizing my impact on campus. The Storelli family, students, and staff at ASI continue to motivate my work."
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Jett Palmer",
-    "section": "",
-    "text": "I am an undergraduate at California Polytechnic State University in San Luis Obispo.\nMy peers describe me as diligent, thoughtful, and thorough."
-  },
-  {
-    "objectID": "index.html#location",
-    "href": "index.html#location",
-    "title": "Jett Palmer",
-    "section": "📍 Location",
-    "text": "📍 Location\nCurrently located in San Luis Obispo and originally from San Diego, CA."
-  },
-  {
-    "objectID": "projects.html#publications",
-    "href": "projects.html#publications",
-    "title": "Projects",
-    "section": "",
-    "text": "Epstein, R., Frye, E., Palmer, J., & Rajgarhia, A. (2025, May 1-4). Evaluating the Social Pressure Theory (SPT) of sexual orientation with data from a large non-English-speaking sample (manuscript).\nPaper to be presented at the 105th annual meeting of the Western Psychological Association, Las Vegas, NV.\n\n\n\nChance, B., Kerr, A., & Palmer, J. (2024). Taking the Next Step in Exploring the Literary Digest 1936 Poll. Journal of Statistics and Data Science Education, 32(4), 405–415. https://doi.org/10.1080/26939169.2024.2395505"
-  },
-  {
-    "objectID": "projects.html#client-projects",
-    "href": "projects.html#client-projects",
-    "title": "Projects",
-    "section": "",
-    "text": "Evaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.\n\n\n\nInvestigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.\n\n\n\nAnalyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.\n\n\n\nSpearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team. Under the guidance of Dr. Heather Smith and Cal Poly Student Affairs."
-  },
-  {
-    "objectID": "projects.html#presentations",
-    "href": "projects.html#presentations",
-    "title": "Projects",
-    "section": "Presentations",
-    "text": "Presentations\n\nTelecommunications Customer Churn Prediction and Retention Strategy Optimization | Class Poster Presentation (2026)\nAnalyzed customer account, billing, and service subscription records from a fictitious telecommunications company to identify which customer profiles were most strongly associated with churn and how retention resources could be allocated more strategically. Compared logistic regression and decision tree classifiers using cross-validation, with logistic regression demonstrating slightly superior predictive performance. Included all available customer service and billing variables to maximize predictive accuracy while preserving interpretability of customer risk profiles.\nUsed logistic regression coefficients to identify the strongest drivers of churn and customer retention. Customers were more likely to churn when they had higher total charges, month-to-month contracts, electronic check payments, and no tech support plan, while customers with longer tenure, bundled phone services, DSL internet, two-year contracts, and paper billing were more likely to remain with the company. Developed a churn-risk classification framework that identified customers who were simultaneously high-risk and high-value, allowing retention interventions to be prioritized based on expected financial benefit.\n\n\nDataFest 2026 | R Workshop (2026)\nPresented to prospective participants of the annual competition about R basics and presentation tips.\n\n\nUnited By Excellence | Introducing Sampling Methodology to High School Students (2024)\nInteractive presentation to high school students on the 1936 Literary Digest presidential poll: a classic example of flawed statistical sampling.\n\n\nElevating Impact through Data Visualization Workshop (2024)\nTaught local nonprofit organizations how to use data visualization to enhance their impact on the community."
-  },
-  {
-    "objectID": "projects.html#competitions",
-    "href": "projects.html#competitions",
-    "title": "Activities",
-    "section": "Competitions",
-    "text": "Competitions\n\nAmerican Statistical Association | DataFest at Cal Poly (2025)\nCompeted in a 48-hour data analysis marathon. Won Best Use of External Data.\n\n\nAssociation for Practical & Professional Ethics | Intercollegiate Ethics Bowl (2024)\nWon fifth place in the western region.\n\n\nAmerican Statistical Association | DataFest at Cal Poly (2024)\nCompeted in a 48-hour data analysis marathon. Won Best Visualization."
-  },
-  {
-    "objectID": "projects.html#legislation",
-    "href": "projects.html#legislation",
-    "title": "Projects",
-    "section": "Legislation",
-    "text": "Legislation\nThe Associated Students Inc. Board of Directors is the official voice of the student body. As an elected representative, I authored and passed the following legislation:\n\nResolution on Institutional Growth and “Learn By Doing” Ethos (Palmer & Ramage, 2026)\nResolution to Amend ASI Articles of Incorporation (Palmer, 2025)\nResolution Calling for Reform of the Course Evaluation Instrument and Processes (Reyes & Palmer, 2025)\nResolution to Reaffirm Shared Governance (Palmer & Finch, 2025)\nResolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Poly (Palmer & Prince, 2024)"
-  },
-  {
-    "objectID": "activities.html#competitions",
-    "href": "activities.html#competitions",
-    "title": "Activities",
-    "section": "",
-    "text": "American Statistical Association | DataFest at Cal Poly (2025) | 48-hour data analysis marathon (Winner).\nAssociation for Practical & Professional Ethics | Intercollegiate Ethics Bowl (2024).\nAmerican Statistical Association | DataFest at Cal Poly (2024) | 48-hour data analysis marathon (Winner)."
-  },
-  {
-    "objectID": "activities.html#committees",
-    "href": "activities.html#committees",
-    "title": "Activities",
-    "section": "Committees",
-    "text": "Committees\n\nASI Cal Maritime Integration Ad Hoc Committee (Chair) (2025-2026)\nAssociated Students Inc. Board of Directors (2023-2026)\nDistinguished Teaching Award Committee (2024-2026)\nSubstance Use and Misuse Advisory Committee (2024-2026)\nArtificial Intelligence Student Success Advisory Group (2025-2026)\nAcademic Senate: Student Perceptions of Teaching Effectiveness Ad Hoc Committee (2025-2026)\nInternal Review Committee (Chair) (2023-2025)\nCampus Administrative Policy Committee (2023-2025)\nStudent Health Services Advisory Committee of the California State University (2023-2025)\nBailey College of Science & Math Inclusion and Equity Committee (2024-2025)\nBailey College of Science & Math Inclusion and Equity Funding Review Committee (2024-2025)\nAcademic Senate (2024-2025)\nAcademic Senate Executive Committee (2024-2025)\nAd-Hoc Bylaw Review Committee (Chair) (2024)\nStudent Success Fee Allocation Committee (2023-2024)"
-  },
-  {
-    "objectID": "activities.html#awards",
-    "href": "activities.html#awards",
-    "title": "Activities",
+    "objectID": "profile.html#awards",
+    "href": "profile.html#awards",
+    "title": "Profile",
     "section": "Awards",
-    "text": "Awards\n\nMichael Koehn Scholarship - Finalist, Cal Poly University Housing (2026)\nBest use of External Data at ASA DataFest, Cal Poly (2025)\nKathy Storelli “Use Your Voice” Scholarship, ASI Student Government (2024)\nBest Visualization at ASA DataFest, Cal Poly (2024)\nJoyce Curry-Daly and James Daly Scholarship, Cal Poly Statistics Department (2023)\nOutstanding Character and Communication Scholarship, North County Education Fund (2022)\nEmployee of the Year, Food Service (2022)"
+    "text": "Awards\n\nChampion Award, ASI Board of Directors (2026).\nMichael Koehn Scholarship (Finalist), Cal Poly University Housing (2026).\nBest Use of External Data, ASA DataFest at Cal Poly (2025).\nKathy Storelli “Use Your Voice” Scholarship, ASI Student Government (2024).\nBest Visualization, ASA DataFest at Cal Poly (2024).\nJoyce Curry-Daly and James Daly Scholarship, Cal Poly Statistics Department (2023).\nOutstanding Character and Communication Scholarship, North County Education Fund (2022)."
   },
   {
-    "objectID": "publications_presentations.html",
-    "href": "publications_presentations.html",
-    "title": "Publications & Presentations",
+    "objectID": "profile.html#selected-coursework",
+    "href": "profile.html#selected-coursework",
+    "title": "Profile",
+    "section": "Selected Coursework",
+    "text": "Selected Coursework\n\n\nStatistics\nAdvanced Statistical Computing with R; Advanced Design and Analysis of Experiments; Graduate Consulting Practicum; Statistical Machine Learning with R; Generalized Linear Models; Multilevel and Mixed Modeling; Statistical Consulting; Generalized Linear Models; Applied Multivariate Statistics; Survival Analysis Methods; Survey Sampling & Methodology; Statistical Communication; Statistics Education.\n\n\nComputing & Data Science\nIntroduction to Data Science with Python; Statistical Computing with R; Statistical Computing with SAS; Introduction to Python; Data Structures.\n\n\nMathematical Foundations\nProbability Theory; Estimation and Sampling Theory; Mathematical Statistics; Calculus I-IV; Linear Algebra; Methods of Proof.\n\n\nEthics & Philosophy\nMeta Ethics; Science, Ethics, and Technology; Philosophy of Science."
+  },
+  {
+    "objectID": "profile.html#resume",
+    "href": "profile.html#resume",
+    "title": "Profile",
+    "section": "Resume",
+    "text": "Resume\nDownload Resume"
+  },
+  {
+    "objectID": "work/advocacy/resolutions.html",
+    "href": "work/advocacy/resolutions.html",
+    "title": "Student Advocacy at Cal Poly",
     "section": "",
-    "text": "Epstein, R., Frye, E., Palmer, J., & Rajgarhia, A. (2025, May 1-4). Evaluating the Social Pressure Theory (SPT) of sexual orientation with data from a large non-English-speaking sample (manuscript).\n\n\n\nChance, B., Kerr, A., & Palmer, J. (2024). Taking the Next Step in Exploring the Literary Digest 1936 Poll. Journal of Statistics and Data Science Education, 32(4), 405–415. https://doi.org/10.1080/26939169.2024.2395505"
+    "text": "A legislative portfolio of student advocacy work focused on shared governance, academic policy, institutional growth, and student representation.\n\nView ASI Resolutions"
   },
   {
-    "objectID": "publications_presentations.html#publications",
-    "href": "publications_presentations.html#publications",
-    "title": "Publications & Presentations",
+    "objectID": "work/advocacy/resolutions.html#student-advocacy-at-cal-poly",
+    "href": "work/advocacy/resolutions.html#student-advocacy-at-cal-poly",
+    "title": "Student Advocacy at Cal Poly",
     "section": "",
-    "text": "Epstein, R., Frye, E., Palmer, J., & Rajgarhia, A. (2025, May 1-4). Evaluating the Social Pressure Theory (SPT) of sexual orientation with data from a large non-English-speaking sample (manuscript).\n\n\n\nChance, B., Kerr, A., & Palmer, J. (2024). Taking the Next Step in Exploring the Literary Digest 1936 Poll. Journal of Statistics and Data Science Education, 32(4), 405–415. https://doi.org/10.1080/26939169.2024.2395505"
+    "text": "A legislative portfolio of student advocacy work focused on shared governance, academic policy, institutional growth, and student representation.\n\nView ASI Resolutions"
   },
   {
-    "objectID": "publications_presentations.html#presentations",
-    "href": "publications_presentations.html#presentations",
-    "title": "Publications & Presentations",
-    "section": "Presentations",
-    "text": "Presentations\n\nWestern Psychological Association Conference | Paper Presentation (2025)\nPaper to be presented at the 105th annual meeting of the WPA, Las Vegas, NV.\n\n\nUnited By Excellence | Introducing Sampling Methodology to High School Students (2024)\nInteractive presentation to high school students on the 1936 Literary Digest presidential poll: a classic example of flawed statistical sampling.\n\n\nElevating Impact through Data Visualization Workshop (2024)\nTaught local nonprofit organizations how to use data visualization to enhance their impact on the community. Under the guidance of Dr. Emily Robinson.\n\n\ne-COTS Conference | Poster Presentation (2024)\nPresented with Dr. Allison Theobold about our project studying group collaborations and social identity."
+    "objectID": "work/advocacy/resolutions.html#executive-summary",
+    "href": "work/advocacy/resolutions.html#executive-summary",
+    "title": "Student Advocacy at Cal Poly",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nAssociated Students, Inc. (ASI) is Cal Poly’s student-governed nonprofit auxiliary and the official voice of the student body. As an elected student representative on the ASI Board of Directors, I authored and co-authored legislation addressing institutional growth, shared governance, student representation, academic policy, and organizational structure.\nThis page summarizes selected resolutions I helped advance through ASI. Together, these items reflect my approach to advocacy: translating student concerns into formal policy language, building coalitions with student and institutional partners, and using governance processes to shape decisions that affect the student experience."
   },
   {
-    "objectID": "involvements.html",
-    "href": "involvements.html",
-    "title": "Involvements",
+    "objectID": "work/advocacy/resolutions.html#advocacy-highlights",
+    "href": "work/advocacy/resolutions.html#advocacy-highlights",
+    "title": "Student Advocacy at Cal Poly",
+    "section": "Advocacy Highlights",
+    "text": "Advocacy Highlights\n\nAuthored and co-authored formal student government legislation on academic policy, institutional decision-making, and governance reform.\nAdvanced student perspectives through resolutions directed toward university administrators, Academic Senate processes, and ASI corporate governance.\nUsed policy writing, stakeholder communication, and board process to turn student concerns into actionable recommendations."
+  },
+  {
+    "objectID": "work/advocacy/resolutions.html#selected-legislation",
+    "href": "work/advocacy/resolutions.html#selected-legislation",
+    "title": "Student Advocacy at Cal Poly",
+    "section": "Selected Legislation",
+    "text": "Selected Legislation\n\n\n\nYear\nResolution\nFocus\n\n\n\n\n2026\nResolution on Institutional Growth and “Learn By Doing” Ethos\nInstitutional growth, student experience, and preservation of Cal Poly’s educational mission\n\n\n2025\nResolution to Amend ASI Articles of Incorporation\nASI corporate governance and organizational alignment\n\n\n2025\nResolution Calling for Reform of the Course Evaluation Instrument and Processes\nAcademic feedback systems and student voice in teaching evaluation\n\n\n2025\nResolution to Reaffirm Shared Governance\nStudent participation in institutional decision-making\n\n\n2024\nResolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Policy\nAcademic policy, attendance flexibility, and student-centered governance"
+  },
+  {
+    "objectID": "work/advocacy/resolutions.html#methods-approach",
+    "href": "work/advocacy/resolutions.html#methods-approach",
+    "title": "Student Advocacy at Cal Poly",
+    "section": "Methods & Approach",
+    "text": "Methods & Approach\nMy legislative work began with identifying issues where student perspectives needed clearer representation in formal decision-making. From there, I worked with co-authors, student leaders, faculty, staff, and administrators to understand the relevant governance context, draft policy language, and build support before board consideration.\nThis work required balancing advocacy with institutional fluency. Strong resolutions needed to be principled enough to communicate student priorities, specific enough to guide action, and collaborative enough to move through shared governance structures productively."
+  },
+  {
+    "objectID": "work/advocacy/resolutions.html#deliverables",
+    "href": "work/advocacy/resolutions.html#deliverables",
+    "title": "Student Advocacy at Cal Poly",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nASI Resolution Archive\nA public archive of ASI Board of Directors resolutions, including legislation I authored and co-authored as an elected student representative.\nView Resolution Archive\n\n\nHighlighted Resolution: Shared Governance\nA resolution reaffirming the role of students in shared governance and institutional decision-making at Cal Poly.\nView Resolution\n\n\nHighlighted Resolution: Institutional Growth and “Learn By Doing” Ethos\nA resolution addressing institutional growth and the importance of preserving Cal Poly’s Learn By Doing educational mission as the university evolves.\nView Resolution"
+  },
+  {
+    "objectID": "work/advocacy/resolutions.html#skills",
+    "href": "work/advocacy/resolutions.html#skills",
+    "title": "Student Advocacy at Cal Poly",
+    "section": "Skills",
+    "text": "Skills\n\nPolicy Writing Student Advocacy Shared Governance Stakeholder Communication Legislative Strategy"
+  },
+  {
+    "objectID": "work/builds/dictatr-r-package.html",
+    "href": "work/builds/dictatr-r-package.html",
+    "title": "dictatR",
     "section": "",
-    "text": "Internal Review Committee (Co-Chair)\nPolicy & Procedure Subcommittee of the BCSM Inclusion and Equity Committee (Chair)\n\n\n\n\n\nAssociated Students Inc. Board of Directors (Voting Member)\nBailey College of Science & Math Inclusion and Equity Committee (Representative)\nBailey College of Science & Math Inclusion and Equity Funding Review Committee (Voting Member)\nCampus Administrative Policy Committee (Voting Member)\nDistinguished Teaching Award Committee (Voting Member)\nStudent Health Services Advisory Committee of the California State University (Voting Member)\nSubstance Use and Misuse Advisory Committee (Representative)\n\n\n\n\n\nAcademic Senate Executive Committee (Interim Representative)\nAd-Hoc Bylaw Review Committee (Chair)\nStudent Success Fee Allocation Committee (Voting Member)"
+    "text": "An R package for exploring, visualizing, and analyzing global democracy and dictatorship data.\n\nView Repository"
   },
   {
-    "objectID": "involvements.html#committees",
-    "href": "involvements.html#committees",
-    "title": "Involvements",
+    "objectID": "work/builds/dictatr-r-package.html#dictatr",
+    "href": "work/builds/dictatr-r-package.html#dictatr",
+    "title": "dictatR",
     "section": "",
-    "text": "Internal Review Committee (Co-Chair)\nPolicy & Procedure Subcommittee of the BCSM Inclusion and Equity Committee (Chair)\n\n\n\n\n\nAssociated Students Inc. Board of Directors (Voting Member)\nBailey College of Science & Math Inclusion and Equity Committee (Representative)\nBailey College of Science & Math Inclusion and Equity Funding Review Committee (Voting Member)\nCampus Administrative Policy Committee (Voting Member)\nDistinguished Teaching Award Committee (Voting Member)\nStudent Health Services Advisory Committee of the California State University (Voting Member)\nSubstance Use and Misuse Advisory Committee (Representative)\n\n\n\n\n\nAcademic Senate Executive Committee (Interim Representative)\nAd-Hoc Bylaw Review Committee (Chair)\nStudent Success Fee Allocation Committee (Voting Member)"
+    "text": "An R package for exploring, visualizing, and analyzing global democracy and dictatorship data.\n\nView Repository"
   },
   {
-    "objectID": "awards_competitions.html",
-    "href": "awards_competitions.html",
-    "title": "Awards & Competitions",
+    "objectID": "work/builds/dictatr-r-package.html#executive-summary",
+    "href": "work/builds/dictatr-r-package.html#executive-summary",
+    "title": "dictatR",
+    "section": "Executive Summary",
+    "text": "Executive Summary\ndictatR is an R package project designed to make global democracy and dictatorship data easier to explore, visualize, and analyze. The package provides tools for working with regime-type data in a more accessible workflow, helping users move from raw political data toward interpretable summaries and visualizations.\nThis project reflects my interest in building reusable tools that make statistical and data science workflows more efficient. Rather than creating a one-off analysis, dictatR packages common tasks into functions that can support future projects, teaching examples, and exploratory political data analysis."
+  },
+  {
+    "objectID": "work/builds/dictatr-r-package.html#project-highlights",
+    "href": "work/builds/dictatr-r-package.html#project-highlights",
+    "title": "dictatR",
+    "section": "Project Highlights",
+    "text": "Project Highlights\n\nDeveloped an R package structure for working with global democracy and dictatorship data.\nCreated tools to support exploratory analysis, visualization, and interpretation of regime-type patterns.\nPracticed package-oriented development, documentation, and reusable workflow design in R."
+  },
+  {
+    "objectID": "work/builds/dictatr-r-package.html#methods-approach",
+    "href": "work/builds/dictatr-r-package.html#methods-approach",
+    "title": "dictatR",
+    "section": "Methods & Approach",
+    "text": "Methods & Approach\nThe project was built as an R package, which required organizing code into reusable functions, documenting expected inputs and outputs, and designing tools that can be applied across multiple analyses. The package focuses on making political regime data easier to manipulate and visualize, particularly for users interested in comparing democratic and non-democratic patterns across countries.\nThe broader goal was to move beyond a single analysis script and toward a more general toolkit. This made the project a useful exercise in software design, reproducible research, and statistical programming for social science data."
+  },
+  {
+    "objectID": "work/builds/dictatr-r-package.html#deliverables",
+    "href": "work/builds/dictatr-r-package.html#deliverables",
+    "title": "dictatR",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nGitHub Repository\nAn R package project containing tools for exploring, visualizing, and analyzing global democracy and dictatorship data.\nView Repository"
+  },
+  {
+    "objectID": "work/builds/dictatr-r-package.html#skills",
+    "href": "work/builds/dictatr-r-package.html#skills",
+    "title": "dictatR",
+    "section": "Skills",
+    "text": "Skills\n\nR Package Development Statistical Programming Data Visualization Political Data Analysis"
+  },
+  {
+    "objectID": "work/consulting/statistical-consulting-impact-evaluation.html",
+    "href": "work/consulting/statistical-consulting-impact-evaluation.html",
+    "title": "Statistical Consulting",
     "section": "",
-    "text": "For outstanding service to Cal Poly student government as the Chair of Internal Review, Chair of Bylaw Review, and member of the Board of Directors. Inaugural recipient.\n\n\n\nAwarded by panel of faculty and industry judges.\n\n\n\nAwarded by the Statistics department review committee.\n\n\n\nAwarded by the North County Education Fund."
+    "text": "Applied consulting projects where I helped research teams clarify questions, evaluate evidence, and communicate findings.\n\nView Sample Cover Memo"
   },
   {
-    "objectID": "awards_competitions.html#awards",
-    "href": "awards_competitions.html#awards",
-    "title": "Awards & Competitions",
+    "objectID": "work/consulting/statistical-consulting-impact-evaluation.html#consulting-portfolio",
+    "href": "work/consulting/statistical-consulting-impact-evaluation.html#consulting-portfolio",
+    "title": "Statistical Consulting",
     "section": "",
-    "text": "For outstanding service to Cal Poly student government as the Chair of Internal Review, Chair of Bylaw Review, and member of the Board of Directors. Inaugural recipient.\n\n\n\nAwarded by panel of faculty and industry judges.\n\n\n\nAwarded by the Statistics department review committee.\n\n\n\nAwarded by the North County Education Fund."
+    "text": "Applied consulting projects where I helped research teams clarify questions, evaluate evidence, and communicate findings.\n\nView Sample Cover Memo"
   },
   {
-    "objectID": "awards_competitions.html#competitions",
-    "href": "awards_competitions.html#competitions",
-    "title": "Awards & Competitions",
-    "section": "Competitions",
-    "text": "Competitions\n\nAmerican Statistical Association | DataFest at Cal Poly (2025)\nCompeting in a 48-hour data analysis marathon this spring.\n\n\nAssociation for Practical & Professional Ethics | Intercollegiate Ethics Bowl (2024)\nAchieved fifth place in the western region.\n\n\nAmerican Statistical Association | DataFest at Cal Poly (2024)\nCompeted in a 48-hour data analysis marathon. Won Best Visualization."
+    "objectID": "work/consulting/statistical-consulting-impact-evaluation.html#executive-summary",
+    "href": "work/consulting/statistical-consulting-impact-evaluation.html#executive-summary",
+    "title": "Statistical Consulting",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nThis page summarizes a collection of statistical consulting projects across environmental science, health research, human factors, sustainability literacy, and student experience. Because many engagements involved confidential client data or unpublished student research, I have grouped them into a single overview rather than presenting each project as a standalone case study.\nAcross these projects, my role has been to help teams move from broad research questions to clear analytic strategies. That work often includes refining study goals, identifying appropriate statistical methods, conducting analysis, explaining tradeoffs, and translating results into language that decision-makers and domain experts can use."
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "work/consulting/statistical-consulting-impact-evaluation.html#consulting-highlights",
+    "href": "work/consulting/statistical-consulting-impact-evaluation.html#consulting-highlights",
+    "title": "Statistical Consulting",
+    "section": "Consulting Highlights",
+    "text": "Consulting Highlights\n\nSupported applied research teams across environmental, biological, health, engineering, and other disciplines.\nHelped translate complex substantive questions into statistical models, study designs, and interpretable findings.\nCommunicated results through written reports, cover memos, presentations, and client-ready recommendations."
+  },
+  {
+    "objectID": "work/consulting/statistical-consulting-impact-evaluation.html#selected-engagements",
+    "href": "work/consulting/statistical-consulting-impact-evaluation.html#selected-engagements",
+    "title": "Statistical Consulting",
+    "section": "Selected Engagements",
+    "text": "Selected Engagements\n\n\n\n\n\n\n\n\n\nYear\nProject\nContext\nMethods\n\n\n\n\n2026\nSoil organic carbon relationships in vineyard soils\nEvaluated whether relationships between soil organic carbon, mineral-associated organic carbon, and particulate organic carbon aligned with carbon saturation theory.\nLinear, logarithmic, and exponential pattern assessment\n\n\n2026\nMicrohabitat conditions and lizard physiology\nAssessed how environmental conditions differed across microhabitats and campus locations using repeated observations.\nMixed-effects modeling, repeated-measures analysis\n\n\n2026\nBiofilm formation and bacterial cell density\nEvaluated organism, surface material, and time effects on bacterial concentration and biofilm formation.\nMixed-effects modeling, repeated-measures analysis, pairwise comparisons\n\n\n2026\nSoil health and regenerative land management\nCompared soil health indicators and land management practices against viticulturist-perceived outcomes.\nMultiple correspondence analysis, ordinal regression, logistic regression\n\n\n2025\nErgonomics task performance\nEvaluated how hand dominance, wrist direction, and distraction affected time to unscrew a bolt in a confined mechanical task.\nANOVA, power analysis, blocked experimental design\n\n\n2025\nPostpartum technology use and maternal health\nInvestigated associations between mothers’ technology use, parenting stress, and depression during the early postpartum period.\nMultiple logistic regression, simple linear regression\n\n\n2025\nStudent sustainability literacy\nStudied sustainability knowledge, attitudes, and behaviors across colleges and geographic regions.\nMultivariate multiple linear regression, spatial data analysis\n\n\n2024\nStudent employment experience\nLed survey and analysis work to understand student employment experiences and inform program design.\nProbability sampling, CAPI administration, project management"
+  },
+  {
+    "objectID": "work/consulting/statistical-consulting-impact-evaluation.html#methods-approach",
+    "href": "work/consulting/statistical-consulting-impact-evaluation.html#methods-approach",
+    "title": "Statistical Consulting",
+    "section": "Methods & Approach",
+    "text": "Methods & Approach\nMy consulting approach emphasizes problem definition before model selection. I work with collaborators to clarify the research question, understand the structure and limitations of the data, choose methods that match the design, and communicate results in a way that supports practical interpretation.\nThese projects required a mix of statistical modeling, study design, survey administration, data cleaning, assumption checking, and technical communication. Just as importantly, they required learning each client’s domain quickly enough to make statistical recommendations that were both methodologically sound and contextually useful."
+  },
+  {
+    "objectID": "work/consulting/statistical-consulting-impact-evaluation.html#deliverables",
+    "href": "work/consulting/statistical-consulting-impact-evaluation.html#deliverables",
+    "title": "Statistical Consulting",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nSample Cover Memo\nA full work sample is available upon request.\nView Sample"
+  },
+  {
+    "objectID": "work/consulting/statistical-consulting-impact-evaluation.html#skills",
+    "href": "work/consulting/statistical-consulting-impact-evaluation.html#skills",
+    "title": "Statistical Consulting",
+    "section": "Skills",
+    "text": "Skills\n\nStatistical Consulting Applied Modeling Technical Communication"
+  },
+  {
+    "objectID": "work/posters/green-roofs-environmental-performance.html",
+    "href": "work/posters/green-roofs-environmental-performance.html",
+    "title": "Green Roofs and Environmental Performance",
     "section": "",
-    "text": "Chance, B., Kerr, A., & Palmer, J. (2024). Taking the Next Step in Exploring the Literary Digest 1936 Poll. Journal of Statistics and Data Science Education, 32(4), 405–415. https://doi.org/10.1080/26939169.2024.2395505\n\n\n\nEpstein, R., Newland, A., Palmer, J., Rajgarhia, A., & Wang, N. (submitted for publication). Testing a quantitative social pressure theory of sexual orientation with data obtained from 310,144 participants in 92 countries completing surveys in their native languages. (Preprint posted on SSRN, September 24, 2025, https://ssrn.com/abstract=5526418)\n\n\n\nAbrash, I., Canner, J., Geam, E., Kan, N., Kuebitz, C., Lopez, E., Palmer, J., Pfeiffer, I., Theobold, A., Woodard, V. (International Conference on Teaching Statistics Proceedings). Status, Equity, and Collaboration: A Pilot Study of Complex Instruction-Informed Pair Programing."
+    "text": "Poster project using regression models to quantify the cooling effects of green roofs and inform urban sustainability planning.\n\nView Poster"
   },
   {
-    "objectID": "research.html#publications",
-    "href": "research.html#publications",
-    "title": "Research",
+    "objectID": "work/posters/green-roofs-environmental-performance.html#green-roofs-and-environmental-performance",
+    "href": "work/posters/green-roofs-environmental-performance.html#green-roofs-and-environmental-performance",
+    "title": "Green Roofs and Environmental Performance",
     "section": "",
-    "text": "Chance, B., Kerr, A., & Palmer, J. (2024). Taking the Next Step in Exploring the Literary Digest 1936 Poll. Journal of Statistics and Data Science Education, 32(4), 405–415. https://doi.org/10.1080/26939169.2024.2395505\n\n\n\nEpstein, R., Newland, A., Palmer, J., Rajgarhia, A., & Wang, N. (submitted for publication). Testing a quantitative social pressure theory of sexual orientation with data obtained from 310,144 participants in 92 countries completing surveys in their native languages. (Preprint posted on SSRN, September 24, 2025, https://ssrn.com/abstract=5526418)\n\n\n\nAbrash, I., Canner, J., Geam, E., Kan, N., Kuebitz, C., Lopez, E., Palmer, J., Pfeiffer, I., Theobold, A., Woodard, V. (International Conference on Teaching Statistics Proceedings). Status, Equity, and Collaboration: A Pilot Study of Complex Instruction-Informed Pair Programing."
+    "text": "Poster project using regression models to quantify the cooling effects of green roofs and inform urban sustainability planning.\n\nView Poster"
   },
   {
-    "objectID": "research.html#conferences",
-    "href": "research.html#conferences",
-    "title": "Research",
-    "section": "Conferences",
-    "text": "Conferences\n\nWestern Psychological Association | Paper Presentation (2025)\nPresented at the 105th annual meeting of the WPA, Las Vegas, NV.\n\n\ne-Conference on Teaching Statistics | Poster Presentation (2024)\nPresented on the relationship between group work and social identity in mathematics and statistics classrooms."
+    "objectID": "work/posters/green-roofs-environmental-performance.html#executive-summary",
+    "href": "work/posters/green-roofs-environmental-performance.html#executive-summary",
+    "title": "Green Roofs and Environmental Performance",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nThis project investigated whether green roofs can reduce building-level heat exposure and improve environmental performance in urban settings. Using temperature and building data, I modeled the relationship between roof type and thermal outcomes to evaluate whether green roof infrastructure was associated with measurable cooling benefits.\nThe project connects applied statistical modeling with a practical sustainability question: how cities can use design interventions to reduce heat, improve climate resilience, and support more evidence-based urban planning decisions."
   },
   {
-    "objectID": "research.html#works-in-progress",
-    "href": "research.html#works-in-progress",
-    "title": "Research",
-    "section": "Works In Progress",
-    "text": "Works In Progress\n\nSocial Pressure Theory (2025)\nEpstein, R., Frye, E., Palmer, J., & Rajgarhia, A. (2025, May 1-4). Evaluating the Social Pressure Theory (SPT) of sexual orientation with data from a large non-English-speaking sample. (Manuscript).\n\n\nEquitable Collaborations (2025)\nNSF-funded research on pair-programming experiences in data science classrooms."
+    "objectID": "work/posters/green-roofs-environmental-performance.html#project-highlights",
+    "href": "work/posters/green-roofs-environmental-performance.html#project-highlights",
+    "title": "Green Roofs and Environmental Performance",
+    "section": "Project Highlights",
+    "text": "Project Highlights\n\nUsed regression modeling to estimate the relationship between green roof infrastructure and building temperature outcomes.\nTranslated an environmental performance question into a statistical analysis suitable for a research poster format.\nCommunicated technical results visually for an audience interested in sustainability, climate adaptation, and applied data analysis."
   },
   {
-    "objectID": "research.html#in-progress",
-    "href": "research.html#in-progress",
-    "title": "Research",
-    "section": "In Progress",
-    "text": "In Progress\nPalmer, J., Smith, H., Vance, E. Designed For Impact: The Statistical Collaborator’s Workflow. Learn more about the project here."
+    "objectID": "work/posters/green-roofs-environmental-performance.html#methods-approach",
+    "href": "work/posters/green-roofs-environmental-performance.html#methods-approach",
+    "title": "Green Roofs and Environmental Performance",
+    "section": "Methods & Approach",
+    "text": "Methods & Approach\nThe analysis focused on comparing temperature outcomes across buildings with different roofing characteristics. I used regression-based methods to evaluate whether green roofs were associated with lower temperatures while accounting for other relevant building or environmental factors.\nThe poster emphasized both statistical interpretation and applied relevance, presenting model results in a way that connected environmental data to broader questions about urban heat mitigation and sustainable infrastructure."
   },
   {
-    "objectID": "index.html#service",
-    "href": "index.html#service",
-    "title": "Jett Palmer",
-    "section": "🎗️ | Service",
-    "text": "🎗️ | Service\nFounded two 501(c)(3) nonprofit organizations both with human wellness missions.\nAppointed to over fifteen advisory committees and governing bodies at Cal Poly.\nElected to the Board of Directors of Associated Students, Inc. (2023 - 2026) and appointed to facilitate an eight-figure merger."
+    "objectID": "work/posters/green-roofs-environmental-performance.html#deliverables",
+    "href": "work/posters/green-roofs-environmental-performance.html#deliverables",
+    "title": "Green Roofs and Environmental Performance",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nResearch Poster\nA poster presentation summarizing the research question, modeling approach, key findings, and sustainability implications of the green roofs analysis.\nView Poster"
   },
   {
-    "objectID": "index.html#research",
-    "href": "index.html#research",
-    "title": "Jett Palmer",
-    "section": "🔎 | Research",
-    "text": "🔎 | Research\nSubmitted data science pedagogy and behavioral research to the 2026 International Conference on Teaching Statistics with a proceedings paper under review (Theobold, Palmer, et al., 2025).\nPresented human behavioral research for the Western Psychological Association (2025) with publication under review (Epstein, Newland, Palmer, et al., 2025).\nPublished statistics pedagogy and sampling research in the Journal of Statistics and Data Science Education (Chance, Kerr, & Palmer, 2024)."
+    "objectID": "work/posters/green-roofs-environmental-performance.html#skills",
+    "href": "work/posters/green-roofs-environmental-performance.html#skills",
+    "title": "Green Roofs and Environmental Performance",
+    "section": "Skills",
+    "text": "Skills\n\nRegression Environmental Data Analysis Research Communication Data Visualization"
   },
   {
-    "objectID": "index.html#servicee",
-    "href": "index.html#servicee",
-    "title": "Jett Palmer",
-    "section": "🎗️ | Servicee",
-    "text": "🎗️ | Servicee\nI have helped found two 501(c)(3) nonprofit organizations and been appointed to over fifteen committees and governing bodies at Cal Poly. I am actively serving my third year as a member of the ASI Board of Directors and chairing an ad hoc committee responsible for facilitating a $20 million dollar merger."
-  },
-  {
-    "objectID": "research.html#under-review",
-    "href": "research.html#under-review",
-    "title": "Research",
-    "section": "Under Review",
-    "text": "Under Review\n\nSocial Pressure Theory (2025)\nEpstein, R., Newland, A., Palmer, J., Rajgarhia, A., & Wang, N. (submitted for publication). Testing a quantitative social pressure theory of sexual orientation with data obtained from 310,144 participants in 92 countries completing surveys in their native languages. (Preprint posted on SSRN, September 24, 2025, https://ssrn.com/abstract=5526418)\n\n\nAuthority in Data Science (2025)\nAbrash, I., Canner, J., Geam, E., Kan, N., Kuebitz, C., Lopez, E., Palmer, J., Pfeiffer, I., Theobold, A., Woodard, V. (International Conference on Teaching Statistics). Status, Equity, and Collaboration: A Pilot Study of Complex Instruction-Informed Pair Programing."
-  },
-  {
-    "objectID": "research.html#conference-presentations",
-    "href": "research.html#conference-presentations",
-    "title": "Research",
-    "section": "Conference Presentations",
-    "text": "Conference Presentations\n\nJoint Statistical Meetings | Contributed Paper Presentation (2026)\ne-Conference on Teaching Statistics | Poster Presentation (2026)\nBailey College of Science & Mathematics Research Conference | Research Talk (2026)\nWestern Psychological Association | Paper Presentation (2025)\ne-Conference on Teaching Statistics | Poster Presentation (2024)"
-  },
-  {
-    "objectID": "research.html#consulting",
-    "href": "research.html#consulting",
-    "title": "Research",
-    "section": "Consulting",
-    "text": "Consulting\n\nAnalyzing the Effect of Hand Dominance, Wrist Direction, and Distraction on Ergonomics Task (2025)\nEvaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.\n\n\nAssociations Between Mothers’ Technology Use, Parenting Stress, and Depression During the Early Postpartum Period (2025)\nInvestigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.\n\n\nInvestigating Cal Poly Student Sustainability Literacy Using Spatial Data (2025)\nAnalyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.\n\n\nDesigning the Premier Student Employment Experience at Cal Poly (2024)\nSpearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team. Under the guidance of Dr. Heather Smith and Cal Poly Student Affairs."
-  },
-  {
-    "objectID": "projects.html#awards",
-    "href": "projects.html#awards",
-    "title": "Activities",
-    "section": "Awards",
-    "text": "Awards\n\nBest Use of External Data at ASA DataFest, Cal Poly (2025)\nAwarded by panel of faculty and industry judges.\n\n\nKathy Storelli “Use Your Voice” Scholarship (2024)\nFor outstanding service to Cal Poly student government as the Chair of Internal Review, Chair of Bylaw Review, and member of the Board of Directors. Inaugural recipient.\n\n\nBest Visualization at ASA DataFest, Cal Poly (2024)\nAwarded by panel of faculty and industry judges.\n\n\nJoyce Curry-Daly and James Daly Scholarship (2023)\nAwarded by the Statistics department review committee.\n\n\nOutstanding Character and Communication Scholarship (2022)\nAwarded by the North County Education Fund selection committee."
-  },
-  {
-    "objectID": "projects.html#advocacy",
-    "href": "projects.html#advocacy",
-    "title": "Activities",
-    "section": "Advocacy",
-    "text": "Advocacy\nThe Associated Students Inc. Board of Directors is the official voice of the student body. As an elected representative, I authored and passed the following legislation:\n\nResolution to Amend ASI Articles of Incorporation (Palmer, 2025)\nResolution Calling for Reform of the Course Evaluation Instrument and Processes (Reyes & Palmer, 2025)\nResolution to Reaffirm Shared Governance (Palmer & Finch, 2025)\nResolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Poly (Palmer & Prince, 2024)."
-  },
-  {
-    "objectID": "projects.html#committees",
-    "href": "projects.html#committees",
-    "title": "Activities",
-    "section": "Committees",
-    "text": "Committees\n\nPresiding:\n\nASI Cal Maritime Integration Ad Hoc Committee (Chair)\n\n\n\nCurrent Appointments:\n\nAssociated Students Inc. Board of Directors\nDistinguished Teaching Award Committee\nSubstance Use and Misuse Advisory Committee\nArtificial Intelligence Student Success Advisory Group\nAcademic Senate: Student Perceptions of Teaching Effectiveness Ad Hoc Committee\n\n\n\nPrevious Appointments:\n\nInternal Review Committee (Chair) (2023-2025)\nCampus Administrative Policy Committee (2023-2025)\nStudent Health Services Advisory Committee of the California State University (2023-2025)\nBailey College of Science & Math Inclusion and Equity Committee (2024-2025)\nBailey College of Science & Math Inclusion and Equity Funding Review Committee (2024-2025)\nAcademic Senate (2024-2025)\nAcademic Senate Executive Committee (2024-2025)\nAd-Hoc Bylaw Review Committee (Chair) (2024)\nStudent Success Fee Allocation Committee (2023-2024)"
-  },
-  {
-    "objectID": "activities.html#presentations",
-    "href": "activities.html#presentations",
-    "title": "Activities",
-    "section": "Presentations",
-    "text": "Presentations\n\nUnited By Excellence | Introducing Sampling Methodology to High School Students (2024)\nInteractive presentation to high school students on the 1936 Literary Digest presidential poll: a classic example of flawed statistical sampling.\n\n\nElevating Impact through Data Visualization Workshop (2024)\nTaught local nonprofit organizations how to use data visualization to enhance their impact on the community."
-  },
-  {
-    "objectID": "activities.html#advocacy",
-    "href": "activities.html#advocacy",
-    "title": "Activities",
-    "section": "Advocacy",
-    "text": "Advocacy\nThe Associated Students Inc. Board of Directors is the official voice of the student body. As an elected representative, I authored and passed the following legislation:\n\nResolution to Amend ASI Articles of Incorporation (Palmer, 2025)\nResolution Calling for Reform of the Course Evaluation Instrument and Processes (Reyes & Palmer, 2025)\nResolution to Reaffirm Shared Governance (Palmer & Finch, 2025)\nResolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Poly (Palmer & Prince, 2024)."
-  },
-  {
-    "objectID": "coursework.html",
-    "href": "coursework.html",
-    "title": "Coursework",
+    "objectID": "work/repositories/advanced-r-computing.html",
+    "href": "work/repositories/advanced-r-computing.html",
+    "title": "Advanced R Computing Repository",
     "section": "",
-    "text": "Technical and otherwise relevant coursework. Work samples available upon request (**)."
+    "text": "Course archive demonstrating advanced R programming, reproducible workflows, dashboard development, and package-oriented project structure.\n\nRequest Materials"
   },
   {
-    "objectID": "coursework.html#statistics",
-    "href": "coursework.html#statistics",
-    "title": "Coursework",
-    "section": "Statistics",
-    "text": "Statistics\n\nAdvanced Statistical Computing with R **\nAdvanced Design and Analysis of Experiments **\nGraduate Consulting Practicum **\nStatistical Machine Learning with R **\nMultilevel and Mixed Modeling **\nStatistical Consulting **\nGeneralized Linear Models **\nIntroduction to Data Science with Python **\nApplied Multivariate Statistics\nSurvival Analysis Methods\nProbability Theory\nEstimation and Sampling Theory\nMathematical Statistics\nApplied Linear Models\nSurvey Sampling & Methodology\nDesign & Analysis of Experiments\nStatistical Computing with R\nStatistical Computing with SAS\nStatistical Communication\nStatistics Education"
-  },
-  {
-    "objectID": "coursework.html#mathematics",
-    "href": "coursework.html#mathematics",
-    "title": "Coursework",
-    "section": "Mathematics",
-    "text": "Mathematics\n\nCalculus (I-IV)\nLinear Algebra\nMethods of Proof"
-  },
-  {
-    "objectID": "coursework.html#computer-science",
-    "href": "coursework.html#computer-science",
-    "title": "Coursework",
-    "section": "Computer Science",
-    "text": "Computer Science\n\nIntroduction to Python\nData Structures **"
-  },
-  {
-    "objectID": "coursework.html#misc",
-    "href": "coursework.html#misc",
-    "title": "Coursework",
-    "section": "Misc",
-    "text": "Misc\n\nEthics\nScience, Ethics, and Technology\nPhilosophy of Science\n\n** Work sample available upon request"
-  },
-  {
-    "objectID": "activities.html#consulting",
-    "href": "activities.html#consulting",
-    "title": "Activities",
+    "objectID": "work/repositories/advanced-r-computing.html#advanced-r-computing-repository",
+    "href": "work/repositories/advanced-r-computing.html#advanced-r-computing-repository",
+    "title": "Advanced R Computing Repository",
     "section": "",
-    "text": "Evaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.\n\n\n\nInvestigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.\n\n\n\nAnalyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.\n\n\n\nSpearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team."
+    "text": "Course archive demonstrating advanced R programming, reproducible workflows, dashboard development, and package-oriented project structure.\n\nRequest Materials"
   },
   {
-    "objectID": "activities.html#legislation",
-    "href": "activities.html#legislation",
-    "title": "Activities",
-    "section": "Legislation",
-    "text": "Legislation\nThe Associated Students Inc. Board of Directors is the official voice of the student body. As an elected representative, I authored and passed the following legislation:\n\nResolution to Amend ASI Articles of Incorporation (Palmer, 2025)\nResolution Calling for Reform of the Course Evaluation Instrument and Processes (Reyes & Palmer, 2025)\nResolution to Reaffirm Shared Governance (Palmer & Finch, 2025)\nResolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Poly (Palmer & Prince, 2024)."
+    "objectID": "work/repositories/advanced-r-computing.html#executive-summary",
+    "href": "work/repositories/advanced-r-computing.html#executive-summary",
+    "title": "Advanced R Computing Repository",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nThis course archive reflects graduate-level work in advanced R computing, with emphasis on building reproducible analyses, managing larger R projects, and developing more efficient programming workflows.\nBecause the repository contains course materials that may not be appropriate to post publicly, the full archive is available upon request. This page summarizes the main competencies covered rather than presenting the materials directly."
   },
   {
-    "objectID": "coursework.html#philosophy",
-    "href": "coursework.html#philosophy",
-    "title": "Coursework",
-    "section": "Philosophy",
-    "text": "Philosophy\n\nEthics\nScience, Ethics, and Technology\nPhilosophy of Science"
+    "objectID": "work/repositories/advanced-r-computing.html#project-highlights",
+    "href": "work/repositories/advanced-r-computing.html#project-highlights",
+    "title": "Advanced R Computing Repository",
+    "section": "Project Highlights",
+    "text": "Project Highlights\n\nBuilt reproducible analysis workflows using Quarto, version control, and organized R project structures.\nPracticed functional programming, iteration, JSON data handling, and automation with tools from the R ecosystem.\nDeveloped experience with Quarto dashboards, WebR, function design, package development, testing, debugging, and performance improvement."
   },
   {
-    "objectID": "projects.html#consulting",
-    "href": "projects.html#consulting",
-    "title": "Projects",
+    "objectID": "work/repositories/advanced-r-computing.html#methods-approach",
+    "href": "work/repositories/advanced-r-computing.html#methods-approach",
+    "title": "Advanced R Computing Repository",
+    "section": "Methods & Approach",
+    "text": "Methods & Approach\nThe coursework focused on moving beyond script-based analysis toward more structured, reusable, and maintainable R workflows. Topics included Quarto documents and dashboards, Git-based version control, functional programming with purrr, JSON data, WebR integration, function writing, R package development, code testing, debugging, and speed optimization.\nAcross assignments and examples, the emphasis was on building complete end-to-end analyses that are reproducible, well-organized, and easier to extend."
+  },
+  {
+    "objectID": "work/repositories/advanced-r-computing.html#deliverables",
+    "href": "work/repositories/advanced-r-computing.html#deliverables",
+    "title": "Advanced R Computing Repository",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nCourse Archive\nA private archive of advanced R computing coursework, including reproducible analyses, dashboard work, function-writing exercises, and package-oriented programming materials. Materials are available upon request.\nRequest Materials"
+  },
+  {
+    "objectID": "work/repositories/advanced-r-computing.html#skills",
+    "href": "work/repositories/advanced-r-computing.html#skills",
+    "title": "Advanced R Computing Repository",
+    "section": "Skills",
+    "text": "Skills\n\nAdvanced R Quarto Functional Programming Package Development Reproducible Workflows"
+  },
+  {
+    "objectID": "work/repositories/intro-data-science.html",
+    "href": "work/repositories/intro-data-science.html",
+    "title": "Intro to Data Science Repository",
     "section": "",
-    "text": "Investigated whether relationships between soil organic carbon (SOC) and carbon pools exhibited linear, logarithmic, or exponential patterns consistent with theories of carbon saturation in soils.\n\n\n\nAssessed how environmental conditions differed across microhabitats. Conducted mixed-effects modeling with environmental predictors, repeated measurements over time, and random effects for campus location to account for clustered sampling structure.\n\n\n\nEvaluated how organism type, surface material, and time influenced bacterial cell concentration and biofilm formation. Conducted mixed-effects modeling, repeated-measures analysis, and pairwise comparisons to assess temporal patterns and organism-specific differences in biofilm development.\n\n\n\nAssessed whether soil health indicators or the use of regenerative land management practices were more strongly associated with viticulturist-perceived outcomes. Carried out multiple correspondence analysis (MCA) and ordinal, logistic regression.\n\n\n\nEvaluated how hand dominance, wrist direction, and distraction affect the time to unscrew a bolt – a task relevant to wrist ergonomics in confined mechanical environments. Carried out an analysis of variance (ANOVA) and power analysis of the blocked, experimental design.\n\n\n\nInvestigated whether high maternal technology use during infant feeding and care, along with high levels of parenting stress, predict maternal depression at one month postpartum. Implemented multiple logistic and simple linear regression models.\n\n\n\nAnalyzed a survey of sustainability literacy among 876 Cal Poly students, representing all six academic colleges. Assessed how students’ sustainability knowledge, attitudes, and behaviors relate to both geographic characteristics of their home regions and individual demographic factors using two multivariate multiple linear regression models.\n\n\n\nSpearheaded a ten-week survey and analysis that utilized probability sampling and computer-aided personal interviewing (CAPI). Led an 11-person project management team."
+    "text": "Course archive demonstrating data acquisition, visualization, machine learning, and ethical data analysis workflows.\n\nRequest Materials"
   },
   {
-    "objectID": "index.html#recent-experience",
-    "href": "index.html#recent-experience",
-    "title": "Jett Palmer",
-    "section": "📊 | Recent Experience",
-    "text": "📊 | Recent Experience\nPrincipal Investigator | Designed For Impact: The Statistical Collaborator’s Workflow | 2025 - present\nResearch Assistant | Authority Constructs in Data Science | 2023 - 2025"
+    "objectID": "work/repositories/intro-data-science.html#intro-to-data-science-repository",
+    "href": "work/repositories/intro-data-science.html#intro-to-data-science-repository",
+    "title": "Intro to Data Science Repository",
+    "section": "",
+    "text": "Course archive demonstrating data acquisition, visualization, machine learning, and ethical data analysis workflows.\n\nRequest Materials"
   },
   {
-    "objectID": "coursework.html#ethics",
-    "href": "coursework.html#ethics",
-    "title": "Coursework",
-    "section": "Ethics",
-    "text": "Ethics\n\nMeta Ethics **\nScience, Ethics, and Technology **\nPhilosophy of Science"
+    "objectID": "work/repositories/intro-data-science.html#executive-summary",
+    "href": "work/repositories/intro-data-science.html#executive-summary",
+    "title": "Intro to Data Science Repository",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nThis course archive reflects foundational work in data science, with emphasis on acquiring, processing, visualizing, and modeling different types of data. The course introduced a full applied data science workflow, moving from exploratory summaries and visualization to machine learning, model evaluation, and ethical considerations.\nBecause the repository contains course materials that may not be appropriate to post publicly, the full archive is available upon request. This page summarizes the main competencies covered rather than presenting the materials directly."
+  },
+  {
+    "objectID": "work/repositories/intro-data-science.html#project-highlights",
+    "href": "work/repositories/intro-data-science.html#project-highlights",
+    "title": "Intro to Data Science Repository",
+    "section": "Project Highlights",
+    "text": "Project Highlights\n\nWorked with tabular, textual, hierarchical, and geospatial data across applied data science exercises.\nBuilt visualizations and summaries to uncover patterns, compare observations, and communicate findings.\nApplied machine learning methods to real-world prediction problems, including classification, KNN, model tuning, and model evaluation."
+  },
+  {
+    "objectID": "work/repositories/intro-data-science.html#methods-approach",
+    "href": "work/repositories/intro-data-science.html#methods-approach",
+    "title": "Intro to Data Science Repository",
+    "section": "Methods & Approach",
+    "text": "Methods & Approach\nThe coursework emphasized the full data science pipeline: acquiring and combining data, processing different data structures, exploring relationships through visualization, and applying predictive modeling methods. Topics included tabular summaries, multivariable visualization, distance-based methods, text analysis with TF-IDF, classification, unsupervised learning, hierarchical data, and data ethics.\nThe course culminated in a project proposal and poster presentation, connecting technical methods to a complete data science communication workflow."
+  },
+  {
+    "objectID": "work/repositories/intro-data-science.html#deliverables",
+    "href": "work/repositories/intro-data-science.html#deliverables",
+    "title": "Intro to Data Science Repository",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nCourse Archive\nA private archive of introductory data science coursework, including data processing exercises, visualization work, machine learning assignments, and project materials. Materials are available upon request.\nRequest Materials"
+  },
+  {
+    "objectID": "work/repositories/intro-data-science.html#skills",
+    "href": "work/repositories/intro-data-science.html#skills",
+    "title": "Intro to Data Science Repository",
+    "section": "Skills",
+    "text": "Skills\n\nData Science Data Visualization Machine Learning Text Analysis Data Ethics"
+  },
+  {
+    "objectID": "work/research/chance-literary-digest-poll.html",
+    "href": "work/research/chance-literary-digest-poll.html",
+    "title": "Political Polling Teaching Article",
+    "section": "",
+    "text": "Peer-reviewed teaching article using the 1936 Literary Digest poll to help students explore data cleaning, sampling bias, and polling adjustment.\n\nView Article"
+  },
+  {
+    "objectID": "work/research/chance-literary-digest-poll.html#political-polling-teaching-article",
+    "href": "work/research/chance-literary-digest-poll.html#political-polling-teaching-article",
+    "title": "Political Polling Teaching Article",
+    "section": "",
+    "text": "Peer-reviewed teaching article using the 1936 Literary Digest poll to help students explore data cleaning, sampling bias, and polling adjustment.\n\nView Article"
+  },
+  {
+    "objectID": "work/research/chance-literary-digest-poll.html#executive-summary",
+    "href": "work/research/chance-literary-digest-poll.html#executive-summary",
+    "title": "Political Polling Teaching Article",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nTaking the Next Step in Exploring the Literary Digest 1936 Poll is a peer-reviewed teaching article published in the Journal of Statistics and Data Science Education. The article revisits the famous 1936 Literary Digest poll, which is often used to introduce sampling bias, and develops additional classroom activities around data acquisition, cleaning, validation, visualization, and adjustment methods.\nI contributed to the data preparation, review, and early drafting process. My work supported the article’s broader goal: helping instructors turn a familiar historical polling example into a richer learning opportunity for statistics and data science students."
+  },
+  {
+    "objectID": "work/research/chance-literary-digest-poll.html#project-highlights",
+    "href": "work/research/chance-literary-digest-poll.html#project-highlights",
+    "title": "Political Polling Teaching Article",
+    "section": "Project Highlights",
+    "text": "Project Highlights\n\nContributed to a peer-reviewed statistics education article focused on sampling bias, data validation, and polling adjustment.\nSupported data cleaning and review of historical polling data from the 1924–1936 Literary Digest presidential election polls.\nHelped develop instructional materials that invite students to work with imperfect data, evaluate bias, and compare adjustment strategies."
+  },
+  {
+    "objectID": "work/research/chance-literary-digest-poll.html#methods-approach",
+    "href": "work/research/chance-literary-digest-poll.html#methods-approach",
+    "title": "Political Polling Teaching Article",
+    "section": "Methods & Approach",
+    "text": "Methods & Approach\nThe article uses the Literary Digest polling data as a historical case study for teaching statistical thinking. Beyond identifying the poll’s well-known sampling and nonresponse bias, the paper explores how students can work with original data sources, identify data quality issues, visualize prediction errors, and evaluate simple adjustment methods.\nMy contributions centered on supporting the data workflow and manuscript development. This included cleaning and checking historical data, reviewing analysis materials, and contributing to early drafts of the paper."
+  },
+  {
+    "objectID": "work/research/chance-literary-digest-poll.html#deliverables",
+    "href": "work/research/chance-literary-digest-poll.html#deliverables",
+    "title": "Political Polling Teaching Article",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nPeer-Reviewed Paper\nA published statistics education article that provides instructors with classroom activities and supporting materials for teaching data cleaning, sampling bias, and polling adjustment through the 1936 Literary Digest poll.\nView Article"
+  },
+  {
+    "objectID": "work/research/chance-literary-digest-poll.html#skills",
+    "href": "work/research/chance-literary-digest-poll.html#skills",
+    "title": "Political Polling Teaching Article",
+    "section": "Skills",
+    "text": "Skills\n\nData Cleaning Statistics Education Manuscript Review Research Communication"
+  },
+  {
+    "objectID": "work/research/theobold-complex-instruction-pair-programming.html",
+    "href": "work/research/theobold-complex-instruction-pair-programming.html",
+    "title": "Complex Instruction and Pair Programming",
+    "section": "",
+    "text": "Collaborative research paper examining how structured pair programming can support more equitable participation in introductory data science courses.\n\nView Paper"
+  },
+  {
+    "objectID": "work/research/theobold-complex-instruction-pair-programming.html#complex-instruction-and-pair-programming",
+    "href": "work/research/theobold-complex-instruction-pair-programming.html#complex-instruction-and-pair-programming",
+    "title": "Complex Instruction and Pair Programming",
+    "section": "",
+    "text": "Collaborative research paper examining how structured pair programming can support more equitable participation in introductory data science courses.\n\nView Paper"
+  },
+  {
+    "objectID": "work/research/theobold-complex-instruction-pair-programming.html#executive-summary",
+    "href": "work/research/theobold-complex-instruction-pair-programming.html#executive-summary",
+    "title": "Complex Instruction and Pair Programming",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nStatus, Equity, and Collaboration is a collaborative research paper from a multi-institutional project studying how pair programming can be structured to support more equitable participation in introductory data science courses. The study examines student interactions at Cal Poly and CSU Monterey Bay, focusing on how power, authority, and status shape collaboration during programming activities.\nThe project adapts principles from Complex Instruction, a pedagogical framework designed to address unequal participation in group work. Rather than assuming pair programming is automatically equitable, the study investigates how role design, classroom status dynamics, and student identities influence who contributes, whose ideas are taken up, and how collaborative learning can be improved."
+  },
+  {
+    "objectID": "work/research/theobold-complex-instruction-pair-programming.html#project-highlights",
+    "href": "work/research/theobold-complex-instruction-pair-programming.html#project-highlights",
+    "title": "Complex Instruction and Pair Programming",
+    "section": "Project Highlights",
+    "text": "Project Highlights\n\nContributed to a collaborative pilot study on equity, status, and participation in introductory data science classrooms.\nHelped examine how modified pair programming roles shaped student collaboration across two institutional contexts.\nSupported research connecting data science education, discourse analysis, and equity-focused instructional design."
+  },
+  {
+    "objectID": "work/research/theobold-complex-instruction-pair-programming.html#methods-approach",
+    "href": "work/research/theobold-complex-instruction-pair-programming.html#methods-approach",
+    "title": "Complex Instruction and Pair Programming",
+    "section": "Methods & Approach",
+    "text": "Methods & Approach\nThe study analyzed recorded and transcribed pair-programming interactions from introductory data science courses at Cal Poly and CSU Monterey Bay. The research team examined student contributions using discourse-analytic methods, focusing on proposal negotiation units and measures of intellectual merit.\nThe intervention replaced the traditional driver-navigator model with revised collaborative roles designed to separate strategic decision-making from keyboard control. The study then evaluated whether students recognized and followed those roles, how role talk appeared during collaboration, and whether the protocol reduced differences in intellectual influence between partners.\nFindings from the pilot study informed revisions to the collaborative protocol, including clearer role names, more explicit responsibilities, and tangible role structures intended to reduce the influence of status characteristics such as gender, major, and prior programming experience."
+  },
+  {
+    "objectID": "work/research/theobold-complex-instruction-pair-programming.html#deliverables",
+    "href": "work/research/theobold-complex-instruction-pair-programming.html#deliverables",
+    "title": "Complex Instruction and Pair Programming",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nProceedings Paper\nA collaborative paper summarizing the pilot study, pair programming intervention, discourse-analysis framework, key findings, and protocol revisions for supporting more equitable collaboration in data science education.\nView Paper"
+  },
+  {
+    "objectID": "work/research/theobold-complex-instruction-pair-programming.html#skills",
+    "href": "work/research/theobold-complex-instruction-pair-programming.html#skills",
+    "title": "Complex Instruction and Pair Programming",
+    "section": "Skills",
+    "text": "Skills\n\nDiscourse Analysis Equity-Focused Research Data Science Education Research Communication"
+  },
+  {
+    "objectID": "work/workshops/data-visualization-nonprofits.html",
+    "href": "work/workshops/data-visualization-nonprofits.html",
+    "title": "Data Viz for Nonprofits",
+    "section": "",
+    "text": "Workshop materials helping nonprofit teams collect, explore, and communicate data in ways that elevate community impact.\n\nView Slides"
+  },
+  {
+    "objectID": "work/workshops/data-visualization-nonprofits.html#data-viz-for-nonprofits",
+    "href": "work/workshops/data-visualization-nonprofits.html#data-viz-for-nonprofits",
+    "title": "Data Viz for Nonprofits",
+    "section": "",
+    "text": "Workshop materials helping nonprofit teams collect, explore, and communicate data in ways that elevate community impact.\n\nView Slides"
+  },
+  {
+    "objectID": "work/workshops/data-visualization-nonprofits.html#executive-summary",
+    "href": "work/workshops/data-visualization-nonprofits.html#executive-summary",
+    "title": "Data Viz for Nonprofits",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nThis workshop was designed to help nonprofit organizations use data more intentionally in support of their missions. The session focused on practical steps for designing data collection around organizational goals, collecting higher-quality information, and turning raw data into clear visual summaries that support decision-making.\nRather than treating data visualization as a purely technical exercise, the workshop emphasized purpose, audience, and action. Participants were encouraged to begin by asking what they want to learn, who needs the information, and how the results could support planning, communication, or community impact."
+  },
+  {
+    "objectID": "work/workshops/data-visualization-nonprofits.html#project-highlights",
+    "href": "work/workshops/data-visualization-nonprofits.html#project-highlights",
+    "title": "Data Viz for Nonprofits",
+    "section": "Project Highlights",
+    "text": "Project Highlights\n\nCo-developed workshop materials that introduced nonprofit teams to a practical data utilization workflow.\nHelped participants connect data collection decisions to organizational purpose, audience, and mission-aligned questions.\nDemonstrated how simple visual summaries can turn raw data into clearer insights for planning, reporting, and communication."
+  },
+  {
+    "objectID": "work/workshops/data-visualization-nonprofits.html#methods-approach",
+    "href": "work/workshops/data-visualization-nonprofits.html#methods-approach",
+    "title": "Data Viz for Nonprofits",
+    "section": "Methods & Approach",
+    "text": "Methods & Approach\nThe workshop followed a four-part structure: design, collect, explore, and discussion. The design section helped participants clarify their purpose, audience, and guiding questions. The collection section focused on practical strategies for improving data quality, including choosing appropriate collection methods, using organized digital tools, establishing regular collection processes, and reducing inconsistencies in stored data.\nThe exploration section introduced a simple workflow for moving from raw information to usable insight: familiarize yourself with the data, choose what to investigate, visualize findings, and communicate results clearly to the intended audience. A sample meal-service scenario showed how an organization could collect daily service counts, organize them in a spreadsheet, and visualize trends over time."
+  },
+  {
+    "objectID": "work/workshops/data-visualization-nonprofits.html#deliverables",
+    "href": "work/workshops/data-visualization-nonprofits.html#deliverables",
+    "title": "Data Viz for Nonprofits",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nWorkshop Slides\nA slide deck introducing nonprofit teams to data collection, exploration, and visualization practices that support clearer communication and stronger community impact.\nView Slides"
+  },
+  {
+    "objectID": "work/workshops/data-visualization-nonprofits.html#skills",
+    "href": "work/workshops/data-visualization-nonprofits.html#skills",
+    "title": "Data Viz for Nonprofits",
+    "section": "Skills",
+    "text": "Skills\n\nData Visualization Workshop Design Nonprofit Support Data Collection Community Engagement"
   }
 ]

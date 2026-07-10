@@ -1,0 +1,8 @@
+---
+title: "Blog"
+listing: 
+  contents: blog_posts
+  type: grid
+  sort: "date desc" # can also sort on more than one field
+  categories: true # option to sort posts by assigned categories 
+---

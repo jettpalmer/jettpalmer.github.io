@@ -1,0 +1,57 @@
+---
+title: "Democracy Dashboard"
+description: "Interactive dashboard applying survival analysis and geospatial visualization to explore democratic transitions and coup histories."
+categories: [Coding Project, Shiny, Data Visualization]
+date: "2024"
+---
+
+::: {.project-hero}
+## Democracy Dashboard
+
+Interactive dashboard applying survival analysis and geospatial visualization to explore democratic transitions and coup histories.
+
+::: {.project-links}
+[Launch Dashboard](https://fbbgarcia-global-government-dashboard.share.connect.posit.cloud/){.btn .btn-primary}
+[View Repository](https://github.com/fbbgarcia/global-gov-dashboard){.btn .btn-secondary}
+:::
+:::
+
+## Executive Summary
+
+The Democracy Dashboard is a collaborative Shiny project for exploring global histories of democratic and non-democratic regimes. The dashboard combines interactive maps, statistical summaries, and model interpretation to help users investigate how countries move between regime types and how long non-democratic spells last before returning to democracy.
+
+The project uses democracy, dictatorship, and coup d’état datasets to make comparative political history more accessible. Users can explore global regime classifications, review country-level histories, examine regional governance patterns, and investigate successful and unsuccessful coup attempts by country.
+
+## Project Highlights
+
+- Built an interactive dashboard that combines geospatial visualization, statistical modeling, and political regime data.
+- Applied a Cox proportional hazards model to analyze how regime characteristics are associated with return to democracy.
+- Designed user-facing explanations that translate technical modeling concepts, including hazard ratios, into accessible dashboard text.
+
+## Methods & Approach
+
+The dashboard was built with Shiny to support interactive exploration of global governance data. One section visualizes democratic and non-democratic regimes on a world map, allowing users to inspect country-level regime histories and compare broad regional patterns. Another section focuses on coup d’état histories, showing successful and unsuccessful coup attempts for selected countries over time.
+
+The modeling component uses survival analysis to study the time it takes for countries that transition away from democracy to return to it. The dashboard pairs model output with explanatory text so users can understand both the statistical approach and its interpretation.
+
+## Deliverables
+
+::: {.deliverable-card}
+**Live Shiny Dashboard**  
+A deployed interactive dashboard for exploring global patterns in democracy, dictatorship, non-democratic spells, and coup d’état histories.
+
+[Launch Dashboard](https://fbbgarcia-global-government-dashboard.share.connect.posit.cloud/){.btn .btn-primary}
+:::
+
+::: {.deliverable-card}
+**GitHub Repository**  
+Source code and project materials for the collaborative dashboard build.
+
+[View Repository](https://github.com/fbbgarcia/global-gov-dashboard){.btn .btn-secondary}
+:::
+
+## Skills
+
+::: {.skill-tags}
+`Shiny` `Survival Analysis` `Geospatial Visualization` `Political Data Analysis` `Model Communication`
+:::

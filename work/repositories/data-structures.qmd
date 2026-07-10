@@ -1,0 +1,49 @@
+---
+title: "Data Structures Repository"
+description: "Course archive demonstrating algorithm analysis, abstract data types, recursion, and software design in Python."
+categories: [Coding Project, Computer Science, Python]
+date: "2025"
+---
+
+::: {.project-hero}
+## Data Structures Repository
+
+Course archive demonstrating algorithm analysis, abstract data types, recursion, and software design in Python.
+
+::: {.project-links}
+[Request Materials](mailto:jettpalmer.io@gmail.com?subject=Request%20for%20Data%20Structures%20Materials){.btn .btn-primary}
+:::
+:::
+
+## Executive Summary
+
+This course archive reflects foundational computer science work in data structures, algorithm analysis, and software design. The course strengthened my ability to reason about how programs store, organize, and process information, with emphasis on writing clear, efficient, and modular Python code.
+
+Because the repository contains course materials that may not be appropriate to post publicly, the full archive is available upon request. This page summarizes the main competencies covered rather than presenting the materials directly.
+
+## Project Highlights
+
+- Implemented abstract data types and core data structures using Python.
+- Practiced algorithm analysis for evaluating runtime, efficiency, and tradeoffs between different approaches.
+- Built fluency with recursion, binary trees, mutable and immutable data, and fundamental sorting and searching algorithms.
+
+## Methods & Approach
+
+The coursework focused on connecting software design principles with the underlying data structures that make programs efficient and maintainable. Topics included abstract data types, recursion, binary trees, mutability, algorithmic complexity, and common sorting and searching strategies.
+
+This archive complements my statistics and data science work by documenting a stronger foundation in computational thinking, program structure, and algorithmic problem-solving.
+
+## Deliverables
+
+::: {.deliverable-card}
+**Course Archive**  
+A private archive of data structures coursework, including Python implementations, algorithm analysis exercises, and software design materials. Materials are available upon request.
+
+[Request Materials](mailto:jettpalmer.io@gmail.com?subject=Request%20for%20Data%20Structures%20Materials){.btn .btn-primary}
+:::
+
+## Skills
+
+::: {.skill-tags}
+`Python` `Data Structures` `Algorithm Analysis` `Recursion` `Software Design`
+:::

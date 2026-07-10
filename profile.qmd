@@ -1,0 +1,170 @@
+---
+title: "Profile"
+description: "Education, experience, research, leadership, awards, and selected coursework."
+toc: true
+---
+
+:::::: {.page-hero .page-hero--compact}
+::::: profile-hero-grid
+:::: profile-hero-copy
+::: eyebrow
+Profile
+:::
+
+# Learn more about me.
+
+Explore my educational background, research projects, and leadership activities.
+::::
+
+<img src="coffee_shop_wide.JPG" alt="Jett Palmer at a coffee shop" class="profile-portrait"/>
+:::::
+::::::
+
+## About
+
+I work at the intersection of statistics, AI, and organizational strategy. With a background in statistical consulting and collaboration, I use data to help teams define and navigate their toughest problems. My natural curiosity allows me to learn new domains quickly and implement *intentional* solutions that are grounded in the client's mission.
+
+Maximizing **impact** and **engaging deeply** with clients is the central topic of my research. Learn more about the project [here](work/thesis/designed-for-impact.qmd).
+
+## Education
+
+::::: timeline
+::: timeline-item
+### California Polytechnic State University, San Luis Obispo
+
+**M.S. in Statistics**\
+2025 - 2026
+:::
+
+::: timeline-item
+### California Polytechnic State University, San Luis Obispo
+
+**B.S. in Statistics**\
+2022 - 2025
+:::
+:::::
+
+## Recent Experience
+
+::::::::: {.card-grid .cards-3}
+:::: work-card
+::: card-kicker
+Research & Consulting
+:::
+
+### Statistical Practice
+
+- Principal Investigator, [*Designed For Impact: The Statistical Collaborator's Workflow*](work/thesis/designed-for-impact.qmd) (2025 - present).
+- Lead Research Assistant, [*Authority Constructs in Data Science*](work/research/theobold-complex-instruction-pair-programming.qmd) (2023 - 2025).
+- Consulted on projects in agriculture, environmental science, public health, engineering, and higher education.
+::::
+
+:::: work-card
+::: card-kicker
+Leadership
+:::
+
+### Strategic Initiatives
+
+- Chaired a joint task force responsible for developing governance recommendations and advising 26 student leaders through an eight-figure merger of registered nonprofits.
+- Facilitated cross-campus collaboration among student leaders and stakeholders, building consensus around a unified governance framework. Learn more about the project [here](work/leadership/maritime-integration.qmd).
+::::
+
+:::: work-card
+::: card-kicker
+Service
+:::
+
+### Community Contributions
+
+- Appointed to over fifteen committees and governing bodies at Cal Poly to advise executive administrators on institutional decisions.
+- Designed and hosted workshops for students and local nonprofits on data literacy and statistical tools.
+::::
+:::::::::
+
+## Scholarship
+
+### Publications
+
+- Abrash, I., Canner, J., Geam, E., Kan, N., Kuebitz, C., Lopez, E., Palmer, J., Pfeiffer, I., Theobold, A., & Woodard, V. (Proceedings of the International Conference on Teaching Statistics, 2026). *Status, equity, and collaboration: A pilot study of Complex Instruction-informed pair programming*.
+
+- Epstein, R., Newland, A., Palmer, J., Rajgarhia, A., & Wang, N. *Testing a quantitative social pressure theory of sexual orientation with data obtained from 310,144 participants in 92 countries completing surveys in their native languages*. Manuscript posted on SSRN, September 24, 2025. <https://ssrn.com/abstract=5526418>
+
+- Chance, B., Kerr, A., & Palmer, J. (2024). Taking the next step in exploring the *Literary Digest* 1936 poll. *Journal of Statistics and Data Science Education*, *32*(4), 405-415. <https://doi.org/10.1080/26939169.2024.2395505>
+
+### In Progress
+
+- Palmer, J., Smith, H., & Vance, E. *Designed For Impact: The Statistical Collaborator's Workflow*. Learn more about the project [here](https://jettpalmer.github.io/designed-for-impact/).
+
+### Conference Presentations
+
+- Joint Statistical Meetings \| Contributed Paper Presentation (2026).
+- e-Conference on Teaching Statistics \| Poster Presentation (2026).
+- Bailey College of Science & Mathematics Research Conference \| Research Talk (2026).
+- Western Psychological Association \| Paper Presentation (2025).
+- e-Conference on Teaching Statistics \| Poster Presentation (2024).
+
+## Leadership
+
+### Governance Work
+
+As an elected representative on the Board of Directors of a student association, I authored and passed legislation connected to institutional policy, shared governance, and student experience.
+
+- Resolution on Institutional Growth and "Learn By Doing" Ethos ([Palmer & Ramage, 2026](https://www.asi.calpoly.edu/discover-asi/public-documents/agendas-minutes/board-of-directors-resolutions/)).
+- Resolution to Amend ASI Articles of Incorporation ([Palmer, 2025](https://www.asi.calpoly.edu/wp-content/uploads/2025/05/Resolution-25-10-Amended-Articles-of-Incorporation_BODAppr-1.pdf)).
+- Resolution Calling for Reform of the Course Evaluation Instrument and Processes ([Reyes & Palmer, 2025](https://www.asi.calpoly.edu/wp-content/uploads/2025/05/Resolution-25-04_Resolution-on-Course-Evaluations.pdf)).
+- Resolution to Reaffirm Shared Governance ([Palmer & Finch, 2025](https://www.asi.calpoly.edu/wp-content/uploads/2025/04/Resolution25-03_Reaffirm-Shared-Governance.pdf)).
+- Resolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Policy ([Palmer & Prince, 2024](https://www.asi.calpoly.edu/wp-content/uploads/2024/03/24-02-Resolution-to-Recommend-an-Amendment-to-the-Cal-Poly-Academic-Senate-Class-Attendance-Policy_BODAppr.pdf)).
+
+### Selected Committees
+
+- ASI Cal Maritime Integration Ad Hoc Committee, Chair (2025-2026).
+- Artificial Intelligence Student Success Advisory Group (2025-2026).
+- Distinguished Teaching Award Committee (2024-2026).
+- Academic Senate: Student Perceptions of Teaching Effectiveness Ad Hoc Committee (2025-2026).
+- Academic Senate and Academic Senate Executive Committee (2024-2025).
+- Internal Review Committee, Chair (2023-2025).
+- Campus Administrative Policy Committee (2023-2025).
+- Student Success Fee Allocation Committee (2023-2024).
+
+## Awards
+
+- Champion Award, ASI Board of Directors (2026).
+- Michael Koehn Scholarship (Finalist), Cal Poly University Housing (2026).
+- Best Use of External Data, ASA DataFest at Cal Poly (2025).
+- Kathy Storelli "Use Your Voice" Scholarship, ASI Student Government (2024).
+- Best Visualization, ASA DataFest at Cal Poly (2024).
+- Joyce Curry-Daly and James Daly Scholarship, Cal Poly Statistics Department (2023).
+- Outstanding Character and Communication Scholarship, North County Education Fund (2022).
+
+## Selected Coursework
+
+::::::: coursework-grid
+::: coursework-group
+### Statistics
+
+Advanced Statistical Computing with R; Advanced Design and Analysis of Experiments; Graduate Consulting Practicum; Statistical Machine Learning with R; Generalized Linear Models; Multilevel and Mixed Modeling; Statistical Consulting; Generalized Linear Models; Applied Multivariate Statistics; Survival Analysis Methods; Survey Sampling & Methodology; Statistical Communication; Statistics Education.
+:::
+
+::: coursework-group
+### Computing & Data Science
+
+Introduction to Data Science with Python; Statistical Computing with R; Statistical Computing with SAS; Introduction to Python; Data Structures.
+:::
+
+::: coursework-group
+### Mathematical Foundations
+
+Probability Theory; Estimation and Sampling Theory; Mathematical Statistics; Calculus I-IV; Linear Algebra; Methods of Proof.
+:::
+
+::: coursework-group
+### Ethics & Philosophy
+
+Meta Ethics; Science, Ethics, and Technology; Philosophy of Science.
+:::
+:::::::
+
+## Resume
+
+[Download Resume](jett-palmer-resume.pdf){.btn .btn-primary}

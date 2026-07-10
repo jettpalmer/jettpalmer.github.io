@@ -1,0 +1,49 @@
+---
+title: "Quantitative Social Pressure Theory"
+description: "Collaborative research manuscript using large-scale survey data, statistical modeling, and visualization to evaluate a formal social pressure theory."
+categories: [Research, Statistical Modeling, Data Visualization]
+date: "2026"
+---
+
+::: {.project-hero}
+## Quantitative Social Pressure Theory
+
+Collaborative research manuscript using large-scale survey data, statistical modeling, and visualization to evaluate a formal social pressure theory.
+
+::: {.project-links}
+[View Manuscript](quantitative-social-pressure-theory.pdf){.btn .btn-primary}
+:::
+:::
+
+## Executive Summary
+
+This collaborative research project evaluates a formal social pressure theory using large-scale questionnaire data from more than 570,000 respondents across 88 countries. The manuscript examines whether country-level measures of heteronormative social pressure are associated with differences in the distribution of sexual orientation scores across international samples.
+
+My primary contributions focused on the statistical and visual components of the paper. I supported the analysis workflow, created many of the figures used to communicate model results, and contributed to manuscript preparation. The theoretical and mathematical foundations were developed collaboratively by the broader research team.
+
+## Project Highlights
+
+- Conducted statistical analyses for a large international dataset containing questionnaire responses from 572,128 people across 88 countries.
+- Created data visualizations to communicate distributional patterns, country-level comparisons, and relationships between social pressure measures and survey outcomes.
+- Contributed to manuscript development by supporting analysis interpretation, figure preparation, and written review.
+
+## Methods & Approach
+
+The project used translated versions of an online questionnaire to study sexual orientation scores across international samples. The research team developed a country-level social pressure measure using policy and social acceptance variables, then compared those scores against country-level patterns in mean sexual orientation.
+
+My work centered on translating the research questions into statistical summaries and visual evidence. This included analyzing distributions, comparing country-level patterns, producing publication-ready graphics, and helping communicate findings in a clear manuscript format. The analysis included distributional visualization, regression modeling, group comparisons, and graphical summaries of large-scale survey data.
+
+## Deliverables
+
+::: {.deliverable-card}
+**Research Manuscript**  
+A collaborative manuscript submitted for publication. The paper presents statistical and visual evidence from a large international survey dataset to evaluate a formal social pressure theory.
+
+[View Manuscript](quantitative-social-pressure-theory.pdf){.btn .btn-primary}
+:::
+
+## Skills
+
+::: {.skill-tags}
+`Data Visualization` `Large-Scale Survey Data` `Regression` `Research Communication`
+:::

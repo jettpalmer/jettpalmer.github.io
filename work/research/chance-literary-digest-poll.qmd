@@ -1,0 +1,49 @@
+---
+title: "Political Polling Teaching Article"
+description: "Peer-reviewed teaching article using the 1936 Literary Digest poll to help students explore data cleaning, sampling bias, and polling adjustment."
+categories: [Research, Statistics Education, Data Cleaning]
+date: "2024"
+---
+
+::: {.project-hero}
+## Political Polling Teaching Article
+
+Peer-reviewed teaching article using the 1936 Literary Digest poll to help students explore data cleaning, sampling bias, and polling adjustment.
+
+::: {.project-links}
+[View Article](literary-digest-polling-article.pdf){.btn .btn-primary}
+:::
+:::
+
+## Executive Summary
+
+*Taking the Next Step in Exploring the Literary Digest 1936 Poll* is a peer-reviewed teaching article published in the *Journal of Statistics and Data Science Education*. The article revisits the famous 1936 *Literary Digest* poll, which is often used to introduce sampling bias, and develops additional classroom activities around data acquisition, cleaning, validation, visualization, and adjustment methods.
+
+I contributed to the data preparation, review, and early drafting process. My work supported the article’s broader goal: helping instructors turn a familiar historical polling example into a richer learning opportunity for statistics and data science students.
+
+## Project Highlights
+
+- Contributed to a peer-reviewed statistics education article focused on sampling bias, data validation, and polling adjustment.
+- Supported data cleaning and review of historical polling data from the 1924–1936 *Literary Digest* presidential election polls.
+- Helped develop instructional materials that invite students to work with imperfect data, evaluate bias, and compare adjustment strategies.
+
+## Methods & Approach
+
+The article uses the *Literary Digest* polling data as a historical case study for teaching statistical thinking. Beyond identifying the poll’s well-known sampling and nonresponse bias, the paper explores how students can work with original data sources, identify data quality issues, visualize prediction errors, and evaluate simple adjustment methods.
+
+My contributions centered on supporting the data workflow and manuscript development. This included cleaning and checking historical data, reviewing analysis materials, and contributing to early drafts of the paper.
+
+## Deliverables
+
+::: {.deliverable-card}
+**Peer-Reviewed Paper**  
+A published statistics education article that provides instructors with classroom activities and supporting materials for teaching data cleaning, sampling bias, and polling adjustment through the 1936 *Literary Digest* poll.
+
+[View Article](literary-digest-polling-article.pdf){.btn .btn-primary}
+:::
+
+## Skills
+
+::: {.skill-tags}
+`Data Cleaning` `Statistics Education` `Manuscript Review` `Research Communication`
+:::

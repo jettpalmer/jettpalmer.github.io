@@ -1,0 +1,57 @@
+---
+title: "LIFT"
+description: "An AI-powered operations tool to help a fictitious nonprofit streamline operations, improve service reports, and make more informed resource-allocation decisions."
+categories: [Coding Project, AI Implementation, Shiny]
+date: "2026"
+---
+
+::: {.project-hero}
+## LIFT
+
+An AI-powered operations tool to help a fictitious nonprofit streamline operations, improve service reports, and make more informed resource-allocation decisions.
+
+::: {.project-links}
+[Launch App](https://jettdpalmer.shinyapps.io/LIFT/){.btn .btn-primary}
+[View Repository](https://github.com/jettpalmer/LIFT){.btn .btn-secondary}
+:::
+:::
+
+## Executive Summary
+
+LIFT is a prototype AI-powered operations tool built around a fictitious nonprofit service scenario. The app demonstrates how organizations could use practical AI workflows to improve day-to-day operations, turn frontline notes into structured insights, and make more informed decisions about staffing, reporting, and resource allocation.
+
+The project was designed as a public-facing demo rather than a live AI system. Instead of connecting to an external model, LIFT simulates an AI-assisted workflow through clickable interactions, guided outputs, and realistic nonprofit operations content. This makes the app easy to evaluate while still showing how thoughtful AI implementation could support mission-driven teams.
+
+## Project Highlights
+
+- Built an interactive Shiny application that demonstrates how AI could support nonprofit operations, service reporting, and decision-making.
+- Designed a guided user experience that translates messy operational information into structured summaries, insights, and recommended next steps.
+- Created a realistic demo environment to communicate AI implementation strategy without requiring live model calls or sensitive organizational data.
+
+## Methods & Approach
+
+LIFT was developed as a Quarto/Shiny application with an emphasis on usability, storytelling, and applied AI strategy. The app is structured around a fictitious nonprofit case study, allowing users to move through a simulated workflow for reviewing operational information, identifying service challenges, and generating decision-ready outputs.
+
+The goal was not simply to build a dashboard, but to prototype how AI could fit into an organization’s existing work. I focused on designing interactions that feel practical for nonprofit staff: clarifying problems, reducing reporting friction, surfacing patterns, and helping teams move from raw information to action.
+
+## Deliverables
+
+::: {.deliverable-card}
+**Live Shiny App**  
+A deployed prototype demonstrating an AI-assisted operations workflow for a fictitious nonprofit organization.
+
+[Launch App](https://jettdpalmer.shinyapps.io/LIFT/){.btn .btn-primary}
+:::
+
+::: {.deliverable-card}
+**GitHub Repository**  
+Source code for the LIFT prototype, including the Quarto/Shiny app structure and supporting materials.
+
+[View Repository](https://github.com/jettpalmer/LIFT){.btn .btn-secondary}
+:::
+
+## Skills
+
+::: {.skill-tags}
+`AI Implementation` `Shiny` `Product Prototyping` `Operations Strategy`
+:::

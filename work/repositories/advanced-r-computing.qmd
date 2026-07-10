@@ -1,0 +1,49 @@
+---
+title: "Advanced R Computing Repository"
+description: "Course archive demonstrating advanced R programming, reproducible workflows, dashboard development, and package-oriented project structure."
+categories: [Coding Project, R Programming, Reproducible Computing]
+date: "2026"
+---
+
+::: {.project-hero}
+## Advanced R Computing Repository
+
+Course archive demonstrating advanced R programming, reproducible workflows, dashboard development, and package-oriented project structure.
+
+::: {.project-links}
+[Request Materials](mailto:jettpalmer.io@gmail.com?subject=Request%20for%20Advanced%20R%20Computing%20Materials){.btn .btn-primary}
+:::
+:::
+
+## Executive Summary
+
+This course archive reflects graduate-level work in advanced R computing, with emphasis on building reproducible analyses, managing larger R projects, and developing more efficient programming workflows.
+
+Because the repository contains course materials that may not be appropriate to post publicly, the full archive is available upon request. This page summarizes the main competencies covered rather than presenting the materials directly.
+
+## Project Highlights
+
+- Built reproducible analysis workflows using Quarto, version control, and organized R project structures.
+- Practiced functional programming, iteration, JSON data handling, and automation with tools from the R ecosystem.
+- Developed experience with Quarto dashboards, WebR, function design, package development, testing, debugging, and performance improvement.
+
+## Methods & Approach
+
+The coursework focused on moving beyond script-based analysis toward more structured, reusable, and maintainable R workflows. Topics included Quarto documents and dashboards, Git-based version control, functional programming with `purrr`, JSON data, WebR integration, function writing, R package development, code testing, debugging, and speed optimization.
+
+Across assignments and examples, the emphasis was on building complete end-to-end analyses that are reproducible, well-organized, and easier to extend.
+
+## Deliverables
+
+::: {.deliverable-card}
+**Course Archive**  
+A private archive of advanced R computing coursework, including reproducible analyses, dashboard work, function-writing exercises, and package-oriented programming materials. Materials are available upon request.
+
+[Request Materials](mailto:jettpalmer.io@gmail.com?subject=Request%20for%20Advanced%20R%20Computing%20Materials){.btn .btn-primary}
+:::
+
+## Skills
+
+::: {.skill-tags}
+`Advanced R` `Quarto` `Functional Programming` `Package Development` `Reproducible Workflows`
+:::

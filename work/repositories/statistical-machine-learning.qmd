@@ -1,0 +1,47 @@
+---
+title: "Statistical Machine Learning Repository"
+description: "Course archive demonstrating predictive modeling, model assessment, and machine learning workflows in R."
+categories: [Coding Project, Machine Learning, R]
+date: "2026"
+---
+
+::: {.project-hero}
+## Statistical Machine Learning Repository
+
+Course archive demonstrating predictive modeling, model assessment, and machine learning workflows in R.
+
+::: {.project-links}
+[Request Materials](mailto:jettpalmer.io@gmail.com?subject=Request%20for%20Statistical%20Machine%20Learning%20Materials){.btn .btn-primary}
+:::
+:::
+
+## Executive Summary
+
+This course archive reflects graduate-level work in statistical machine learning, with emphasis on modern predictive modeling methods, supervised and unsupervised learning, and model assessment in R.
+
+Because the repository contains course materials that may not be appropriate to post publicly, the full archive is available upon request. This page summarizes the main competencies covered rather than presenting the materials directly.
+
+## Project Highlights
+
+- Applied regression, classification, and clustering methods across supervised and unsupervised learning contexts.
+- Practiced model assessment and selection using cross-validation, bootstrapping, and information criteria.
+- Built statistical learning workflows in R with attention to reproducibility, interpretation, and predictive performance.
+
+## Methods & Approach
+
+The coursework covered predictive modeling techniques such as support vector machines, LASSO, splines, decision trees, random forests, and clustering methods. Across assignments and examples, the emphasis was on selecting appropriate models, evaluating performance, and understanding tradeoffs between flexibility, interpretability, and generalization.
+
+## Deliverables
+
+::: {.deliverable-card}
+**Course Archive**  
+A private archive of graduate-level statistical machine learning coursework, including applied modeling exercises and R-based predictive modeling workflows. Materials are available upon request.
+
+[Request Materials](mailto:jettpalmer.io@gmail.com?subject=Request%20for%20Statistical%20Machine%20Learning%20Materials){.btn .btn-primary}
+:::
+
+## Skills
+
+::: {.skill-tags}
+`Statistical Machine Learning` `Predictive Modeling` `Model Selection` `Cross-Validation` `R`
+:::

@@ -1,0 +1,33 @@
+---
+title: "Research"
+---
+
+## Publications
+
+### Exploring the Literary Digest Polls (2024)
+
+Chance, B., Kerr, A., & Palmer, J. (2024). Taking the Next Step in Exploring the *Literary Digest* 1936 Poll. *Journal of Statistics and Data Science Education*, *32*(4), 405–415. <https://doi.org/10.1080/26939169.2024.2395505>
+
+### Social Pressure Theory (2025)
+
+Epstein, R., Newland, A., Palmer, J., Rajgarhia, A., & Wang, N. (submitted for publication). *Testing a quantitative social pressure theory of sexual orientation with data obtained from 310,144 participants in 92 countries completing surveys in their native languages*. (Preprint posted on SSRN, September 24, 2025, <https://ssrn.com/abstract=5526418>)
+
+### Authority in Data Science (2025)
+
+Abrash, I., Canner, J., Geam, E., Kan, N., Kuebitz, C., Lopez, E., Palmer, J., Pfeiffer, I., Theobold, A., Woodard, V. (International Conference on Teaching Statistics Proceedings). *Status, Equity, and Collaboration: A Pilot Study of Complex Instruction-Informed Pair Programing*.
+
+## In Progress
+
+Palmer, J., Smith, H., Vance, E. *Designed For Impact: The Statistical Collaborator's Workflow.* Learn more about the project [here](https://jettpalmer.github.io/designed-for-impact/).
+
+## Conference Presentations
+
+- Joint Statistical Meetings \| Contributed Paper Presentation (2026)
+
+- e-Conference on Teaching Statistics \| Poster Presentation (2026)
+
+- Bailey College of Science & Mathematics Research Conference \| Research Talk (2026)
+
+- Western Psychological Association \| Paper Presentation (2025)
+
+- e-Conference on Teaching Statistics \| Poster Presentation (2024)

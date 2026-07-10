@@ -1,0 +1,59 @@
+---
+title: "Nonprofit M&A"
+description: "Leadership project developing governance recommendations for an eight-figure nonprofit integration in California higher education."
+categories: [Community Engagement, Leadership, Governance]
+date: "2026"
+---
+
+::: {.project-hero}
+## Nonprofit M&A
+
+Leadership project developing governance recommendations for an eight-figure nonprofit integration in California higher education.
+
+::: {.project-links}
+[View Closeout Memo](nonprofit-ma-closeout-memo.pdf){.btn .btn-primary}
+[Request Supporting Materials](mailto:jettpalmer.io@gmail.com?subject=Request%20for%20Nonprofit%20M%26A%20Supporting%20Materials){.btn .btn-secondary}
+:::
+:::
+
+## Executive Summary
+
+Associated Students, Inc. (ASI) is Cal Poly’s student-governed nonprofit auxiliary, responsible for representing students and supporting campus programs, services, and student leadership. During Cal Poly’s historic integration with Cal Maritime, ASI needed to develop a unified student governance structure that could incorporate Maritime students into one organization while preserving representation, continuity, and operational clarity.
+
+As Chair of the ASI Cal Maritime Integration Ad Hoc Committee, I led a joint student governance process that brought together representatives from both campuses. Over the course of one year, the committee met 25 times, reported to multiple stakeholder groups, and produced three core recommendations: a shared governance model, responsibility guides for new Maritime student leadership positions, and a package of ASI Bylaws amendments to operationalize the integration.
+
+## Project Highlights
+
+- Chaired a joint ad hoc committee with student representation from both ASI and the Associated Students of the California Maritime Academy.
+- Led the development of governance recommendations that established a new Maritime student council and formalized representation across ASI leadership structures.
+- Guided the committee through rescoping, cross-campus negotiation, policy review, and final recommendations approved by the ASI Board of Directors.
+
+## Methods & Approach
+
+This project required translating a large institutional integration into concrete governance decisions for a student-governed nonprofit. The committee’s work began with relationship-building, campus learning, and shared problem definition before moving into governance design, role development, and policy implementation.
+
+A key challenge was that the legal and operational pathway changed during the project. The committee adapted from an initial merger-oriented plan toward a structure that supported ASCMA dissolution and integration into ASI. That shift required rescoping deliverables, maintaining stakeholder confidence, and ensuring that recommendations remained legally and operationally coherent.
+
+The final recommendations included a shared governance framework, responsibility guides for new student leadership positions, and a bylaw amendment package that established the new governance bodies, clarified representation, and prepared ASI to welcome Maritime Academy students as members. The closeout memo describes these deliverables as the result of “early problem disaggregation, occasional rescoping, and measured execution.” :contentReference[oaicite:0]{index=0}
+
+## Deliverables
+
+::: {.deliverable-card}
+**Project Closeout Memo**  
+A public summary of the committee’s charge, scope changes, execution, implementation plan, and key deliverables from the integration process.
+
+[View Closeout Memo](nonprofit-ma-closeout-memo.pdf){.btn .btn-primary}
+:::
+
+::: {.deliverable-card}
+**Supporting Governance Materials**  
+Additional materials are available upon request, including the Shared Governance Model, student leadership responsibility guides, and the ASI Bylaws amendment package used to operationalize the integration.
+
+[Request Supporting Materials](mailto:jettpalmer.io@gmail.com?subject=Request%20for%20Nonprofit%20M%26A%20Supporting%20Materials){.btn .btn-secondary}
+:::
+
+## Skills
+
+::: {.skill-tags}
+`Change Management` `Governance Design` `Policy Writing` `Stakeholder Communication` `Strategic Leadership`
+:::

@@ -1,0 +1,49 @@
+---
+title: "dictatR"
+description: "An R package for exploring, visualizing, and analyzing global democracy and dictatorship data."
+categories: [Coding Project, R Package, Political Data]
+date: "2026"
+---
+
+::: {.project-hero}
+## dictatR
+
+An R package for exploring, visualizing, and analyzing global democracy and dictatorship data.
+
+::: {.project-links}
+[View Repository](https://github.com/jettpalmer/dictatR){.btn .btn-primary}
+:::
+:::
+
+## Executive Summary
+
+*dictatR* is an R package project designed to make global democracy and dictatorship data easier to explore, visualize, and analyze. The package provides tools for working with regime-type data in a more accessible workflow, helping users move from raw political data toward interpretable summaries and visualizations.
+
+This project reflects my interest in building reusable tools that make statistical and data science workflows more efficient. Rather than creating a one-off analysis, *dictatR* packages common tasks into functions that can support future projects, teaching examples, and exploratory political data analysis.
+
+## Project Highlights
+
+- Developed an R package structure for working with global democracy and dictatorship data.
+- Created tools to support exploratory analysis, visualization, and interpretation of regime-type patterns.
+- Practiced package-oriented development, documentation, and reusable workflow design in R.
+
+## Methods & Approach
+
+The project was built as an R package, which required organizing code into reusable functions, documenting expected inputs and outputs, and designing tools that can be applied across multiple analyses. The package focuses on making political regime data easier to manipulate and visualize, particularly for users interested in comparing democratic and non-democratic patterns across countries.
+
+The broader goal was to move beyond a single analysis script and toward a more general toolkit. This made the project a useful exercise in software design, reproducible research, and statistical programming for social science data.
+
+## Deliverables
+
+::: {.deliverable-card}
+**GitHub Repository**  
+An R package project containing tools for exploring, visualizing, and analyzing global democracy and dictatorship data.
+
+[View Repository](https://github.com/jettpalmer/dictatR){.btn .btn-primary}
+:::
+
+## Skills
+
+::: {.skill-tags}
+`R Package Development` `Statistical Programming` `Data Visualization` `Political Data Analysis`
+:::

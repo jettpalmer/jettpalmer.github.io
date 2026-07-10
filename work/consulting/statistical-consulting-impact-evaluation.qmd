@@ -1,0 +1,63 @@
+---
+title: "Statistical Consulting"
+description: "Applied consulting projects that translate messy research and organizational questions into usable statistical evidence."
+categories: [Research, Statistical Consulting, Impact Evaluation]
+date: "2026"
+toc: true
+---
+
+::: {.project-hero}
+## Consulting Portfolio
+
+Applied consulting projects where I helped research teams clarify questions, evaluate evidence, and communicate findings.
+
+::: {.project-links}
+[View Sample Cover Memo](sample-cover-memo.pdf){.btn .btn-primary}
+:::
+:::
+
+## Executive Summary
+
+This page summarizes a collection of statistical consulting projects across environmental science, health research, human factors, sustainability literacy, and student experience. Because many engagements involved confidential client data or unpublished student research, I have grouped them into a single overview rather than presenting each project as a standalone case study.
+
+Across these projects, my role has been to help teams move from broad research questions to clear analytic strategies. That work often includes refining study goals, identifying appropriate statistical methods, conducting analysis, explaining tradeoffs, and translating results into language that decision-makers and domain experts can use.
+
+## Consulting Highlights
+
+- Supported applied research teams across environmental, biological, health, engineering, and other disciplines.
+- Helped translate complex substantive questions into statistical models, study designs, and interpretable findings.
+- Communicated results through written reports, cover memos, presentations, and client-ready recommendations.
+
+## Selected Engagements
+
+| Year | Project | Context | Methods |
+|---|---|---|---|
+| 2026 | Soil organic carbon relationships in vineyard soils | Evaluated whether relationships between soil organic carbon, mineral-associated organic carbon, and particulate organic carbon aligned with carbon saturation theory. | Linear, logarithmic, and exponential pattern assessment |
+| 2026 | Microhabitat conditions and lizard physiology | Assessed how environmental conditions differed across microhabitats and campus locations using repeated observations. | Mixed-effects modeling, repeated-measures analysis |
+| 2026 | Biofilm formation and bacterial cell density | Evaluated organism, surface material, and time effects on bacterial concentration and biofilm formation. | Mixed-effects modeling, repeated-measures analysis, pairwise comparisons |
+| 2026 | Soil health and regenerative land management | Compared soil health indicators and land management practices against viticulturist-perceived outcomes. | Multiple correspondence analysis, ordinal regression, logistic regression |
+| 2025 | Ergonomics task performance | Evaluated how hand dominance, wrist direction, and distraction affected time to unscrew a bolt in a confined mechanical task. | ANOVA, power analysis, blocked experimental design |
+| 2025 | Postpartum technology use and maternal health | Investigated associations between mothers’ technology use, parenting stress, and depression during the early postpartum period. | Multiple logistic regression, simple linear regression |
+| 2025 | Student sustainability literacy | Studied sustainability knowledge, attitudes, and behaviors across colleges and geographic regions. | Multivariate multiple linear regression, spatial data analysis |
+| 2024 | Student employment experience | Led survey and analysis work to understand student employment experiences and inform program design. | Probability sampling, CAPI administration, project management |
+
+## Methods & Approach
+
+My consulting approach emphasizes problem definition before model selection. I work with collaborators to clarify the research question, understand the structure and limitations of the data, choose methods that match the design, and communicate results in a way that supports practical interpretation.
+
+These projects required a mix of statistical modeling, study design, survey administration, data cleaning, assumption checking, and technical communication. Just as importantly, they required learning each client’s domain quickly enough to make statistical recommendations that were both methodologically sound and contextually useful.
+
+## Deliverables
+
+::: {.deliverable-card}
+**Sample Cover Memo**  
+A full work sample is available upon request.
+
+[View Sample](sample-cover-memo.pdf){.btn .btn-primary}
+:::
+
+## Skills
+
+::: {.skill-tags}
+`Statistical Consulting` `Applied Modeling` `Technical Communication`
+:::

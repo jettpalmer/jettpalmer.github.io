@@ -1,0 +1,49 @@
+---
+title: "Green Roofs and Environmental Performance"
+description: "Poster project using regression models to quantify the cooling effects of green roofs and inform urban sustainability planning."
+categories: [Research, Environmental Statistics, Regression Modeling]
+date: "2025"
+---
+
+::: {.project-hero}
+## Green Roofs and Environmental Performance
+
+Poster project using regression models to quantify the cooling effects of green roofs and inform urban sustainability planning.
+
+::: {.project-links}
+[View Poster](green-roofs-poster.pdf){.btn .btn-primary}
+:::
+:::
+
+## Executive Summary
+
+This project investigated whether green roofs can reduce building-level heat exposure and improve environmental performance in urban settings. Using temperature and building data, I modeled the relationship between roof type and thermal outcomes to evaluate whether green roof infrastructure was associated with measurable cooling benefits.
+
+The project connects applied statistical modeling with a practical sustainability question: how cities can use design interventions to reduce heat, improve climate resilience, and support more evidence-based urban planning decisions.
+
+## Project Highlights
+
+- Used regression modeling to estimate the relationship between green roof infrastructure and building temperature outcomes.
+- Translated an environmental performance question into a statistical analysis suitable for a research poster format.
+- Communicated technical results visually for an audience interested in sustainability, climate adaptation, and applied data analysis.
+
+## Methods & Approach
+
+The analysis focused on comparing temperature outcomes across buildings with different roofing characteristics. I used regression-based methods to evaluate whether green roofs were associated with lower temperatures while accounting for other relevant building or environmental factors.
+
+The poster emphasized both statistical interpretation and applied relevance, presenting model results in a way that connected environmental data to broader questions about urban heat mitigation and sustainable infrastructure.
+
+## Deliverables
+
+::: {.deliverable-card}
+**Research Poster**  
+A poster presentation summarizing the research question, modeling approach, key findings, and sustainability implications of the green roofs analysis.
+
+[View Poster](green-roofs-poster.pdf){.btn .btn-primary}
+:::
+
+## Skills
+
+::: {.skill-tags}
+`Regression` `Environmental Data Analysis` `Research Communication` `Data Visualization`
+:::

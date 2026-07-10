@@ -1,0 +1,298 @@
+---
+title: "Work"
+description: "Selected scholarly work, coding projects, presentations, and applied research."
+page-layout: full
+toc: false
+---
+
+:::: page-hero
+::: eyebrow
+Portfolio
+:::
+
+# Explore my work.
+
+Browse my research, coding projects, and community engagement.
+::::
+
+:::::::::: section-block
+## Start by Category
+
+::::::::: {.card-grid .cards-3}
+:::: category-card
+::: card-kicker
+01
+:::
+
+<p class="card-title">
+
+<a href="#research">Research</a>
+
+</p>
+
+Applied research, consulting projects, posters, and publications.
+::::
+
+:::: category-card
+::: card-kicker
+02
+:::
+
+<p class="card-title">
+
+<a href="#coding-projects">Coding Projects</a>
+
+</p>
+
+AI tools, dashboards, packages, and classwork repositories.
+::::
+
+:::: category-card
+::: card-kicker
+03
+:::
+
+<p class="card-title">
+
+<a href="#community-engagement">Community Engagement</a>
+
+</p>
+
+Workshops, advocacy, and nonprofit leadership.
+::::
+:::::::::
+::::::::::
+
+::::::::::: section-band
+:::::::::: section-block
+## Featured Work
+
+::::::::: {.card-grid .cards-3}
+:::: work-card
+::: card-kicker
+Research
+:::
+
+### [Designed For Impact](work/thesis/designed-for-impact.qmd)
+
+A framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.
+::::
+
+:::: work-card
+::: card-kicker
+Coding Projects
+:::
+
+### [LIFT](work/builds/lift.qmd)
+
+An AI-powered operations tool to help a fictitious nonprofit streamline operations, improve reporting, and make more informed resource allocation decisions.
+::::
+
+:::: work-card
+::: card-kicker
+Community Engagement
+:::
+
+### [Nonprofit M&A](work/leadership/maritime-integration.qmd)
+
+My work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system.
+::::
+:::::::::
+::::::::::
+:::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::: section-block
+## All Work
+
+### Research {#research}
+
+::::::::::::::::: {.card-grid .cards-3}
+:::: work-card
+::: card-kicker
+Thesis
+:::
+
+### [Designed For Impact](work/thesis/designed-for-impact.qmd)
+
+A framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.
+::::
+
+:::: work-card
+::: card-kicker
+Consulting
+:::
+
+### [Statistical Consulting](work/consulting/statistical-consulting-impact-evaluation.qmd)
+
+A consolidated list of consulting engagements across environmental science, health, human factors, sustainability, and more.
+::::
+
+:::: work-card
+::: card-kicker
+Poster
+:::
+
+### [Green Roofs and Environmental Performance](work/posters/green-roofs-environmental-performance.qmd)
+
+Poster project using predictive modeling to assess how green roofs influence building temperatures in urban environments.
+::::
+
+:::: work-card
+::: card-kicker
+Poster
+:::
+
+### [Telecommunications Churn Strategy](work/posters/telecom-churn-strategy.qmd)
+
+Poster project using classification models to identify churn risk and translate model results into retention strategy.
+::::
+
+:::: work-card
+::: card-kicker
+Research
+:::
+
+### [Political Polling Teaching Article](work/research/chance-literary-digest-poll.qmd)
+
+Journal article revisiting the 1936 *Literary Digest* poll as a teaching context for sampling, bias, and statistical reasoning.
+::::
+
+:::: work-card
+::: card-kicker
+Research
+:::
+
+### [Quantitative Social Pressure Theory](work/research/epstein-social-pressure-theory.qmd)
+
+Paper on a quantitative social pressure theory of sexual orientation with a large dataset from multilingual surveys and 92 countries.
+::::
+
+:::: work-card
+::: card-kicker
+Research
+:::
+
+### [Complex Instruction and Pair Programming](work/research/theobold-complex-instruction-pair-programming.qmd)
+
+Conference proceedings paper on status, equity, and collaboration using a Complex Instruction-informed pedagogy and pair programming.
+::::
+:::::::::::::::::
+
+### Coding Projects {#coding-projects}
+
+::::::::::::::::: {.card-grid .cards-3}
+:::: work-card
+::: card-kicker
+Build
+:::
+
+### [LIFT](work/builds/lift.qmd)
+
+AI-powered operations prototype for nonprofit workflows, reporting, and resource allocation support.
+::::
+
+:::: work-card
+::: card-kicker
+Build
+:::
+
+### [dictatR](work/builds/dictatr-r-package.qmd)
+
+R package project containing tools for exploring, visualizing, and analyzing global democracy and dictatorship data.
+::::
+
+:::: work-card
+::: card-kicker
+Build
+:::
+
+### [Democracy Dashboard](work/builds/democracy-dashboard.qmd)
+
+Interactive dashboard using survival analysis and geospatial visualization to explore democratic transitions across the globe.
+::::
+
+:::: work-card
+::: card-kicker
+Classwork
+:::
+
+### [Statistical Machine Learning Repository](work/repositories/statistical-machine-learning.qmd)
+
+Coursework repository for supervised learning, model assessment, and applied statistical modeling exercises.
+::::
+
+:::: work-card
+::: card-kicker
+Classwork
+:::
+
+### [Advanced R Computing Repository](work/repositories/advanced-r-computing.qmd)
+
+Coursework repository focused on R programming, statistical computing, and reproducible workflows.
+::::
+
+:::: work-card
+::: card-kicker
+Classwork
+:::
+
+### [Intro to Data Science Repository](work/repositories/intro-data-science.qmd)
+
+Coursework repository for introductory data wrangling, visualization, and modeling projects.
+::::
+
+:::: work-card
+::: card-kicker
+Classwork
+:::
+
+### [Data Structures Repository](work/repositories/data-structures.qmd)
+
+Coursework repository for core data structures, algorithmic thinking, and programming fundamentals.
+::::
+:::::::::::::::::
+
+### Community Engagement {#community-engagement}
+
+::::::::::: {.card-grid .cards-3}
+:::: work-card
+::: card-kicker
+Workshop
+:::
+
+### [Intro to R & DataFest](work/workshops/datafest-r-presentation.qmd)
+
+Presentation introducing R workflows and practical analysis habits for DataFest participants.
+::::
+
+:::: work-card
+::: card-kicker
+Workshop
+:::
+
+### [Data Viz For Nonprofits](work/workshops/data-visualization-nonprofits.qmd)
+
+Workshop on using clear, audience-centered data visuals to communicate nonprofit impact.
+::::
+
+:::: work-card
+::: card-kicker
+Leadership
+:::
+
+### [Nonprofit M&A](work/leadership/maritime-integration.qmd)
+
+My work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system.
+::::
+
+:::: work-card
+::: card-kicker
+Advocacy
+:::
+
+### [Student Advocacy at Cal Poly](work/advocacy/resolutions.qmd)
+
+Resolutions on institutional growth, course evaluation reform, shared governance, and Academic Senate policy.
+::::
+:::::::::::
+::::::::::::::::::::::::::::::::::::::::::
