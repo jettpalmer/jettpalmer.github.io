@@ -5,16 +5,15 @@ categories: [Community Engagement, Leadership, Governance]
 date: "2026"
 ---
 
-::: {.project-hero}
+:::: project-hero
 ## Nonprofit M&A
 
 Leadership project developing governance recommendations for an eight-figure nonprofit integration in California higher education.
 
-::: {.project-links}
-[View Closeout Memo](nonprofit-ma-closeout-memo.pdf){.btn .btn-primary}
-[Request Supporting Materials](mailto:jettpalmer.io@gmail.com?subject=Request%20for%20Nonprofit%20M%26A%20Supporting%20Materials){.btn .btn-secondary}
+::: project-links
+[View Closeout Memo](nonprofit-ma-closeout-memo.pdf){.btn .btn-primary} [Request Supporting Materials](mailto:jettpalmer.io@gmail.com?subject=Request%20for%20Nonprofit%20M%26A%20Supporting%20Materials){.btn .btn-secondary}
 :::
-:::
+::::
 
 ## Executive Summary
 
@@ -34,19 +33,19 @@ This project required translating a large institutional integration into concret
 
 A key challenge was that the legal and operational pathway changed during the project. The committee adapted from an initial merger-oriented plan toward a structure that supported ASCMA dissolution and integration into ASI. That shift required rescoping deliverables, maintaining stakeholder confidence, and ensuring that recommendations remained legally and operationally coherent.
 
-The final recommendations included a shared governance framework, responsibility guides for new student leadership positions, and a bylaw amendment package that established the new governance bodies, clarified representation, and prepared ASI to welcome Maritime Academy students as members. The closeout memo describes these deliverables as the result of “early problem disaggregation, occasional rescoping, and measured execution.” :contentReference[oaicite:0]{index=0}
+The final recommendations included a shared governance framework, responsibility guides for new student leadership positions, and a bylaw amendment package that established the new governance bodies, clarified representation, and prepared ASI to welcome Maritime Academy students as members. These deliverables were the result of early problem disaggregation, occasional rescoping, and measured execution by our team.
 
 ## Deliverables
 
-::: {.deliverable-card}
-**Project Closeout Memo**  
-A public summary of the committee’s charge, scope changes, execution, implementation plan, and key deliverables from the integration process.
+::: deliverable-card
+**Project Closeout Memo**\
+A summary of the committee’s charge, scope changes, execution, implementation plan, and key deliverables from the integration process.
 
 [View Closeout Memo](nonprofit-ma-closeout-memo.pdf){.btn .btn-primary}
 :::
 
-::: {.deliverable-card}
-**Supporting Governance Materials**  
+::: deliverable-card
+**Supporting Governance Materials**\
 Additional materials are available upon request, including the Shared Governance Model, student leadership responsibility guides, and the ASI Bylaws amendment package used to operationalize the integration.
 
 [Request Supporting Materials](mailto:jettpalmer.io@gmail.com?subject=Request%20for%20Nonprofit%20M%26A%20Supporting%20Materials){.btn .btn-secondary}
@@ -54,6 +53,6 @@ Additional materials are available upon request, including the Shared Governance
 
 ## Skills
 
-::: {.skill-tags}
+::: skill-tags
 `Change Management` `Governance Design` `Policy Writing` `Stakeholder Communication` `Strategic Leadership`
 :::
