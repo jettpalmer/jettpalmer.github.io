@@ -370,7 +370,7 @@ body.nav-fixed main.content {
   position: static;
 }
 
-.category-card h3 a::after,
+.category-card h3 a:not(.anchorjs-link)::after,
 .category-card .card-title a::after {
   content: "";
   position: absolute;
