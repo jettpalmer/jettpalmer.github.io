@@ -5,8 +5,8 @@ page-layout: full
 toc: false
 ---
 
-:::: {.page-hero}
-::: {.eyebrow}
+:::: page-hero
+::: eyebrow
 Portfolio
 :::
 
@@ -15,12 +15,12 @@ Portfolio
 Browse my research, coding projects, and community engagement.
 ::::
 
-:::::::::: {.section-block}
+:::::::::: section-block
 ## Start by Category
 
 ::::::::: {.card-grid .cards-3}
-:::: {.category-card}
-::: {.card-kicker}
+:::: category-card
+::: card-kicker
 01
 :::
 
@@ -29,8 +29,8 @@ Browse my research, coding projects, and community engagement.
 Applied research, consulting projects, posters, and publications.
 ::::
 
-:::: {.category-card}
-::: {.card-kicker}
+:::: category-card
+::: card-kicker
 02
 :::
 
@@ -39,8 +39,8 @@ Applied research, consulting projects, posters, and publications.
 AI tools, dashboards, packages, and classwork repositories.
 ::::
 
-:::: {.category-card}
-::: {.card-kicker}
+:::: category-card
+::: card-kicker
 03
 :::
 
@@ -51,13 +51,13 @@ Workshops, advocacy, and nonprofit leadership.
 :::::::::
 ::::::::::
 
-::::::::::: {.section-band}
-:::::::::: {.section-block}
+::::::::::: section-band
+:::::::::: section-block
 ## Featured Work
 
 ::::::::: {.card-grid .cards-3}
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Research
 :::
 
@@ -66,8 +66,8 @@ Research
 A framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.
 ::::
 
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Coding Projects
 :::
 
@@ -76,8 +76,8 @@ Coding Projects
 An AI-powered operations tool to help a fictitious nonprofit streamline operations, improve reporting, and make more informed resource allocation decisions.
 ::::
 
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Community Engagement
 :::
 
@@ -89,14 +89,14 @@ My work on the organizational restructuring for a historic, eight-figure strateg
 ::::::::::
 :::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::: {.section-block}
+:::::::::::::::::::::::::::::::::::::::::: section-block
 ## All Work
 
 ### Research {#research}
 
 ::::::::::::::::: {.card-grid .cards-3}
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Thesis
 :::
 
@@ -105,8 +105,8 @@ Thesis
 A framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.
 ::::
 
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Consulting
 :::
 
@@ -115,8 +115,8 @@ Consulting
 A consolidated list of consulting engagements across environmental science, health, human factors, sustainability, and more.
 ::::
 
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Poster
 :::
 
@@ -125,8 +125,8 @@ Poster
 Poster project using predictive modeling to assess how green roofs influence building temperatures in urban environments.
 ::::
 
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Poster
 :::
 
@@ -135,8 +135,8 @@ Poster
 Poster project using classification models to identify churn risk and translate model results into retention strategy.
 ::::
 
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Research
 :::
 
@@ -145,8 +145,8 @@ Research
 Journal article revisiting the 1936 *Literary Digest* poll as a teaching context for sampling, bias, and statistical reasoning.
 ::::
 
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Research
 :::
 
@@ -155,8 +155,8 @@ Research
 Paper on a quantitative social pressure theory of sexual orientation with a large dataset from multilingual surveys and 92 countries.
 ::::
 
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Research
 :::
 
@@ -169,8 +169,8 @@ Conference proceedings paper on status, equity, and collaboration using a Comple
 ### Coding Projects {#coding-projects}
 
 ::::::::::::::::: {.card-grid .cards-3}
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Build
 :::
 
@@ -179,8 +179,8 @@ Build
 AI-powered operations prototype for nonprofit workflows, reporting, and resource allocation support.
 ::::
 
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Build
 :::
 
@@ -189,8 +189,8 @@ Build
 R package project containing tools for exploring, visualizing, and analyzing global democracy and dictatorship data.
 ::::
 
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Build
 :::
 
@@ -199,8 +199,8 @@ Build
 Interactive dashboard using survival analysis and geospatial visualization to explore democratic transitions across the globe.
 ::::
 
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Classwork
 :::
 
@@ -209,8 +209,8 @@ Classwork
 Coursework repository for supervised learning, model assessment, and applied statistical modeling exercises.
 ::::
 
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Classwork
 :::
 
@@ -219,8 +219,8 @@ Classwork
 Coursework repository focused on R programming, statistical computing, and reproducible workflows.
 ::::
 
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Classwork
 :::
 
@@ -229,8 +229,8 @@ Classwork
 Coursework repository for introductory data wrangling, visualization, and modeling projects.
 ::::
 
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Classwork
 :::
 
@@ -243,8 +243,8 @@ Coursework repository for core data structures, algorithmic thinking, and progra
 ### Community Engagement {#community-engagement}
 
 ::::::::::: {.card-grid .cards-3}
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Workshop
 :::
 
@@ -253,8 +253,8 @@ Workshop
 Presentation introducing R workflows and practical analysis habits for DataFest participants.
 ::::
 
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Workshop
 :::
 
@@ -263,8 +263,8 @@ Workshop
 Workshop on using clear, audience-centered data visuals to communicate nonprofit impact.
 ::::
 
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Leadership
 :::
 
@@ -273,8 +273,8 @@ Leadership
 My work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system.
 ::::
 
-:::: {.work-card}
-::: {.card-kicker}
+:::: work-card
+::: card-kicker
 Advocacy
 :::
 
