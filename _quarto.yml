@@ -10,11 +10,6 @@ project:
 resources:
   - styles.css
   - jett-palmer-resume.pdf
-  - resolution-2024-class-attendance-policy.pdf
-  - resolution-2025-amended-articles-of-incorporation.pdf
-  - resolution-2025-course-evaluation-reform.pdf
-  - resolution-2025-reaffirm-shared-governance.pdf
-  - resolution-2026-institutional-growth-learn-by-doing.pdf
   - coffee_shop_wide.JPG
   - assets/**
   - work/**/listings.json

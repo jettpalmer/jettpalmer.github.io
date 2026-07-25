@@ -110,11 +110,11 @@ Service
 
 As an elected representative on the Board of Directors of a student association, I authored and passed legislation connected to institutional policy, shared governance, and student experience.
 
-- Resolution on Institutional Growth and "Learn By Doing" Ethos ([Palmer & Ramage, 2026](resolution-2026-institutional-growth-learn-by-doing.pdf)).
-- Resolution to Amend ASI Articles of Incorporation ([Palmer, 2025](resolution-2025-amended-articles-of-incorporation.pdf)).
-- Resolution Calling for Reform of the Course Evaluation Instrument and Processes ([Reyes & Palmer, 2025](resolution-2025-course-evaluation-reform.pdf)).
-- Resolution to Reaffirm Shared Governance ([Palmer & Finch, 2025](resolution-2025-reaffirm-shared-governance.pdf)).
-- Resolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Policy ([Palmer & Prince, 2024](resolution-2024-class-attendance-policy.pdf)).
+- Resolution on Institutional Growth and "Learn By Doing" Ethos ([Palmer & Ramage, 2026](assets/resolutions/resolution-2026-institutional-growth-learn-by-doing.pdf)).
+- Resolution to Amend ASI Articles of Incorporation ([Palmer, 2025](assets/resolutions/resolution-2025-amended-articles-of-incorporation.pdf)).
+- Resolution Calling for Reform of the Course Evaluation Instrument and Processes ([Reyes & Palmer, 2025](assets/resolutions/resolution-2025-course-evaluation-reform.pdf)).
+- Resolution to Reaffirm Shared Governance ([Palmer & Finch, 2025](assets/resolutions/resolution-2025-reaffirm-shared-governance.pdf)).
+- Resolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Policy ([Palmer & Prince, 2024](assets/resolutions/resolution-2024-class-attendance-policy.pdf)).
 
 ### Selected Committees
 
