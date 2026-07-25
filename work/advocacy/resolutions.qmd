@@ -3,7 +3,6 @@ title: "Student Advocacy at Cal Poly"
 description: "A legislative portfolio of student advocacy work focused on shared governance, academic policy, institutional growth, and student representation."
 categories: [Community Engagement, Advocacy, Leadership]
 date: "2026"
-toc: true
 ---
 
 :::: {.project-hero}
@@ -12,7 +11,7 @@ toc: true
 A legislative portfolio of student advocacy work focused on shared governance, academic policy, institutional growth, and student representation.
 
 ::: {.project-links}
-[View ASI Resolutions](https://www.asi.calpoly.edu/discover-asi/public-documents/agendas-minutes/board-of-directors-resolutions/){.btn .btn-primary}
+[View Resolutions](#selected-legislation){.btn .btn-primary}
 :::
 ::::
 
@@ -32,11 +31,11 @@ This page summarizes selected resolutions I helped advance through ASI. Together
 
 | Year | Resolution | Focus |
 |------------------------|------------------------|------------------------|
-| 2026 | [Resolution on Institutional Growth and “Learn By Doing” Ethos](https://www.asi.calpoly.edu/discover-asi/public-documents/agendas-minutes/board-of-directors-resolutions/) | Institutional growth, student experience, and preservation of Cal Poly’s educational mission |
-| 2025 | [Resolution to Amend ASI Articles of Incorporation](https://www.asi.calpoly.edu/wp-content/uploads/2025/05/Resolution-25-10-Amended-Articles-of-Incorporation_BODAppr-1.pdf) | ASI corporate governance and organizational alignment |
-| 2025 | [Resolution Calling for Reform of the Course Evaluation Instrument and Processes](https://www.asi.calpoly.edu/wp-content/uploads/2025/05/Resolution-25-04_Resolution-on-Course-Evaluations.pdf) | Academic feedback systems and student voice in teaching evaluation |
-| 2025 | [Resolution to Reaffirm Shared Governance](https://www.asi.calpoly.edu/wp-content/uploads/2025/04/Resolution25-03_Reaffirm-Shared-Governance.pdf) | Student participation in institutional decision-making |
-| 2024 | [Resolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Policy](https://www.asi.calpoly.edu/wp-content/uploads/2024/03/24-02-Resolution-to-Recommend-an-Amendment-to-the-Cal-Poly-Academic-Senate-Class-Attendance-Policy_BODAppr.pdf) | Academic policy, attendance flexibility, and student-centered governance |
+| 2026 | [Resolution on Institutional Growth and “Learn By Doing” Ethos](../../resolution-2026-institutional-growth-learn-by-doing.pdf) | Institutional growth, student experience, and preservation of Cal Poly’s educational mission |
+| 2025 | [Resolution to Amend ASI Articles of Incorporation](../../resolution-2025-amended-articles-of-incorporation.pdf) | ASI corporate governance and organizational alignment |
+| 2025 | [Resolution Calling for Reform of the Course Evaluation Instrument and Processes](../../resolution-2025-course-evaluation-reform.pdf) | Academic feedback systems and student voice in teaching evaluation |
+| 2025 | [Resolution to Reaffirm Shared Governance](../../resolution-2025-reaffirm-shared-governance.pdf) | Student participation in institutional decision-making |
+| 2024 | [Resolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Policy](../../resolution-2024-class-attendance-policy.pdf) | Academic policy, attendance flexibility, and student-centered governance |
 
 ## Methods & Approach
 
@@ -50,21 +49,21 @@ This work required balancing advocacy with institutional fluency. Strong resolut
 **ASI Resolution Archive**  
 A public archive of ASI Board of Directors resolutions, including legislation I authored and co-authored as an elected student representative.
 
-[View Resolution Archive](https://www.asi.calpoly.edu/discover-asi/public-documents/agendas-minutes/board-of-directors-resolutions/){.btn .btn-primary}
+[View Resolution Archive](#selected-legislation){.btn .btn-primary}
 :::
 
 ::: {.deliverable-card}
 **Highlighted Resolution: Shared Governance**  
 A resolution reaffirming the role of students in shared governance and institutional decision-making at Cal Poly.
 
-[View Resolution](https://www.asi.calpoly.edu/wp-content/uploads/2025/04/Resolution25-03_Reaffirm-Shared-Governance.pdf){.btn .btn-secondary}
+[View Resolution](../../resolution-2025-reaffirm-shared-governance.pdf){.btn .btn-secondary}
 :::
 
 ::: {.deliverable-card}
 **Highlighted Resolution: Institutional Growth and “Learn By Doing” Ethos**  
 A resolution addressing institutional growth and the importance of preserving Cal Poly’s Learn By Doing educational mission as the university evolves.
 
-[View Resolution](https://www.asi.calpoly.edu/discover-asi/public-documents/agendas-minutes/board-of-directors-resolutions/){.btn .btn-secondary}
+[View Resolution](../../resolution-2026-institutional-growth-learn-by-doing.pdf){.btn .btn-secondary}
 :::
 
 ## Skills

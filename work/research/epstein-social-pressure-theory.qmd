@@ -11,7 +11,7 @@ date: "2026"
 Collaborative research manuscript using large-scale survey data, statistical modeling, and visualization to evaluate a formal social pressure theory.
 
 ::: {.project-links}
-[View Manuscript](quantitative-social-pressure-theory.pdf){.btn .btn-primary}
+[View Manuscript](quantitative-social-pressure-manuscript.pdf){.btn .btn-primary}
 :::
 :::
 
@@ -39,7 +39,7 @@ My work centered on translating the research questions into statistical summarie
 **Research Manuscript**  
 A collaborative manuscript submitted for publication. The paper presents statistical and visual evidence from a large international survey dataset to evaluate a formal social pressure theory.
 
-[View Manuscript](quantitative-social-pressure-theory.pdf){.btn .btn-primary}
+[View Manuscript](quantitative-social-pressure-manuscript.pdf){.btn .btn-primary}
 :::
 
 ## Skills

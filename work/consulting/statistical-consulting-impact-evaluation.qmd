@@ -12,7 +12,7 @@ toc: true
 Applied consulting projects where I helped research teams clarify questions, evaluate evidence, and communicate findings.
 
 ::: {.project-links}
-[View Sample Cover Memo](sample-cover-memo.pdf){.btn .btn-primary}
+[View Sample Cover Memo](statistical-consulting-sample-cover-memo.pdf){.btn .btn-primary}
 :::
 :::
 
@@ -53,7 +53,7 @@ These projects required a mix of statistical modeling, study design, survey admi
 **Sample Cover Memo**  
 A full work sample is available upon request.
 
-[View Sample](sample-cover-memo.pdf){.btn .btn-primary}
+[View Sample](statistical-consulting-sample-cover-memo.pdf){.btn .btn-primary}
 :::
 
 ## Skills

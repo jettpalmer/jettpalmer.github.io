@@ -110,11 +110,11 @@ Service
 
 As an elected representative on the Board of Directors of a student association, I authored and passed legislation connected to institutional policy, shared governance, and student experience.
 
-- Resolution on Institutional Growth and "Learn By Doing" Ethos ([Palmer & Ramage, 2026](https://www.asi.calpoly.edu/discover-asi/public-documents/agendas-minutes/board-of-directors-resolutions/)).
-- Resolution to Amend ASI Articles of Incorporation ([Palmer, 2025](https://www.asi.calpoly.edu/wp-content/uploads/2025/05/Resolution-25-10-Amended-Articles-of-Incorporation_BODAppr-1.pdf)).
-- Resolution Calling for Reform of the Course Evaluation Instrument and Processes ([Reyes & Palmer, 2025](https://www.asi.calpoly.edu/wp-content/uploads/2025/05/Resolution-25-04_Resolution-on-Course-Evaluations.pdf)).
-- Resolution to Reaffirm Shared Governance ([Palmer & Finch, 2025](https://www.asi.calpoly.edu/wp-content/uploads/2025/04/Resolution25-03_Reaffirm-Shared-Governance.pdf)).
-- Resolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Policy ([Palmer & Prince, 2024](https://www.asi.calpoly.edu/wp-content/uploads/2024/03/24-02-Resolution-to-Recommend-an-Amendment-to-the-Cal-Poly-Academic-Senate-Class-Attendance-Policy_BODAppr.pdf)).
+- Resolution on Institutional Growth and "Learn By Doing" Ethos ([Palmer & Ramage, 2026](resolution-2026-institutional-growth-learn-by-doing.pdf)).
+- Resolution to Amend ASI Articles of Incorporation ([Palmer, 2025](resolution-2025-amended-articles-of-incorporation.pdf)).
+- Resolution Calling for Reform of the Course Evaluation Instrument and Processes ([Reyes & Palmer, 2025](resolution-2025-course-evaluation-reform.pdf)).
+- Resolution to Reaffirm Shared Governance ([Palmer & Finch, 2025](resolution-2025-reaffirm-shared-governance.pdf)).
+- Resolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Policy ([Palmer & Prince, 2024](resolution-2024-class-attendance-policy.pdf)).
 
 ### Selected Committees
 
