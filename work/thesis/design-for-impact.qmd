@@ -1,24 +1,24 @@
 ---
-title: "Designed For Impact"
+title: "Design For Impact"
 description: "A collaborative scaffolding tool that helps statisticians and domain experts translate evidence into action."
 categories: [Research, Thesis, Statistical Collaboration]
 date: "2026"
 ---
 
 ::: {.project-hero}
-## Designed For Impact
+## Design For Impact
 
 A collaborative scaffolding tool that helps statisticians and domain experts translate evidence into action.
 
 ::: {.project-links}
-[Visit Thesis Website](https://jettpalmer.github.io/designed-for-impact/){.btn .btn-primary}
+[Visit Thesis Website](https://jettpalmer.github.io/design-for-impact/){.btn .btn-primary}
 [Watch Poster Presentation](https://youtu.be/90030Mr532k?si=9AkmEYf4G-TOPX5N){.btn .btn-secondary}
 :::
 :::
 
 ## Executive Summary
 
-*Designed For Impact: The Statistical Collaborator's Workflow* is my master’s thesis project focused on improving how statisticians and domain experts plan for real-world impact in collaborative projects. The project introduces the Designed for Impact Tool, a fillable framework that helps teams align on goals, define a decision-focused intended impact, connect analysis choices to that impact, and communicate results in ways that support action.
+*Design For Impact: The Statistical Collaborator's Workflow* is my master’s thesis project focused on improving how statisticians and domain experts plan for real-world impact in collaborative projects. The project introduces the Design For Impact Tool, a fillable framework that helps teams align on goals, define a decision-focused intended impact, connect analysis choices to that impact, and communicate results in ways that support action.
 
 The work is motivated by a shift in the role of statisticians and data scientists. As technical analysis becomes increasingly automated, the value of a statistical collaborator depends not only on modeling and interpretation, but also on asking better questions, guiding stakeholder decisions, and helping teams translate evidence into action.
 
@@ -30,7 +30,7 @@ The work is motivated by a shift in the role of statisticians and data scientist
 
 ## Methods & Approach
 
-The Designed for Impact Tool builds on established statistical collaboration frameworks, including QQQ and ASCCR, while addressing a gap in how statistical teams plan for impact. Rather than treating impact as something evaluated after analysis is complete, the tool helps collaborators define intended impact at the start of a project and use that definition to guide methodological and communication decisions.
+The Design For Impact Tool builds on established statistical collaboration frameworks, including QQQ and ASCCR, while addressing a gap in how statistical teams plan for impact. Rather than treating impact as something evaluated after analysis is complete, the tool helps collaborators define intended impact at the start of a project and use that definition to guide methodological and communication decisions.
 
 The project combines framework development, applied research design, and mixed methods validation. I developed the tool through an iterative process by soliciting feedback from students and practitioners in computer-aided personal interviews.
 
@@ -38,9 +38,9 @@ The project combines framework development, applied research design, and mixed m
 
 ::: {.deliverable-card}
 **Thesis Website**  
-A public-facing website introducing the Designed for Impact Tool, the motivation behind the project, and the research process supporting the framework.
+A public-facing website introducing the Design For Impact Tool, the motivation behind the project, and the research process supporting the framework.
 
-[Visit Website](https://jettpalmer.github.io/designed-for-impact/){.btn .btn-primary}
+[Visit Website](https://jettpalmer.github.io/design-for-impact/){.btn .btn-primary}
 :::
 
 ::: {.deliverable-card}

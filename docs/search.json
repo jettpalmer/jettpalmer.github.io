@@ -49,51 +49,51 @@
     "text": "Skills\n\nR Instruction Workshop Design Data Communication GitHub Collaboration Exploratory Analysis"
   },
   {
-    "objectID": "work/thesis/designed-for-impact.html",
-    "href": "work/thesis/designed-for-impact.html",
-    "title": "Designed For Impact",
+    "objectID": "work/thesis/design-for-impact.html",
+    "href": "work/thesis/design-for-impact.html",
+    "title": "Design For Impact",
     "section": "",
     "text": "A collaborative scaffolding tool that helps statisticians and domain experts translate evidence into action.\n\nVisit Thesis Website Watch Poster Presentation"
   },
   {
-    "objectID": "work/thesis/designed-for-impact.html#designed-for-impact",
-    "href": "work/thesis/designed-for-impact.html#designed-for-impact",
-    "title": "Designed For Impact",
+    "objectID": "work/thesis/design-for-impact.html#design-for-impact",
+    "href": "work/thesis/design-for-impact.html#design-for-impact",
+    "title": "Design For Impact",
     "section": "",
     "text": "A collaborative scaffolding tool that helps statisticians and domain experts translate evidence into action.\n\nVisit Thesis Website Watch Poster Presentation"
   },
   {
-    "objectID": "work/thesis/designed-for-impact.html#executive-summary",
-    "href": "work/thesis/designed-for-impact.html#executive-summary",
-    "title": "Designed For Impact",
+    "objectID": "work/thesis/design-for-impact.html#executive-summary",
+    "href": "work/thesis/design-for-impact.html#executive-summary",
+    "title": "Design For Impact",
     "section": "Executive Summary",
-    "text": "Executive Summary\nDesigned For Impact: The Statistical Collaborator’s Workflow is my master’s thesis project focused on improving how statisticians and domain experts plan for real-world impact in collaborative projects. The project introduces the Designed for Impact Tool, a fillable framework that helps teams align on goals, define a decision-focused intended impact, connect analysis choices to that impact, and communicate results in ways that support action.\nThe work is motivated by a shift in the role of statisticians and data scientists. As technical analysis becomes increasingly automated, the value of a statistical collaborator depends not only on modeling and interpretation, but also on asking better questions, guiding stakeholder decisions, and helping teams translate evidence into action."
+    "text": "Executive Summary\nDesign For Impact: The Statistical Collaborator’s Workflow is my master’s thesis project focused on improving how statisticians and domain experts plan for real-world impact in collaborative projects. The project introduces the Design For Impact Tool, a fillable framework that helps teams align on goals, define a decision-focused intended impact, connect analysis choices to that impact, and communicate results in ways that support action.\nThe work is motivated by a shift in the role of statisticians and data scientists. As technical analysis becomes increasingly automated, the value of a statistical collaborator depends not only on modeling and interpretation, but also on asking better questions, guiding stakeholder decisions, and helping teams translate evidence into action."
   },
   {
-    "objectID": "work/thesis/designed-for-impact.html#project-highlights",
-    "href": "work/thesis/designed-for-impact.html#project-highlights",
-    "title": "Designed For Impact",
+    "objectID": "work/thesis/design-for-impact.html#project-highlights",
+    "href": "work/thesis/design-for-impact.html#project-highlights",
+    "title": "Design For Impact",
     "section": "Project Highlights",
     "text": "Project Highlights\n\nDeveloped a practical consulting tool that structures early project conversations around vision, partnership, impact, analysis pathway, and narrative.\nExtended existing statistical collaboration frameworks by adding a more explicit structure for planning and assessing impact.\nCoordinated a full research cycle, including framework development, instrument design, research administration, stakeholder-informed iteration, and thesis writing."
   },
   {
-    "objectID": "work/thesis/designed-for-impact.html#methods-approach",
-    "href": "work/thesis/designed-for-impact.html#methods-approach",
-    "title": "Designed For Impact",
+    "objectID": "work/thesis/design-for-impact.html#methods-approach",
+    "href": "work/thesis/design-for-impact.html#methods-approach",
+    "title": "Design For Impact",
     "section": "Methods & Approach",
-    "text": "Methods & Approach\nThe Designed for Impact Tool builds on established statistical collaboration frameworks, including QQQ and ASCCR, while addressing a gap in how statistical teams plan for impact. Rather than treating impact as something evaluated after analysis is complete, the tool helps collaborators define intended impact at the start of a project and use that definition to guide methodological and communication decisions.\nThe project combines framework development, applied research design, and mixed methods validation. I developed the tool through an iterative process by soliciting feedback from students and practitioners in computer-aided personal interviews."
+    "text": "Methods & Approach\nThe Design For Impact Tool builds on established statistical collaboration frameworks, including QQQ and ASCCR, while addressing a gap in how statistical teams plan for impact. Rather than treating impact as something evaluated after analysis is complete, the tool helps collaborators define intended impact at the start of a project and use that definition to guide methodological and communication decisions.\nThe project combines framework development, applied research design, and mixed methods validation. I developed the tool through an iterative process by soliciting feedback from students and practitioners in computer-aided personal interviews."
   },
   {
-    "objectID": "work/thesis/designed-for-impact.html#deliverables",
-    "href": "work/thesis/designed-for-impact.html#deliverables",
-    "title": "Designed For Impact",
+    "objectID": "work/thesis/design-for-impact.html#deliverables",
+    "href": "work/thesis/design-for-impact.html#deliverables",
+    "title": "Design For Impact",
     "section": "Deliverables",
-    "text": "Deliverables\n\nThesis Website\nA public-facing website introducing the Designed for Impact Tool, the motivation behind the project, and the research process supporting the framework.\nVisit Website\n\n\nPoster Presentation\nA recorded eCOTS poster presentation summarizing the motivation, framework, and early research direction for the project.\nWatch Presentation"
+    "text": "Deliverables\n\nThesis Website\nA public-facing website introducing the Design For Impact Tool, the motivation behind the project, and the research process supporting the framework.\nVisit Website\n\n\nPoster Presentation\nA recorded eCOTS poster presentation summarizing the motivation, framework, and early research direction for the project.\nWatch Presentation"
   },
   {
-    "objectID": "work/thesis/designed-for-impact.html#skills",
-    "href": "work/thesis/designed-for-impact.html#skills",
-    "title": "Designed For Impact",
+    "objectID": "work/thesis/design-for-impact.html#skills",
+    "href": "work/thesis/design-for-impact.html#skills",
+    "title": "Design For Impact",
     "section": "Skills",
     "text": "Skills\n\nResearch Design Academic Writing Mixed Methods Research Instrument Design"
   },
@@ -459,14 +459,14 @@
     "href": "work.html#featured-work",
     "title": "Work",
     "section": "Featured Work",
-    "text": "Featured Work\n\n\n\nResearch\n\n\nDesigned For Impact\nA framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.\n\n\n\n\nCoding Projects\n\n\nLIFT\nAn AI-powered operations tool to help a fictitious nonprofit streamline operations, improve reporting, and make more informed resource allocation decisions.\n\n\n\n\nCommunity Engagement\n\n\nNonprofit M&A\nMy work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system."
+    "text": "Featured Work\n\n\n\nResearch\n\n\nDesign For Impact\nA framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.\n\n\n\n\nCoding Projects\n\n\nLIFT\nAn AI-powered operations tool to help a fictitious nonprofit streamline operations, improve reporting, and make more informed resource allocation decisions.\n\n\n\n\nCommunity Engagement\n\n\nNonprofit M&A\nMy work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system."
   },
   {
     "objectID": "work.html#all-work",
     "href": "work.html#all-work",
     "title": "Work",
     "section": "All Work",
-    "text": "All Work\n\nResearch\n\n\n\nThesis\n\n\nDesigned For Impact\nA framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.\n\n\n\n\nConsulting\n\n\nStatistical Consulting\nA consolidated list of consulting engagements across environmental science, health, human factors, sustainability, and more.\n\n\n\n\nPoster\n\n\nGreen Roofs and Environmental Performance\nPoster project using predictive modeling to assess how green roofs influence building temperatures in urban environments.\n\n\n\n\nPoster\n\n\nTelecommunications Churn Strategy\nPoster project using classification models to identify churn risk and translate model results into retention strategy.\n\n\n\n\nResearch\n\n\nPolitical Polling Teaching Article\nJournal article revisiting the 1936 Literary Digest poll as a teaching context for sampling, bias, and statistical reasoning.\n\n\n\n\nResearch\n\n\nQuantitative Social Pressure Theory\nPaper on a quantitative social pressure theory of sexual orientation with a large dataset from multilingual surveys and 92 countries.\n\n\n\n\nResearch\n\n\nComplex Instruction and Pair Programming\nConference proceedings paper on status, equity, and collaboration using a Complex Instruction-informed pedagogy and pair programming.\n\n\n\n\n\nCoding Projects\n\n\n\nBuild\n\n\nLIFT\nAI-powered operations prototype for nonprofit workflows, reporting, and resource allocation support.\n\n\n\n\nBuild\n\n\ndictatR\nR package project containing tools for exploring, visualizing, and analyzing global democracy and dictatorship data.\n\n\n\n\nBuild\n\n\nDemocracy Dashboard\nInteractive dashboard using survival analysis and geospatial visualization to explore democratic transitions across the globe.\n\n\n\n\nClasswork\n\n\nStatistical Machine Learning Repository\nCoursework repository for supervised learning, model assessment, and applied statistical modeling exercises.\n\n\n\n\nClasswork\n\n\nAdvanced R Computing Repository\nCoursework repository focused on R programming, statistical computing, and reproducible workflows.\n\n\n\n\nClasswork\n\n\nIntro to Data Science Repository\nCoursework repository for introductory data wrangling, visualization, and modeling projects.\n\n\n\n\nClasswork\n\n\nData Structures Repository\nCoursework repository for core data structures, algorithmic thinking, and programming fundamentals.\n\n\n\n\n\nCommunity Engagement\n\n\n\nWorkshop\n\n\nIntro to R & DataFest\nPresentation introducing R workflows and practical analysis habits for DataFest participants.\n\n\n\n\nWorkshop\n\n\nData Viz For Nonprofits\nWorkshop on using clear, audience-centered data visuals to communicate nonprofit impact.\n\n\n\n\nLeadership\n\n\nNonprofit M&A\nMy work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system.\n\n\n\n\nAdvocacy\n\n\nStudent Advocacy at Cal Poly\nResolutions on institutional growth, course evaluation reform, shared governance, and Academic Senate policy."
+    "text": "All Work\n\nResearch\n\n\n\nThesis\n\n\nDesign For Impact\nA framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.\n\n\n\n\nConsulting\n\n\nStatistical Consulting\nA consolidated list of consulting engagements across environmental science, health, human factors, sustainability, and more.\n\n\n\n\nPoster\n\n\nGreen Roofs and Environmental Performance\nPoster project using predictive modeling to assess how green roofs influence building temperatures in urban environments.\n\n\n\n\nPoster\n\n\nTelecommunications Churn Strategy\nPoster project using classification models to identify churn risk and translate model results into retention strategy.\n\n\n\n\nResearch\n\n\nPolitical Polling Teaching Article\nJournal article revisiting the 1936 Literary Digest poll as a teaching context for sampling, bias, and statistical reasoning.\n\n\n\n\nResearch\n\n\nQuantitative Social Pressure Theory\nPaper on a quantitative social pressure theory of sexual orientation with a large dataset from multilingual surveys and 92 countries.\n\n\n\n\nResearch\n\n\nComplex Instruction and Pair Programming\nConference proceedings paper on status, equity, and collaboration using a Complex Instruction-informed pedagogy and pair programming.\n\n\n\n\n\nCoding Projects\n\n\n\nBuild\n\n\nLIFT\nAI-powered operations prototype for nonprofit workflows, reporting, and resource allocation support.\n\n\n\n\nBuild\n\n\ndictatR\nR package project containing tools for exploring, visualizing, and analyzing global democracy and dictatorship data.\n\n\n\n\nBuild\n\n\nDemocracy Dashboard\nInteractive dashboard using survival analysis and geospatial visualization to explore democratic transitions across the globe.\n\n\n\n\nClasswork\n\n\nStatistical Machine Learning Repository\nCoursework repository for supervised learning, model assessment, and applied statistical modeling exercises.\n\n\n\n\nClasswork\n\n\nAdvanced R Computing Repository\nCoursework repository focused on R programming, statistical computing, and reproducible workflows.\n\n\n\n\nClasswork\n\n\nIntro to Data Science Repository\nCoursework repository for introductory data wrangling, visualization, and modeling projects.\n\n\n\n\nClasswork\n\n\nData Structures Repository\nCoursework repository for core data structures, algorithmic thinking, and programming fundamentals.\n\n\n\n\n\nCommunity Engagement\n\n\n\nWorkshop\n\n\nIntro to R & DataFest\nPresentation introducing R workflows and practical analysis habits for DataFest participants.\n\n\n\n\nWorkshop\n\n\nData Viz For Nonprofits\nWorkshop on using clear, audience-centered data visuals to communicate nonprofit impact.\n\n\n\n\nLeadership\n\n\nNonprofit M&A\nMy work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system.\n\n\n\n\nAdvocacy\n\n\nStudent Advocacy at Cal Poly\nResolutions on institutional growth, course evaluation reform, shared governance, and Academic Senate policy."
   },
   {
     "objectID": "index.html",
@@ -480,14 +480,14 @@
     "href": "index.html#featured-work",
     "title": "Jett Palmer",
     "section": "Featured Work",
-    "text": "Featured Work\n\n\n\nResearch\n\n\nDesigned For Impact\nA framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.\n\n\n\n\nCoding Projects\n\n\nLIFT\nAn AI-powered operations tool to help a fictitious nonprofit streamline operations, improve service reports, and make more informed resource allocation decisions.\n\n\n\n\nCommunity Engagement\n\n\nNonprofit M&A\nMy work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system."
+    "text": "Featured Work\n\n\n\nResearch\n\n\nDesign For Impact\nA framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.\n\n\n\n\nCoding Projects\n\n\nLIFT\nAn AI-powered operations tool to help a fictitious nonprofit streamline operations, improve service reports, and make more informed resource allocation decisions.\n\n\n\n\nCommunity Engagement\n\n\nNonprofit M&A\nMy work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system."
   },
   {
     "objectID": "index.html#current-focus",
     "href": "index.html#current-focus",
     "title": "Jett Palmer",
     "section": "Current Focus",
-    "text": "Current Focus\nLater this year, I will defend my master’s thesis entitled, Designed For Impact: The Statistical Collaborator’s Workflow. These are the tasks I’m currently working on."
+    "text": "Current Focus\nLater this year, I will defend my master’s thesis entitled, Design For Impact: The Statistical Collaborator’s Workflow. These are the tasks I’m currently working on."
   },
   {
     "objectID": "profile.html",
@@ -515,14 +515,14 @@
     "href": "profile.html#recent-experience",
     "title": "Profile",
     "section": "Recent Experience",
-    "text": "Recent Experience\n\n\n\nResearch & Consulting\n\n\nStatistical Practice\n\nPrincipal Investigator, Designed For Impact: The Statistical Collaborator’s Workflow (2025 - present).\nLead Research Assistant, Authority Constructs in Data Science (2023 - 2025).\nConsulted on projects in agriculture, environmental science, public health, engineering, and higher education.\n\n\n\n\n\nLeadership\n\n\nStrategic Initiatives\n\nChaired a joint task force responsible for developing governance recommendations and advising 26 student leaders through an eight-figure merger of registered nonprofits.\nFacilitated cross-campus collaboration among student leaders and stakeholders, building consensus around a unified governance framework. Learn more about the project here.\n\n\n\n\n\nService\n\n\nCommunity Contributions\n\nAppointed to over fifteen committees and governing bodies at Cal Poly to advise executive administrators on institutional decisions.\nDesigned and hosted workshops for students and local nonprofits on data literacy and statistical tools."
+    "text": "Recent Experience\n\n\n\nResearch & Consulting\n\n\nStatistical Practice\n\nPrincipal Investigator, Design For Impact: The Statistical Collaborator’s Workflow (2025 - present).\nLead Research Assistant, Authority Constructs in Data Science (2023 - 2025).\nConsulted on projects in agriculture, environmental science, public health, engineering, and higher education.\n\n\n\n\n\nLeadership\n\n\nStrategic Initiatives\n\nChaired a joint task force responsible for developing governance recommendations and advising 26 student leaders through an eight-figure merger of registered nonprofits.\nFacilitated cross-campus collaboration among student leaders and stakeholders, building consensus around a unified governance framework. Learn more about the project here.\n\n\n\n\n\nService\n\n\nCommunity Contributions\n\nAppointed to over fifteen committees and governing bodies at Cal Poly to advise executive administrators on institutional decisions.\nDesigned and hosted workshops for students and local nonprofits on data literacy and statistical tools."
   },
   {
     "objectID": "profile.html#scholarship",
     "href": "profile.html#scholarship",
     "title": "Profile",
     "section": "Scholarship",
-    "text": "Scholarship\n\nPublications\n\nAbrash, I., Canner, J., Geam, E., Kan, N., Kuebitz, C., Lopez, E., Palmer, J., Pfeiffer, I., Theobold, A., & Woodard, V. (Proceedings of the International Conference on Teaching Statistics, 2026). Status, equity, and collaboration: A pilot study of Complex Instruction-informed pair programming.\nEpstein, R., Newland, A., Palmer, J., Rajgarhia, A., & Wang, N. Testing a quantitative social pressure theory of sexual orientation with data obtained from 310,144 participants in 92 countries completing surveys in their native languages. Manuscript posted on SSRN, September 24, 2025. https://ssrn.com/abstract=5526418\nChance, B., Kerr, A., & Palmer, J. (2024). Taking the next step in exploring the Literary Digest 1936 poll. Journal of Statistics and Data Science Education, 32(4), 405-415. https://doi.org/10.1080/26939169.2024.2395505\n\n\n\nIn Progress\n\nPalmer, J., Smith, H., & Vance, E. Designed For Impact: The Statistical Collaborator’s Workflow. Learn more about the project here.\n\n\n\nConference Presentations\n\nJoint Statistical Meetings | Contributed Paper Presentation (2026).\ne-Conference on Teaching Statistics | Poster Presentation (2026).\nBailey College of Science & Mathematics Research Conference | Research Talk (2026).\nWestern Psychological Association | Paper Presentation (2025).\ne-Conference on Teaching Statistics | Poster Presentation (2024)."
+    "text": "Scholarship\n\nPublications\n\nAbrash, I., Canner, J., Geam, E., Kan, N., Kuebitz, C., Lopez, E., Palmer, J., Pfeiffer, I., Theobold, A., & Woodard, V. (Proceedings of the International Conference on Teaching Statistics, 2026). Status, equity, and collaboration: A pilot study of Complex Instruction-informed pair programming.\nEpstein, R., Newland, A., Palmer, J., Rajgarhia, A., & Wang, N. Testing a quantitative social pressure theory of sexual orientation with data obtained from 310,144 participants in 92 countries completing surveys in their native languages. Manuscript posted on SSRN, September 24, 2025. https://ssrn.com/abstract=5526418\nChance, B., Kerr, A., & Palmer, J. (2024). Taking the next step in exploring the Literary Digest 1936 poll. Journal of Statistics and Data Science Education, 32(4), 405-415. https://doi.org/10.1080/26939169.2024.2395505\n\n\n\nIn Progress\n\nPalmer, J., Smith, H., & Vance, E. Design For Impact: The Statistical Collaborator’s Workflow. Learn more about the project here.\n\n\n\nConference Presentations\n\nJoint Statistical Meetings | Contributed Paper Presentation (2026).\ne-Conference on Teaching Statistics | Poster Presentation (2026).\nBailey College of Science & Mathematics Research Conference | Research Talk (2026).\nWestern Psychological Association | Paper Presentation (2025).\ne-Conference on Teaching Statistics | Poster Presentation (2024)."
   },
   {
     "objectID": "profile.html#leadership",

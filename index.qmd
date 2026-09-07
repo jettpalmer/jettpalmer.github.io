@@ -36,7 +36,7 @@ Explore my work at the intersection of statistics, AI, and organizational proble
 Research
 :::
 
-### [Designed For Impact](work/thesis/designed-for-impact.qmd)
+### [Design For Impact](work/thesis/design-for-impact.qmd)
 
 A framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.
 ::::
@@ -68,7 +68,7 @@ My work on the organizational restructuring for a historic, eight-figure strateg
 ::: focus-copy
 ## Current Focus
 
-Later this year, I will defend my master's thesis entitled, *Designed For Impact: The Statistical Collaborator's Workflow*. These are the tasks I'm currently working on.
+Later this year, I will defend my master's thesis entitled, *Design For Impact: The Statistical Collaborator's Workflow*. These are the tasks I'm currently working on.
 :::
 
 ::: focus-list

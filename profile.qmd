@@ -54,7 +54,7 @@ Research & Consulting
 
 ### Statistical Practice
 
-- Principal Investigator, [*Designed For Impact: The Statistical Collaborator's Workflow*](work/thesis/designed-for-impact.qmd) (2025 - present).
+- Principal Investigator, [*Design For Impact: The Statistical Collaborator's Workflow*](work/thesis/design-for-impact.qmd) (2025 - present).
 - Lead Research Assistant, [*Authority Constructs in Data Science*](work/research/theobold-complex-instruction-pair-programming.qmd) (2023 - 2025).
 - Consulted on projects in agriculture, environmental science, public health, engineering, and higher education.
 ::::
@@ -94,7 +94,7 @@ Service
 
 ### In Progress
 
-- Palmer, J., Smith, H., & Vance, E. *Designed For Impact: The Statistical Collaborator's Workflow*. Learn more about the project [here](https://jettpalmer.github.io/designed-for-impact/).
+- Palmer, J., Smith, H., & Vance, E. *Design For Impact: The Statistical Collaborator's Workflow*. Learn more about the project [here](https://jettpalmer.github.io/design-for-impact/).
 
 ### Conference Presentations
 

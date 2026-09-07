@@ -61,7 +61,7 @@ Workshops, advocacy, and nonprofit leadership.
 Research
 :::
 
-### [Designed For Impact](work/thesis/designed-for-impact.qmd)
+### [Design For Impact](work/thesis/design-for-impact.qmd)
 
 A framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.
 ::::
@@ -100,7 +100,7 @@ My work on the organizational restructuring for a historic, eight-figure strateg
 Thesis
 :::
 
-### [Designed For Impact](work/thesis/designed-for-impact.qmd)
+### [Design For Impact](work/thesis/design-for-impact.qmd)
 
 A framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.
 ::::
