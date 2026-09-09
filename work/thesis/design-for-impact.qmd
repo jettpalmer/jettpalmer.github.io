@@ -5,20 +5,19 @@ categories: [Research, Thesis, Statistical Collaboration]
 date: "2026"
 ---
 
-::: {.project-hero}
+:::: project-hero
 ## Design For Impact
 
 A collaborative scaffolding tool that helps statisticians and domain experts translate evidence into action.
 
-::: {.project-links}
-[Visit Thesis Website](https://jettpalmer.github.io/design-for-impact/){.btn .btn-primary}
-[Watch Poster Presentation](https://youtu.be/90030Mr532k?si=9AkmEYf4G-TOPX5N){.btn .btn-secondary}
+::: project-links
+[Visit Thesis Website](https://jettpalmer.github.io/design-for-impact/){.btn .btn-primary} [Watch Poster Presentation](https://youtu.be/90030Mr532k?si=9AkmEYf4G-TOPX5N){.btn .btn-secondary}
 :::
-:::
+::::
 
 ## Executive Summary
 
-*Design For Impact: The Statistical Collaborator's Workflow* is my master’s thesis project focused on improving how statisticians and domain experts plan for real-world impact in collaborative projects. The project introduces the Design For Impact Tool, a fillable framework that helps teams align on goals, define a decision-focused intended impact, connect analysis choices to that impact, and communicate results in ways that support action.
+*Design For Impact: The Statistical Collaborator's Workflow* is my master’s thesis project focused on improving how statisticians and domain experts plan for real-world impact in collaborative projects. The project introduces the Design For Impact Tool, a fillable artifact that helps teams align on goals, define a decision-focused intended impact, connect analysis choices to that impact, and communicate results in ways that support action.
 
 The work is motivated by a shift in the role of statisticians and data scientists. As technical analysis becomes increasingly automated, the value of a statistical collaborator depends not only on modeling and interpretation, but also on asking better questions, guiding stakeholder decisions, and helping teams translate evidence into action.
 
@@ -26,7 +25,8 @@ The work is motivated by a shift in the role of statisticians and data scientist
 
 - Developed a practical consulting tool that structures early project conversations around vision, partnership, impact, analysis pathway, and narrative.
 - Extended existing statistical collaboration frameworks by adding a more explicit structure for planning and assessing impact.
-- Coordinated a full research cycle, including framework development, instrument design, research administration, stakeholder-informed iteration, and thesis writing.
+- Coordinated a full research cycle, including process model development, instrument design, research administration, stakeholder-informed iteration, and thesis writing.
+- Awarded **Best Contributed Talk In Consulting** at the 2026 Joint Statistical Meetings.
 
 ## Methods & Approach
 
@@ -36,15 +36,15 @@ The project combines framework development, applied research design, and mixed m
 
 ## Deliverables
 
-::: {.deliverable-card}
-**Thesis Website**  
-A public-facing website introducing the Design For Impact Tool, the motivation behind the project, and the research process supporting the framework.
+::: deliverable-card
+**Thesis Website**\
+A public-facing website introducing the Design For Impact Tool, the motivation behind the project, and the research process supporting the model.
 
 [Visit Website](https://jettpalmer.github.io/design-for-impact/){.btn .btn-primary}
 :::
 
-::: {.deliverable-card}
-**Poster Presentation**  
+::: deliverable-card
+**Poster Presentation**\
 A recorded eCOTS poster presentation summarizing the motivation, framework, and early research direction for the project.
 
 [Watch Presentation](https://youtu.be/90030Mr532k?si=9AkmEYf4G-TOPX5N){.btn .btn-secondary}
@@ -52,6 +52,6 @@ A recorded eCOTS poster presentation summarizing the motivation, framework, and 
 
 ## Skills
 
-::: {.skill-tags}
+::: skill-tags
 `Research Design` `Academic Writing` `Mixed Methods Research` `Instrument Design`
 :::

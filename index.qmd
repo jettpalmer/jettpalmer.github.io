@@ -14,7 +14,7 @@ Applied Statistics \| AI \| Consulting
 
 # Hi, I'm [Jett]{.hero-name}.
 
-Explore my work at the intersection of statistics, AI, and organizational problem-solving.
+Explore my work at the intersection of statistics, AI implementation, and organizational problem-solving.
 
 ::: button-row
 [Learn more about me](profile.qmd){.btn .btn-primary} [Explore my work](work.qmd){.btn .btn-primary}
@@ -38,7 +38,7 @@ Research
 
 ### [Design For Impact](work/thesis/design-for-impact.qmd)
 
-A framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.
+A model that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.
 ::::
 
 :::: work-card
@@ -72,10 +72,9 @@ Later this year, I will defend my master's thesis entitled, *Design For Impact: 
 :::
 
 ::: focus-list
-- Analyzing results from our framework validation research.
-- Writing a full-length thesis to defend this fall.
-- Authoring a peer-reviewed paper to accompany the thesis.
-- Preparing a contributed talk for the 2026 Joint Statistical Meetings.
+- Analyzing results from our process model validation research.
+- Polishing a full-length thesis to defend this fall.
+- Authoring a peer-reviewed paper and short course to accompany the thesis.
 :::
 :::::
 ::::::

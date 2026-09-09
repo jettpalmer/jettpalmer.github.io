@@ -67,14 +67,14 @@
     "href": "work/thesis/design-for-impact.html#executive-summary",
     "title": "Design For Impact",
     "section": "Executive Summary",
-    "text": "Executive Summary\nDesign For Impact: The Statistical Collaborator’s Workflow is my master’s thesis project focused on improving how statisticians and domain experts plan for real-world impact in collaborative projects. The project introduces the Design For Impact Tool, a fillable framework that helps teams align on goals, define a decision-focused intended impact, connect analysis choices to that impact, and communicate results in ways that support action.\nThe work is motivated by a shift in the role of statisticians and data scientists. As technical analysis becomes increasingly automated, the value of a statistical collaborator depends not only on modeling and interpretation, but also on asking better questions, guiding stakeholder decisions, and helping teams translate evidence into action."
+    "text": "Executive Summary\nDesign For Impact: The Statistical Collaborator’s Workflow is my master’s thesis project focused on improving how statisticians and domain experts plan for real-world impact in collaborative projects. The project introduces the Design For Impact Tool, a fillable artifact that helps teams align on goals, define a decision-focused intended impact, connect analysis choices to that impact, and communicate results in ways that support action.\nThe work is motivated by a shift in the role of statisticians and data scientists. As technical analysis becomes increasingly automated, the value of a statistical collaborator depends not only on modeling and interpretation, but also on asking better questions, guiding stakeholder decisions, and helping teams translate evidence into action."
   },
   {
     "objectID": "work/thesis/design-for-impact.html#project-highlights",
     "href": "work/thesis/design-for-impact.html#project-highlights",
     "title": "Design For Impact",
     "section": "Project Highlights",
-    "text": "Project Highlights\n\nDeveloped a practical consulting tool that structures early project conversations around vision, partnership, impact, analysis pathway, and narrative.\nExtended existing statistical collaboration frameworks by adding a more explicit structure for planning and assessing impact.\nCoordinated a full research cycle, including framework development, instrument design, research administration, stakeholder-informed iteration, and thesis writing."
+    "text": "Project Highlights\n\nDeveloped a practical consulting tool that structures early project conversations around vision, partnership, impact, analysis pathway, and narrative.\nExtended existing statistical collaboration frameworks by adding a more explicit structure for planning and assessing impact.\nCoordinated a full research cycle, including process model development, instrument design, research administration, stakeholder-informed iteration, and thesis writing.\nAwarded Best Contributed Talk In Consulting at the 2026 Joint Statistical Meetings."
   },
   {
     "objectID": "work/thesis/design-for-impact.html#methods-approach",
@@ -88,7 +88,7 @@
     "href": "work/thesis/design-for-impact.html#deliverables",
     "title": "Design For Impact",
     "section": "Deliverables",
-    "text": "Deliverables\n\nThesis Website\nA public-facing website introducing the Design For Impact Tool, the motivation behind the project, and the research process supporting the framework.\nVisit Website\n\n\nPoster Presentation\nA recorded eCOTS poster presentation summarizing the motivation, framework, and early research direction for the project.\nWatch Presentation"
+    "text": "Deliverables\n\nThesis Website\nA public-facing website introducing the Design For Impact Tool, the motivation behind the project, and the research process supporting the model.\nVisit Website\n\n\nPoster Presentation\nA recorded eCOTS poster presentation summarizing the motivation, framework, and early research direction for the project.\nWatch Presentation"
   },
   {
     "objectID": "work/thesis/design-for-impact.html#skills",
@@ -473,14 +473,14 @@
     "href": "index.html",
     "title": "Jett Palmer",
     "section": "",
-    "text": "Applied Statistics | AI | Consulting\n\n\n\nExplore my work at the intersection of statistics, AI, and organizational problem-solving.\n\nLearn more about me Explore my work"
+    "text": "Applied Statistics | AI | Consulting\n\n\n\nExplore my work at the intersection of statistics, AI implementation, and organizational problem-solving.\n\nLearn more about me Explore my work"
   },
   {
     "objectID": "index.html#featured-work",
     "href": "index.html#featured-work",
     "title": "Jett Palmer",
     "section": "Featured Work",
-    "text": "Featured Work\n\n\n\nResearch\n\n\nDesign For Impact\nA framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.\n\n\n\n\nCoding Projects\n\n\nLIFT\nAn AI-powered operations tool to help a fictitious nonprofit streamline operations, improve service reports, and make more informed resource allocation decisions.\n\n\n\n\nCommunity Engagement\n\n\nNonprofit M&A\nMy work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system."
+    "text": "Featured Work\n\n\n\nResearch\n\n\nDesign For Impact\nA model that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.\n\n\n\n\nCoding Projects\n\n\nLIFT\nAn AI-powered operations tool to help a fictitious nonprofit streamline operations, improve service reports, and make more informed resource allocation decisions.\n\n\n\n\nCommunity Engagement\n\n\nNonprofit M&A\nMy work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system."
   },
   {
     "objectID": "index.html#current-focus",
