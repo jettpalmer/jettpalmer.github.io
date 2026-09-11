@@ -20,10 +20,6 @@ Explore my educational background, research projects, and leadership activities.
 :::::
 ::::::
 
-## About
-
-I use statistics to help organizations define problems, make evidence-based decisions, and communicate their impact.
-
 ## Education
 
 ::::: timeline
