@@ -151,4 +151,4 @@ Meta Ethics; Science, Ethics, and Technology; Philosophy of Science.
 
 ## Resume
 
-[Download Resume](jett-palmer-resume-sept-2026-website.pdf){.btn .btn-primary}
+[Download Resume](jett-palmer-resume-website.pdf){.btn .btn-primary}
