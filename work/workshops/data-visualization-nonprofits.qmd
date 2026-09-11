@@ -1,7 +1,7 @@
 ---
 title: "Data Viz for Nonprofits"
 description: "Workshop materials helping nonprofit teams collect, explore, and communicate data in ways that elevate community impact."
-categories: [Community Engagement, Data Visualization, Nonprofits]
+categories: [Leadership, Data Visualization, Nonprofits]
 date: "2025"
 ---
 
@@ -45,5 +45,5 @@ A slide deck introducing nonprofit teams to data collection, exploration, and vi
 ## Skills
 
 ::: {.skill-tags}
-`Data Visualization` `Workshop Design` `Nonprofit Support` `Data Collection` `Community Engagement`
+`Data Visualization` `Workshop Design` `Nonprofit Support` `Data Collection` `Leadership`
 :::

@@ -12,7 +12,7 @@ Portfolio
 
 # Explore my work.
 
-Browse my research, coding projects, and community engagement.
+Browse my research, coding projects, and leadership work.
 ::::
 
 :::::::::: section-block
@@ -44,9 +44,9 @@ AI tools, dashboards, packages, and classwork repositories.
 03
 :::
 
-### [Community Engagement](#community-engagement) {#category-community-engagement}
+### [Leadership](#leadership) {#category-leadership}
 
-Workshops, advocacy, and nonprofit leadership.
+Workshops, advocacy, and nonprofit work.
 ::::
 :::::::::
 ::::::::::
@@ -63,7 +63,7 @@ Research
 
 ### [Design For Impact](work/thesis/design-for-impact.qmd)
 
-A model that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.
+A tool that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.
 ::::
 
 :::: work-card
@@ -78,7 +78,7 @@ An AI-powered operations tool to help a fictitious nonprofit streamline operatio
 
 :::: work-card
 ::: card-kicker
-Community Engagement
+Leadership
 :::
 
 ### [Nonprofit M&A](work/leadership/maritime-integration.qmd)
@@ -102,7 +102,7 @@ Thesis
 
 ### [Design For Impact](work/thesis/design-for-impact.qmd)
 
-A framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.
+A tool that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.
 ::::
 
 :::: work-card
@@ -240,7 +240,7 @@ Coursework repository for core data structures, algorithmic thinking, and progra
 ::::
 :::::::::::::::::
 
-### Community Engagement {#community-engagement}
+### Leadership {#leadership}
 
 ::::::::::: {.card-grid .cards-3}
 :::: work-card
@@ -265,7 +265,7 @@ Workshop on using clear, audience-centered data visuals to communicate nonprofit
 
 :::: work-card
 ::: card-kicker
-Leadership
+Service
 :::
 
 ### [Nonprofit M&A](work/leadership/maritime-integration.qmd)

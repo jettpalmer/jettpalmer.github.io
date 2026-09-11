@@ -445,42 +445,42 @@
     "href": "work.html",
     "title": "Work",
     "section": "",
-    "text": "Portfolio\n\n\n\nBrowse my research, coding projects, and community engagement."
+    "text": "Portfolio\n\n\n\nBrowse my research, coding projects, and leadership work."
   },
   {
     "objectID": "work.html#start-by-category",
     "href": "work.html#start-by-category",
     "title": "Work",
     "section": "Start by Category",
-    "text": "Start by Category\n\n\n\n01\n\n\nResearch\nApplied research, consulting projects, posters, and publications.\n\n\n\n\n02\n\n\nCoding Projects\nAI tools, dashboards, packages, and classwork repositories.\n\n\n\n\n03\n\n\nCommunity Engagement\nWorkshops, advocacy, and nonprofit leadership."
+    "text": "Start by Category\n\n\n\n01\n\n\nResearch\nApplied research, consulting projects, posters, and publications.\n\n\n\n\n02\n\n\nCoding Projects\nAI tools, dashboards, packages, and classwork repositories.\n\n\n\n\n03\n\n\nLeadership\nWorkshops, advocacy, and nonprofit work."
   },
   {
     "objectID": "work.html#featured-work",
     "href": "work.html#featured-work",
     "title": "Work",
     "section": "Featured Work",
-    "text": "Featured Work\n\n\n\nResearch\n\n\nDesign For Impact\nA model that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.\n\n\n\n\nCoding Projects\n\n\nLIFT\nAn AI-powered operations tool to help a fictitious nonprofit streamline operations, improve reporting, and make more informed resource allocation decisions.\n\n\n\n\nCommunity Engagement\n\n\nNonprofit M&A\nMy work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system."
+    "text": "Featured Work\n\n\n\nResearch\n\n\nDesign For Impact\nA tool that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.\n\n\n\n\nCoding Projects\n\n\nLIFT\nAn AI-powered operations tool to help a fictitious nonprofit streamline operations, improve reporting, and make more informed resource allocation decisions.\n\n\n\n\nLeadership\n\n\nNonprofit M&A\nMy work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system."
   },
   {
     "objectID": "work.html#all-work",
     "href": "work.html#all-work",
     "title": "Work",
     "section": "All Work",
-    "text": "All Work\n\nResearch\n\n\n\nThesis\n\n\nDesign For Impact\nA framework that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.\n\n\n\n\nConsulting\n\n\nStatistical Consulting\nA consolidated list of consulting engagements across environmental science, health, human factors, sustainability, and more.\n\n\n\n\nPoster\n\n\nGreen Roofs and Environmental Performance\nPoster project using predictive modeling to assess how green roofs influence building temperatures in urban environments.\n\n\n\n\nPoster\n\n\nTelecommunications Churn Strategy\nPoster project using classification models to identify churn risk and translate model results into retention strategy.\n\n\n\n\nResearch\n\n\nPolitical Polling Teaching Article\nJournal article revisiting the 1936 Literary Digest poll as a teaching context for sampling, bias, and statistical reasoning.\n\n\n\n\nResearch\n\n\nQuantitative Social Pressure Theory\nPaper on a quantitative social pressure theory of sexual orientation with a large dataset from multilingual surveys and 92 countries.\n\n\n\n\nResearch\n\n\nComplex Instruction and Pair Programming\nConference proceedings paper on status, equity, and collaboration using a Complex Instruction-informed pedagogy and pair programming.\n\n\n\n\n\nCoding Projects\n\n\n\nBuild\n\n\nLIFT\nAI-powered operations prototype for nonprofit workflows, reporting, and resource allocation support.\n\n\n\n\nBuild\n\n\ndictatR\nR package project containing tools for exploring, visualizing, and analyzing global democracy and dictatorship data.\n\n\n\n\nBuild\n\n\nDemocracy Dashboard\nInteractive dashboard using survival analysis and geospatial visualization to explore democratic transitions across the globe.\n\n\n\n\nClasswork\n\n\nStatistical Machine Learning Repository\nCoursework repository for supervised learning, model assessment, and applied statistical modeling exercises.\n\n\n\n\nClasswork\n\n\nAdvanced R Computing Repository\nCoursework repository focused on R programming, statistical computing, and reproducible workflows.\n\n\n\n\nClasswork\n\n\nIntro to Data Science Repository\nCoursework repository for introductory data wrangling, visualization, and modeling projects.\n\n\n\n\nClasswork\n\n\nData Structures Repository\nCoursework repository for core data structures, algorithmic thinking, and programming fundamentals.\n\n\n\n\n\nCommunity Engagement\n\n\n\nWorkshop\n\n\nIntro to R & DataFest\nPresentation introducing R workflows and practical analysis habits for DataFest participants.\n\n\n\n\nWorkshop\n\n\nData Viz For Nonprofits\nWorkshop on using clear, audience-centered data visuals to communicate nonprofit impact.\n\n\n\n\nLeadership\n\n\nNonprofit M&A\nMy work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system.\n\n\n\n\nAdvocacy\n\n\nStudent Advocacy at Cal Poly\nResolutions on institutional growth, course evaluation reform, shared governance, and Academic Senate policy."
+    "text": "All Work\n\nResearch\n\n\n\nThesis\n\n\nDesign For Impact\nA tool that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.\n\n\n\n\nConsulting\n\n\nStatistical Consulting\nA consolidated list of consulting engagements across environmental science, health, human factors, sustainability, and more.\n\n\n\n\nPoster\n\n\nGreen Roofs and Environmental Performance\nPoster project using predictive modeling to assess how green roofs influence building temperatures in urban environments.\n\n\n\n\nPoster\n\n\nTelecommunications Churn Strategy\nPoster project using classification models to identify churn risk and translate model results into retention strategy.\n\n\n\n\nResearch\n\n\nPolitical Polling Teaching Article\nJournal article revisiting the 1936 Literary Digest poll as a teaching context for sampling, bias, and statistical reasoning.\n\n\n\n\nResearch\n\n\nQuantitative Social Pressure Theory\nPaper on a quantitative social pressure theory of sexual orientation with a large dataset from multilingual surveys and 92 countries.\n\n\n\n\nResearch\n\n\nComplex Instruction and Pair Programming\nConference proceedings paper on status, equity, and collaboration using a Complex Instruction-informed pedagogy and pair programming.\n\n\n\n\n\nCoding Projects\n\n\n\nBuild\n\n\nLIFT\nAI-powered operations prototype for nonprofit workflows, reporting, and resource allocation support.\n\n\n\n\nBuild\n\n\ndictatR\nR package project containing tools for exploring, visualizing, and analyzing global democracy and dictatorship data.\n\n\n\n\nBuild\n\n\nDemocracy Dashboard\nInteractive dashboard using survival analysis and geospatial visualization to explore democratic transitions across the globe.\n\n\n\n\nClasswork\n\n\nStatistical Machine Learning Repository\nCoursework repository for supervised learning, model assessment, and applied statistical modeling exercises.\n\n\n\n\nClasswork\n\n\nAdvanced R Computing Repository\nCoursework repository focused on R programming, statistical computing, and reproducible workflows.\n\n\n\n\nClasswork\n\n\nIntro to Data Science Repository\nCoursework repository for introductory data wrangling, visualization, and modeling projects.\n\n\n\n\nClasswork\n\n\nData Structures Repository\nCoursework repository for core data structures, algorithmic thinking, and programming fundamentals.\n\n\n\n\n\nLeadership\n\n\n\nWorkshop\n\n\nIntro to R & DataFest\nPresentation introducing R workflows and practical analysis habits for DataFest participants.\n\n\n\n\nWorkshop\n\n\nData Viz For Nonprofits\nWorkshop on using clear, audience-centered data visuals to communicate nonprofit impact.\n\n\n\n\nService\n\n\nNonprofit M&A\nMy work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system.\n\n\n\n\nAdvocacy\n\n\nStudent Advocacy at Cal Poly\nResolutions on institutional growth, course evaluation reform, shared governance, and Academic Senate policy."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jett Palmer",
     "section": "",
-    "text": "Applied Statistics | AI | Consulting\n\n\n\nExplore my work at the intersection of statistics, AI implementation, and organizational problem-solving.\n\nLearn more about me Explore my work"
+    "text": "Data Analyst | Consultant\n\n\n\nExplore my work at the intersection of statistics and organizational problem solving.\n\nLearn more about me Explore my work"
   },
   {
     "objectID": "index.html#featured-work",
     "href": "index.html#featured-work",
     "title": "Jett Palmer",
     "section": "Featured Work",
-    "text": "Featured Work\n\n\n\nResearch\n\n\nDesign For Impact\nA model that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.\n\n\n\n\nCoding Projects\n\n\nLIFT\nAn AI-powered operations tool to help a fictitious nonprofit streamline operations, improve service reports, and make more informed resource allocation decisions.\n\n\n\n\nCommunity Engagement\n\n\nNonprofit M&A\nMy work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system."
+    "text": "Featured Work\n\n\n\nResearch\n\n\nDesign For Impact\nA tool that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.\n\n\n\n\nCoding Projects\n\n\nLIFT\nAn AI-powered operations tool to help a fictitious nonprofit streamline operations, improve service reports, and make more informed resource allocation decisions.\n\n\n\n\nLeadership\n\n\nNonprofit M&A\nMy work on the organizational restructuring for a historic, eight-figure strategic initiative in the California higher education system."
   },
   {
     "objectID": "index.html#current-focus",
@@ -501,7 +501,7 @@
     "href": "profile.html#about",
     "title": "Profile",
     "section": "About",
-    "text": "About\nI work at the intersection of statistics, AI implementation, and organizational strategy. With a background in statistical consulting and collaboration, I use data to help teams quickly define and navigate their toughest problems. My natural curiosity lets me learn new domains quickly and implement solutions that are grounded in the client’s mission.\nMaximizing and communicating impact is the central topic of my research. Learn more about the project here."
+    "text": "About\nI use statistics to help organizations define problems, make evidence-based decisions, and communicate their impact."
   },
   {
     "objectID": "profile.html#education",
@@ -515,7 +515,7 @@
     "href": "profile.html#recent-experience",
     "title": "Profile",
     "section": "Recent Experience",
-    "text": "Recent Experience\n\n\n\nResearch & Consulting\n\n\nStatistical Practice\n\nPrincipal Investigator, Design For Impact: The Statistical Collaborator’s Workflow (2025 - present).\nLead Research Assistant, Authority Constructs in Data Science (2023 - 2025).\nConsulted on projects in agriculture, environmental science, public health, engineering, and higher education.\n\n\n\n\n\nLeadership\n\n\nStrategic Initiatives\n\nChaired a joint task force responsible for developing governance recommendations and advising 26 student leaders through an eight-figure merger of registered nonprofits.\nFacilitated cross-campus collaboration among student leaders and stakeholders, building consensus around a unified governance framework. Learn more about the project here.\n\n\n\n\n\nService\n\n\nCommunity Contributions\n\nAppointed to over fifteen committees and governing bodies at Cal Poly to advise executive administrators on institutional decisions.\nDesigned and hosted workshops for students and local nonprofits on data literacy and statistical tools."
+    "text": "Recent Experience\n\n\n\nResearch & Consulting\n\n\nResearch & Analytics\n\nPrincipal Investigator, Design For Impact: The Statistical Collaborator’s Workflow (2025 - present).\nResearch Assistant, Various Publications, Cal Poly, San Luis Obispo (2022 - 2026): Chance, Kerr, & Palmer (2024) and Abrash et al. (2026).\nData Analyst Intern, Cross-Cultural Heteronormativity, American Institute of Behavioral Research & Technology (2024 - 2025).\n\n\n\n\n\nLeadership\n\n\nASI Board of Directors\n\nChaired two strategic-initiative task forces, advising the board on policy and a $20 million nonprofit merger.\nInaugural winner of the Use Your Voice Scholarship (2023) and Champion Award (2026).\n\n\n\n\n\nService\n\n\nLeadership\n\nAppointed to over fifteen committees and governing bodies at Cal Poly to advise executive administrators on institutional decisions.\nDesigned and hosted workshops for students and local nonprofits on data literacy and statistical tools."
   },
   {
     "objectID": "profile.html#scholarship",
@@ -536,7 +536,7 @@
     "href": "profile.html#awards",
     "title": "Profile",
     "section": "Awards",
-    "text": "Awards\n\nChampion Award, ASI Board of Directors (2026).\nMichael Koehn Scholarship (Finalist), Cal Poly University Housing (2026).\nBest Use of External Data, ASA DataFest at Cal Poly (2025).\nKathy Storelli “Use Your Voice” Scholarship, ASI Student Government (2024).\nBest Visualization, ASA DataFest at Cal Poly (2024).\nJoyce Curry-Daly and James Daly Scholarship, Cal Poly Statistics Department (2023).\nOutstanding Character and Communication Scholarship, North County Education Fund (2022)."
+    "text": "Awards\n\nBest Contributed Talk in Consulting, Joint Statistical Meetings (2026).\nChampion Award, ASI Board of Directors (2026).\nMichael Koehn Scholarship (Finalist), Cal Poly University Housing (2026).\nBest Use of External Data, ASA DataFest at Cal Poly (2025).\nKathy Storelli “Use Your Voice” Scholarship, ASI Student Government (2024).\nBest Visualization, ASA DataFest at Cal Poly (2024).\nJoyce Curry-Daly and James Daly Scholarship, Cal Poly Statistics Department (2023).\nOutstanding Character and Communication Scholarship, North County Education Fund (2022)."
   },
   {
     "objectID": "profile.html#selected-coursework",
@@ -550,7 +550,7 @@
     "href": "profile.html#resume",
     "title": "Profile",
     "section": "Resume",
-    "text": "Resume\nDownload Resume"
+    "text": "Resume\nDownload Resume (September 2026)"
   },
   {
     "objectID": "work/advocacy/resolutions.html",
@@ -1005,6 +1005,13 @@
     "href": "work/workshops/data-visualization-nonprofits.html#skills",
     "title": "Data Viz for Nonprofits",
     "section": "Skills",
-    "text": "Skills\n\nData Visualization Workshop Design Nonprofit Support Data Collection Community Engagement"
+    "text": "Skills\n\nData Visualization Workshop Design Nonprofit Support Data Collection Leadership"
+  },
+  {
+    "objectID": "profile.html#leadership-1",
+    "href": "profile.html#leadership-1",
+    "title": "Profile",
+    "section": "Leadership",
+    "text": "Leadership\n\nGovernance Work\nAs an elected representative on the Board of Directors of a student association, I authored and passed legislation connected to institutional policy, shared governance, and student experience.\n\nResolution on Institutional Growth and “Learn By Doing” Ethos (Palmer & Ramage, 2026).\nResolution to Amend ASI Articles of Incorporation (Palmer, 2025).\nResolution Calling for Reform of the Course Evaluation Instrument and Processes (Reyes & Palmer, 2025).\nResolution to Reaffirm Shared Governance (Palmer & Finch, 2025).\nResolution to Recommend an Amendment to the Cal Poly Academic Senate Class Attendance Policy (Palmer & Prince, 2024).\n\n\n\nSelected Committees\n\nASI Cal Maritime Integration Ad Hoc Committee, Chair (2025-2026).\nArtificial Intelligence Student Success Advisory Group (2025-2026).\nDistinguished Teaching Award Committee (2024-2026).\nAcademic Senate: Student Perceptions of Teaching Effectiveness Ad Hoc Committee (2025-2026).\nAcademic Senate and Academic Senate Executive Committee (2024-2025).\nInternal Review Committee, Chair (2023-2025).\nCampus Administrative Policy Committee (2023-2025).\nStudent Success Fee Allocation Committee (2023-2024)."
   }
 ]

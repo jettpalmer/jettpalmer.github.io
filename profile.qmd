@@ -22,9 +22,7 @@ Explore my educational background, research projects, and leadership activities.
 
 ## About
 
-I work at the intersection of statistics, AI implementation, and organizational strategy. With a background in statistical consulting and collaboration, I use data to help teams quickly define and navigate their toughest problems. My natural curiosity lets me learn new domains quickly and implement solutions that are grounded in the client's mission.
-
-Maximizing and communicating impact is the central topic of my research. Learn more about the project [here](#0).
+I use statistics to help organizations define problems, make evidence-based decisions, and communicate their impact.
 
 ## Education
 
@@ -46,41 +44,30 @@ Maximizing and communicating impact is the central topic of my research. Learn m
 
 ## Recent Experience
 
-::::::::: {.card-grid .cards-3}
-:::: work-card
-::: card-kicker
-Research & Consulting
-:::
-
-### Statistical Practice
+:::::: {.card-grid .cards-3}
+::: work-card
+### Research
 
 - Principal Investigator, [*Design For Impact: The Statistical Collaborator's Workflow*](work/thesis/design-for-impact.qmd) (2025 - present).
-- Lead Research Assistant, [*Authority Constructs in Data Science*](work/research/theobold-complex-instruction-pair-programming.qmd) (2023 - 2025).
-- Consulted on projects in agriculture, environmental science, public health, engineering, and higher education.
-::::
-
-:::: work-card
-::: card-kicker
-Leadership
+- Research Assistant, Various Publications, Cal Poly, San Luis Obispo (2022 - 2026): [Chance, Kerr, & Palmer (2024)](work/research/chance-literary-digest-poll.qmd) and [Abrash et al. (2026)](work/research/theobold-complex-instruction-pair-programming.qmd).
+- Data Analyst Intern, Cross-Cultural Heteronormativity, American Institute of Behavioral Research & Technology (2024 - 2025).
 :::
 
-### Strategic Initiatives
+::: work-card
+### Leadership
 
-- Chaired a joint task force responsible for developing governance recommendations and advising 26 student leaders through an eight-figure merger of registered nonprofits.
-- Facilitated cross-campus collaboration among student leaders and stakeholders, building consensus around a unified governance framework. Learn more about the project [here](work/leadership/maritime-integration.qmd).
-::::
-
-:::: work-card
-::: card-kicker
-Service
+- Associated Students, Inc. Board of Directors from 2023-2026.
+- Chaired two strategic-initiative task forces, advising the board on policy and a \$20 million nonprofit merger.
+- Inaugural winner of the Use Your Voice Scholarship (2023) and Champion Award (2026).
 :::
 
-### Community Contributions
+::: work-card
+### Community Engagement {#service-leadership}
 
 - Appointed to over fifteen committees and governing bodies at Cal Poly to advise executive administrators on institutional decisions.
 - Designed and hosted workshops for students and local nonprofits on data literacy and statistical tools.
-::::
-:::::::::
+:::
+::::::
 
 ## Scholarship
 
@@ -129,6 +116,7 @@ As an elected representative on the Board of Directors of a student association,
 
 ## Awards
 
+- Best Contributed Talk in Consulting, Joint Statistical Meetings (2026).
 - Champion Award, ASI Board of Directors (2026).
 - Michael Koehn Scholarship (Finalist), Cal Poly University Housing (2026).
 - Best Use of External Data, ASA DataFest at Cal Poly (2025).
@@ -167,4 +155,4 @@ Meta Ethics; Science, Ethics, and Technology; Philosophy of Science.
 
 ## Resume
 
-[Download Resume](jett-palmer-resume.pdf){.btn .btn-primary}
+[Download Resume](jett-palmer-resume-sept-2026-website.pdf){.btn .btn-primary}

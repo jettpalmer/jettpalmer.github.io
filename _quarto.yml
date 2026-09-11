@@ -9,7 +9,7 @@ project:
 
 resources:
   - styles.css
-  - jett-palmer-resume.pdf
+  - jett-palmer-resume-sept-2026-website.pdf
   - coffee_shop_wide.JPG
   - assets/**
   - work/**/listings.json

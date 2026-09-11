@@ -1,7 +1,7 @@
 ---
 title: "Intro to R & DataFest Prep"
 description: "Workshop materials helping students prepare for DataFest through R collaboration, exploratory analysis, and presentation strategy."
-categories: [Community Engagement, Teaching, R]
+categories: [Leadership, Teaching, R]
 date: "2026"
 ---
 

@@ -9,12 +9,12 @@ toc: false
 ::::::: home-hero__inner
 ::::: home-hero__content
 ::: eyebrow
-Applied Statistics \| AI \| Consulting
+Data Analyst \| Consultant
 :::
 
 # Hi, I'm [Jett]{.hero-name}.
 
-Explore my work at the intersection of statistics, AI implementation, and organizational problem-solving.
+Explore my work at the intersection of statistics and organizational problem solving.
 
 ::: button-row
 [Learn more about me](profile.qmd){.btn .btn-primary} [Explore my work](work.qmd){.btn .btn-primary}
@@ -38,7 +38,7 @@ Research
 
 ### [Design For Impact](work/thesis/design-for-impact.qmd)
 
-A model that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.
+A tool that helps early-career statisticians and data scientists maximize and communicate the impact of their consulting engagements.
 ::::
 
 :::: work-card
@@ -53,7 +53,7 @@ An AI-powered operations tool to help a fictitious nonprofit streamline operatio
 
 :::: work-card
 ::: card-kicker
-Community Engagement
+Leadership
 :::
 
 ### [Nonprofit M&A](work/leadership/maritime-integration.qmd)

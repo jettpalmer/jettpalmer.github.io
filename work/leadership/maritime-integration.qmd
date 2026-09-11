@@ -1,7 +1,7 @@
 ---
 title: "Nonprofit M&A"
 description: "Leadership project developing governance recommendations for an eight-figure nonprofit integration in California higher education."
-categories: [Community Engagement, Leadership, Governance]
+categories: [Leadership, Governance]
 date: "2026"
 ---
 
