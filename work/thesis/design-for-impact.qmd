@@ -37,6 +37,13 @@ The project combines framework development, applied research design, and mixed m
 ## Deliverables
 
 ::: deliverable-card
+**Master's Thesis**\
+The complete pre-defense thesis, *Design For Impact: The Statistical Collaborator's Workflow*.
+
+<a href="../../assets/documents/design-for-impact-final-pre-defense.pdf" class="btn btn-primary" download>Download Thesis (PDF)</a>
+:::
+
+::: deliverable-card
 **Thesis Website**\
 A public-facing website introducing the Design For Impact Tool, the motivation behind the project, and the research process supporting the model.
 
